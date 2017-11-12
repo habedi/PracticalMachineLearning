@@ -1,0 +1,177 @@
+{
+  "paragraphs": [
+    {
+      "text": "# A LITTLE BIT OF HISTORY\n\n- ***Ancient Era***: Data was stored as a simple file(or a collection of files)\n- ***1960s***: Primitive databases come to existence(e.g. Files stored in folders indicating a category)\n- ***1970s***: Relational Data Model and Relational Databases emereged!\n- ***1980s***: RDMS took the world, Data Analytics invented, Complex Data Models!\n- ***1990s***: Data Warehousing, Knowledge Discovery in Databases, Data Mining!\n- ***2000s***: World after internet, Web Data and technologies!, Data Science!, Big Data!\n- ***2010s***: NoSQL, Hadoop, Scalable Systems, Cloud Computing!\n- ***Now***: Deep Learning, Strong AI, Singularity is Knigh!",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 7:57:27 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eA LITTLE BIT OF HISTORY\u003c/h1\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eAncient Era\u003c/em\u003e\u003c/strong\u003e: Data was stored as a simple file(or a collection of files)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e1960s\u003c/em\u003e\u003c/strong\u003e: Primitive databases come to existence(e.g. Files stored in folders indicating a category)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e1970s\u003c/em\u003e\u003c/strong\u003e: Relational Data Model and Relational Databases emereged!\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e1980s\u003c/em\u003e\u003c/strong\u003e: RDMS took the world, Data Analytics invented, Complex Data Models!\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e1990s\u003c/em\u003e\u003c/strong\u003e: Data Warehousing, Knowledge Discovery in Databases, Data Mining!\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e2000s\u003c/em\u003e\u003c/strong\u003e: World after internet, Web Data and technologies!, Data Science!, Big Data!\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003e2010s\u003c/em\u003e\u003c/strong\u003e: NoSQL, Hadoop, Scalable Systems, Cloud Computing!\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eNow\u003c/em\u003e\u003c/strong\u003e: Deep Learning, Strong AI, Singularity is Knigh!\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1509030796375_146532326",
+      "id": "20171026-184316_2022021619",
+      "dateCreated": "Oct 26, 2017 6:43:16 PM",
+      "dateStarted": "Oct 26, 2017 7:57:15 PM",
+      "dateFinished": "Oct 26, 2017 7:57:15 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# WHAT DATA MINING IS ALL ABOUT?\n\n***Let\u0027s define DM just by mentioning a few things people say is DM instead of what actually it may be!:***  \n\n- Data mining is the computing process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems (Source: Wikipedia)\n- The extraction of hidden predictive information\n- Transforming data and information to knowledge\n- Finding patterns in the data\n- An inter-diciplinary field sub-field of computer science\n- A process involving Pre-processing, Data Mining, and Results Validation!:0)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 7:57:53 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eWHAT DATA MINING IS ALL ABOUT?\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eLet\u0026rsquo;s define DM just by mentioning a few things people say is DM instead of what actually it may be!:\u003c/em\u003e\u003c/strong\u003e \u003c/p\u003e\n\u003cul\u003e\n  \u003cli\u003eData mining is the computing process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems (Source: Wikipedia)\u003c/li\u003e\n  \u003cli\u003eThe extraction of hidden predictive information\u003c/li\u003e\n  \u003cli\u003eTransforming data and information to knowledge\u003c/li\u003e\n  \u003cli\u003eFinding patterns in the data\u003c/li\u003e\n  \u003cli\u003eAn inter-diciplinary field sub-field of computer science\u003c/li\u003e\n  \u003cli\u003eA process involving Pre-processing, Data Mining, and Results Validation!:0)\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1509033513584_-400533591",
+      "id": "20171026-192833_1140207384",
+      "dateCreated": "Oct 26, 2017 7:28:33 PM",
+      "dateStarted": "Oct 26, 2017 7:57:41 PM",
+      "dateFinished": "Oct 26, 2017 7:57:41 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# PYRAMID OF DATA HIERARCHIES\n\n\n![Data Pyramid](http://localhost:8088/images/DIKW_Pyramid.svg.png)\n",
+      "user": "anonymous",
+      "dateUpdated": "Nov 10, 2017 9:27:17 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003ePYRAMID OF DATA HIERARCHIES\u003c/h1\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/DIKW_Pyramid.svg.png\" alt\u003d\"Data Pyramid\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1509034862964_-1837827954",
+      "id": "20171026-195102_1324326339",
+      "dateCreated": "Oct 26, 2017 7:51:02 PM",
+      "dateStarted": "Nov 10, 2017 9:27:17 PM",
+      "dateFinished": "Nov 10, 2017 9:27:20 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# A FEW USEFUL TERMS\n\n- ***Anomaly Detection***: The identification of unusual data records, that might be interesting or data errors that require further investigation.\n- ***Association Rule Mining***: Searches for relationships between variables. For example, a supermarket might gather data on customer purchasing habits. Using association rule learning, the supermarket can determine which products are frequently bought together and use this information for marketing purposes.\n- ***Clustering***: Is the task of discovering groups and structures in the data that are in some way or another \"similar\", without using known structures in the data.\n- ***Classification***: Is the task of generalizing known structure to apply to new data.\n- ***Regression***: Attempts to find a function which models the data with the least error that is, for estimating the relationships among data or datasets.\n- ***Summarization***: Providing a more compact representation of the data set, including visualization and report generation.\n",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:02:52 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eA FEW USEFUL TERMS\u003c/h1\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eAnomaly Detection\u003c/em\u003e\u003c/strong\u003e: The identification of unusual data records, that might be interesting or data errors that require further investigation.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eAssociation Rule Mining\u003c/em\u003e\u003c/strong\u003e: Searches for relationships between variables. For example, a supermarket might gather data on customer purchasing habits. Using association rule learning, the supermarket can determine which products are frequently bought together and use this information for marketing purposes.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eClustering\u003c/em\u003e\u003c/strong\u003e: Is the task of discovering groups and structures in the data that are in some way or another \u0026ldquo;similar\u0026rdquo;, without using known structures in the data.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eClassification\u003c/em\u003e\u003c/strong\u003e: Is the task of generalizing known structure to apply to new data.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eRegression\u003c/em\u003e\u003c/strong\u003e: Attempts to find a function which models the data with the least error that is, for estimating the relationships among data or datasets.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eSummarization\u003c/em\u003e\u003c/strong\u003e: Providing a more compact representation of the data set, including visualization and report generation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1509030858758_-783497711",
+      "id": "20171026-184418_955171334",
+      "dateCreated": "Oct 26, 2017 6:44:18 PM",
+      "dateStarted": "Oct 26, 2017 8:02:40 PM",
+      "dateFinished": "Oct 26, 2017 8:02:40 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1509033272073_-640938712",
+      "id": "20171026-192432_2003266862",
+      "dateCreated": "Oct 26, 2017 7:24:32 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "DDMC/Day1/3",
+  "id": "2CXP18SAK",
+  "angularObjects": {
+    "2CWSA5KGM:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}

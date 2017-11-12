@@ -1,0 +1,356 @@
+{
+  "paragraphs": [
+    {
+      "text": "# INSTALLING PYTHON\n\n***Go to Python.org and download and install the latest version of Python 3.x; If You are using macOS or a Gnu/Linux distro there is a very good chance that Python 3.x is already insatlled.***\n\n![Python](http://localhost:8088/images/download_python3.png)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:05:47 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 71.2333,
+              "optionOpen": false
+            }
+          }
+        },
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eINSTALLING PYTHON\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eGo to Python.org and download and install the latest version of Python 3.x; If You are using macOS or a Gnu/Linux distro there is a very good chance that Python 3.x is already insatlled.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/download_python3.png\" alt\u003d\"Python\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508558358042_313066481",
+      "id": "20171021-072918_2107794604",
+      "dateCreated": "Oct 21, 2017 7:29:18 AM",
+      "dateStarted": "Oct 26, 2017 8:05:47 PM",
+      "dateFinished": "Oct 26, 2017 8:05:47 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# STARTING REPL\n\n***You can start Python REPL by typing***\n\n```Bash\npython3\n```\n\n***in the Windows Cmd or Unix Shell.***\n\n\n![Python REPL](http://localhost:8088/images/repl.png)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:06:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eSTARTING REPL\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eYou can start Python REPL by typing\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003epython3\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003ein the Windows Cmd or Unix Shell.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/repl.png\" alt\u003d\"Python REPL\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508560083935_-459289315",
+      "id": "20171021-075803_1399258569",
+      "dateCreated": "Oct 21, 2017 7:58:03 AM",
+      "dateStarted": "Oct 26, 2017 8:06:02 PM",
+      "dateFinished": "Oct 26, 2017 8:06:02 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# STARTING IDLE\n\n![IDLE3](http://localhost:8088/images/idle3.png)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 21, 2017 8:15:27 AM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorHide": true,
+        "tableHide": false,
+        "editorMode": "ace/mode/markdown"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eSTARTING IDLE\u003c/h1\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/idle3.png\" alt\u003d\"IDLE3\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508558370605_-1185530485",
+      "id": "20171021-072930_736880531",
+      "dateCreated": "Oct 21, 2017 7:29:30 AM",
+      "dateStarted": "Oct 21, 2017 8:15:27 AM",
+      "dateFinished": "Oct 21, 2017 8:15:27 AM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# OTHER WORK ENVIRONMENTS FOR PYTHON\n\n* ***Spyder*** (https://pythonhosted.org/spyder/)\n* ***Jupyter*** (http://jupyter.org)\n* ***Anaconda*** (https://www.anaconda.com/download/)\n* ***PyCharm*** (https://www.jetbrains.com/pycharm/download/)\n* ***GNU Emacs*** (https://www.gnu.org/software/emacs/)\n* ***Others*** (https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)\n* ***Apache Zepplin*** (https://zeppelin.apache.org)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:09:35 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eOTHER WORK ENVIRONMENTS FOR PYTHON\u003c/h1\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eSpyder\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://pythonhosted.org/spyder/\"\u003ehttps://pythonhosted.org/spyder/\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eJupyter\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"http://jupyter.org\"\u003ehttp://jupyter.org\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eAnaconda\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://www.anaconda.com/download/\"\u003ehttps://www.anaconda.com/download/\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003ePyCharm\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://www.jetbrains.com/pycharm/download/\"\u003ehttps://www.jetbrains.com/pycharm/download/\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eGNU Emacs\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://www.gnu.org/software/emacs/\"\u003ehttps://www.gnu.org/software/emacs/\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eOthers\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://wiki.python.org/moin/IntegratedDevelopmentEnvironments\"\u003ehttps://wiki.python.org/moin/IntegratedDevelopmentEnvironments\u003c/a\u003e)\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003e\u003cem\u003eApache Zepplin\u003c/em\u003e\u003c/strong\u003e (\u003ca href\u003d\"https://zeppelin.apache.org\"\u003ehttps://zeppelin.apache.org\u003c/a\u003e)\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508559218830_967553888",
+      "id": "20171021-074338_1218520427",
+      "dateCreated": "Oct 21, 2017 7:43:38 AM",
+      "dateStarted": "Oct 26, 2017 8:09:35 PM",
+      "dateFinished": "Oct 26, 2017 8:09:35 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# SET UP A PYTHON VIRTUAL ENVIRONMENT!\n\n***In many cases you need to have more than one version of Python installed(e.g. Python 3.4 besides Python 3.6); In these situations you can set up a Python virtual environment or virtualenv to install a complete Python a Python environment localy on your computer without breaking anything.***\n\n***To create a python virtual environment run this command inside Cmd or Shell.***\n\n```Bash\n\nvirtualenv -p python3 VENV # VENV is the virtual environment\u0027s directory\n\n```\n\n***Run this command inside the directory that you have created the virtual environment to activate it.***\n\n\n```Bash\n# POSIX VERSION\nsource VENV/bin/activate\n```\n\n```Bash\n# WINDOWS VERSION\n{PATH TO}ENV\\Scripts\\activate\n```\n\n***To deactivate the virtual environment use following command:***\n\n```Bash\n# POSIX AND WINDOWS VERSION ARE THE SAME!\ndeactivate\n```\n\n![Python Virtual Environment](http://localhost:8088/images/virtualenv.png)\n",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:11:30 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eSET UP A PYTHON VIRTUAL ENVIRONMENT!\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eIn many cases you need to have more than one version of Python installed(e.g. Python 3.4 besides Python 3.6); In these situations you can set up a Python virtual environment or virtualenv to install a complete Python a Python environment localy on your computer without breaking anything.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eTo create a python virtual environment run this command inside Cmd or Shell.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003e\u003cbr/\u003evirtualenv -p python3 VENV # VENV is the virtual environment\u0026#39;s directory\n\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eRun this command inside the directory that you have created the virtual environment to activate it.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003e# POSIX VERSION\nsource VENV/bin/activate\n\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003e# WINDOWS VERSION\n{PATH TO}ENV\\Scripts\\activate\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eTo deactivate the virtual environment use following command:\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003e# POSIX AND WINDOWS VERSION ARE THE SAME!\ndeactivate\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/virtualenv.png\" alt\u003d\"Python Virtual Environment\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508562139040_-931983201",
+      "id": "20171021-083219_437269470",
+      "dateCreated": "Oct 21, 2017 8:32:19 AM",
+      "dateStarted": "Oct 26, 2017 8:11:30 PM",
+      "dateFinished": "Oct 26, 2017 8:11:31 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# EASY_INSTALL \u0026 PIP\n\n***One of main powers of Python programming language is that it comes with batteries included. You can install packages easily either by \u0027easy_install\u0027 or \u0027pip\u0027 tools.\neasy_insatll is pre-bundled with Python as a helper script/command. You need to install pip separately.***\n\n***For example to install pip as a package you can use this command:***\n\n```Bash\neasy_install -U pip\n```\n\n***In general I suggest you use pip, It\u0027s more advanced and high-level than easy_install.***",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:12:00 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eEASY_INSTALL \u0026amp; PIP\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eOne of main powers of Python programming language is that it comes with batteries included. You can install packages easily either by \u0026lsquo;easy_install\u0026rsquo; or \u0026lsquo;pip\u0026rsquo; tools.\u003cbr/\u003eeasy_insatll is pre-bundled with Python as a helper script/command. You need to install pip separately.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eFor example to install pip as a package you can use this command:\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003eeasy_install -U pip\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eIn general I suggest you use pip, It\u0026rsquo;s more advanced and high-level than easy_install.\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508560757275_-481022432",
+      "id": "20171021-080917_1025272544",
+      "dateCreated": "Oct 21, 2017 8:09:17 AM",
+      "dateStarted": "Oct 26, 2017 8:12:00 PM",
+      "dateFinished": "Oct 26, 2017 8:12:00 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# INSTALLING THE PACKAGES WE NEED IN THIS COURSE USING PIP\n\n***Create a text file and put each package name(and its version number preceded with a \u0027\u003d\u003d\u0027) on a line separated by newline character(\u0027\\n\u0027); Usually this file is called \u0027requirements.txt\u0027:***\n\n![Python](http://localhost:8088/images/requirements.txt.png)\n\n\n```Bash\npip install -r requirements.txt\n```",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:12:23 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eINSTALLING THE PACKAGES WE NEED IN THIS COURSE USING PIP\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eCreate a text file and put each package name(and its version number preceded with a \u0026lsquo;\u003d\u003d\u0026rsquo;) on a line separated by newline character(\u0026lsquo;\\n\u0026rsquo;); Usually this file is called \u0026lsquo;requirements.txt\u0026rsquo;:\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/requirements.txt.png\" alt\u003d\"Python\" /\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003epip install -r requirements.txt\n\u003c/code\u003e\u003c/pre\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508561710506_-1802715935",
+      "id": "20171021-082510_288620125",
+      "dateCreated": "Oct 21, 2017 8:25:10 AM",
+      "dateStarted": "Oct 26, 2017 8:12:23 PM",
+      "dateFinished": "Oct 26, 2017 8:12:23 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# USING A PYTHON DATA ANALYSIS SUITE WITH A GUI!\n\n***Orange3(http://orange.biolab.si/) is a nice opensource dataflow programming environment and library for working with data(needs Python 3.5 and above to work). You can install it using this command:***\n\n\n```Bash\npip3 install -U orange3\n```\n\n***Alternatively you could clone its source tree from Github.com and install it manually from https://github.com/biolab/orange3 .***\n\n***To start using Orange3 run the following command in your terminal emulator or cmd:***\n\n```Bash\norange-canvas\n# or this command\npython3 -m Orange.canvas\n```\n\n![Orange3](http://localhost:8088/images/Orange3.png)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 26, 2017 8:12:57 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorHide": true,
+        "editorMode": "ace/mode/markdown",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eUSING A PYTHON DATA ANALYSIS SUITE WITH A GUI!\u003c/h1\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eOrange3(\u003ca href\u003d\"http://orange.biolab.si/\"\u003ehttp://orange.biolab.si/\u003c/a\u003e) is a nice opensource dataflow programming environment and library for working with data(needs Python 3.5 and above to work). You can install it using this command:\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003epip3 install -U orange3\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eAlternatively you could clone its source tree from Github.com and install it manually from \u003ca href\u003d\"https://github.com/biolab/orange3\"\u003ehttps://github.com/biolab/orange3\u003c/a\u003e .\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eTo start using Orange3 run the following command in your terminal emulator or cmd:\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cpre\u003e\u003ccode class\u003d\"Bash\"\u003eorange-canvas\n# or this command\npython3 -m Orange.canvas\n\u003c/code\u003e\u003c/pre\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/Orange3.png\" alt\u003d\"Orange3\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1508607272019_-1672923526",
+      "id": "20171021-210432_934587396",
+      "dateCreated": "Oct 21, 2017 9:04:32 PM",
+      "dateStarted": "Oct 26, 2017 8:12:57 PM",
+      "dateFinished": "Oct 26, 2017 8:12:57 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1508608734999_-1359824933",
+      "id": "20171021-212854_317603791",
+      "dateCreated": "Oct 21, 2017 9:28:54 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "DDMC/Day1/1",
+  "id": "2CV7TWMU6",
+  "angularObjects": {
+    "2CWVTS38W:shared_process": [],
+    "2CTQ49QZN:shared_process": [],
+    "2CWP5R143:shared_process": [],
+    "2CVVPAB79:shared_process": [],
+    "2CWC3MX6B:shared_process": [],
+    "2CX4HUJXH:shared_process": [],
+    "2CUPWKHXS:shared_process": [],
+    "2CWRHSTVT:shared_process": [],
+    "2CVH6NS4W:shared_process": [],
+    "2CWZ4K2RZ:shared_process": [],
+    "2CVUH8BKD:shared_process": [],
+    "2CWSA5KGM:shared_process": [],
+    "2CUXE8CHV:shared_process": [],
+    "2CX6EDB78:shared_process": [],
+    "2CV7YURBA:shared_process": [],
+    "2CV6SQB73:shared_process": [],
+    "2CUVUW4JY:shared_process": [],
+    "2CUAXT3B4:shared_process": [],
+    "2CVUVV6AR:shared_process": [],
+    "2CU3773PC:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}

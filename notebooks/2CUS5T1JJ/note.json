@@ -1,0 +1,423 @@
+{
+  "paragraphs": [
+    {
+      "text": "# Load a few modules\nimport pandas\nimport numpy\nimport os\nimport glob",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 10:26:50 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1507835108677_-1570867184",
+      "id": "20171012-223508_1946225389",
+      "dateCreated": "Oct 12, 2017 10:35:08 PM",
+      "dateStarted": "Oct 13, 2017 10:26:50 PM",
+      "dateFinished": "Oct 13, 2017 10:26:50 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s define a helper procedure\ndef get_files(dataset_dir, extension\u003d\"*.csv\"):\n    full_path \u003d os.path.join(dataset_dir, extension)\n    return glob.glob(full_path)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:41:49 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1507835251375_1516756419",
+      "id": "20171012-223731_1890781915",
+      "dateCreated": "Oct 12, 2017 10:37:31 PM",
+      "dateStarted": "Oct 13, 2017 10:26:55 PM",
+      "dateFinished": "Oct 13, 2017 10:26:55 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s Load the data first!\ndataset_dir \u003d \"/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/\"\ndataset_files \u003d get_files(dataset_dir, extension\u003d\"*.csv\")\nfor item in dataset_files:\n    print(item)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 10:27:30 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_1.csv\n/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_2.csv\n/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_3.csv\n/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_4.csv\n/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_5.csv\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507870345151_-1452922313",
+      "id": "20171013-082225_403574213",
+      "dateCreated": "Oct 13, 2017 8:22:25 AM",
+      "dateStarted": "Oct 13, 2017 10:27:30 PM",
+      "dateFinished": "Oct 13, 2017 10:27:30 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s have a look at the first month data!\nfilename \u003d dataset_files[4]\nmonth_data \u003d pandas.read_csv(filename)\nprint(filename)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:22 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "/media/raziel/Vault/DATA MINING CONTEST/V2/data_v2/month_5.csv\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507870406071_-1230693980",
+      "id": "20171013-082326_1652378228",
+      "dateCreated": "Oct 13, 2017 8:23:26 AM",
+      "dateStarted": "Oct 13, 2017 11:35:22 PM",
+      "dateFinished": "Oct 13, 2017 11:35:29 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Ok, A typical month has these data associated with it!\nmonth_data.columns",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:23 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Index([\u0027customerId\u0027, \u0027accountId\u0027, \u0027transactionDate\u0027, \u0027transactionTime\u0027,\n       \u0027terminalId\u0027, \u0027transactionAmount\u0027, \u0027transactionRemain\u0027, \u0027state\u0027,\n       \u0027transactionCode\u0027],\n      dtype\u003d\u0027object\u0027)\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507870748610_1718712823",
+      "id": "20171013-082908_699432417",
+      "dateCreated": "Oct 13, 2017 8:29:08 AM",
+      "dateStarted": "Oct 13, 2017 11:35:23 PM",
+      "dateFinished": "Oct 13, 2017 11:35:29 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s have a peek!\nheaders \u003d [\u0027customerId\u0027, \u0027transactionAmount\u0027, \u0027transactionRemain\u0027]\nmonth_data.iloc[0:3][headers]\n# Oh, noo!",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:25 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "  customerId transactionAmount transactionRemain\n0     guke_0     -1080.000 CN¥     17372.254 CN¥\n1     guke_0      -300.000 CN¥     18452.254 CN¥\n2     guke_0      -315.000 CN¥     18752.254 CN¥\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507870766254_604110584",
+      "id": "20171013-082926_961123554",
+      "dateCreated": "Oct 13, 2017 8:29:26 AM",
+      "dateStarted": "Oct 13, 2017 11:35:29 PM",
+      "dateFinished": "Oct 13, 2017 11:35:29 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s convert the \u0027transactionRemain\u0027 to float!\nmonth_data[\u0027NormalisedtransactionRemain\u0027] \u003d\\\nmonth_data[\u0027transactionRemain\u0027].apply(lambda x: numpy.float(x.replace(\"CN¥\", \"\")))\n\n# Let\u0027s have a peek again! \nheaders \u003d [\u0027customerId\u0027, \u0027NormalisedtransactionRemain\u0027]\nmonth_data.iloc[0:3][headers]",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:26 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "  customerId  NormalisedtransactionRemain\n0     guke_0                    17372.254\n1     guke_0                    18452.254\n2     guke_0                    18752.254\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507871036060_-1223262802",
+      "id": "20171013-083356_1605958763",
+      "dateCreated": "Oct 13, 2017 8:33:56 AM",
+      "dateStarted": "Oct 13, 2017 11:35:29 PM",
+      "dateFinished": "Oct 13, 2017 11:35:31 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s calculate a few targets for each customer\n\n# Mean customer balance\ncustomer_mean \u003d month_data[headers].groupby([\u0027customerId\u0027], as_index\u003dFalse).mean()\ncustomer_mean.rename(columns\u003d{\"NormalisedtransactionRemain\": \"mean\"}, inplace\u003dTrue)\n\n# Standard deviation for a customer\u0027s account balance\ncustomer_std \u003d month_data[headers].groupby([\u0027customerId\u0027], as_index\u003dFalse)\ncustomerIds \u003d []\nStds \u003d []\nfor customerId, group in customer_std:\n    customerIds.append(customerId)\n    #print(customerId)\n    Stds.append(group[\u0027NormalisedtransactionRemain\u0027].std())\ncustomer_std \u003d pandas.DataFrame({\"customerId\": customerIds, \"std\": Stds})\n\n# Total number of a customer\u0027s transactions in a month\ncustomer_count \u003d month_data[headers].groupby([\u0027customerId\u0027], as_index\u003dFalse).count()\ncustomer_count.rename(columns\u003d{\"NormalisedtransactionRemain\": \"count\"}, inplace\u003dTrue)\n\ntargets \u003d pandas.concat([customer_std[[\u0027customerId\u0027, \u0027std\u0027]],\\\ncustomer_mean[\"mean\"], customer_count[\u0027count\u0027], ], axis\u003d1)\ntargets.iloc[0:5]",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:29 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "  customerId           std          mean  count\n0     guke_0  16022.391417  17378.117283    145\n1     guke_1  99438.273923  69119.761347     95\n2    guke_10   1352.431740   1104.954800      5\n3   guke_100  24067.338776  13561.771710    107\n4  guke_1000   4740.605003   4154.029962     52\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507872562295_-1736173601",
+      "id": "20171013-085922_1507865014",
+      "dateCreated": "Oct 13, 2017 8:59:22 AM",
+      "dateStarted": "Oct 13, 2017 11:35:29 PM",
+      "dateFinished": "Oct 13, 2017 11:35:50 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Averaging per day(30 day month)\nnormalised_targets \u003d targets.copy()\nnormalised_targets[\u0027mean\u0027] \u003d targets[\u0027mean\u0027]/30\nnormalised_targets[\u0027std\u0027] \u003d targets[\u0027std\u0027]/30\nnormalised_targets.iloc[0:5]",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:32 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "  customerId          std         mean  count\n0     guke_0   534.079714   579.270576    145\n1     guke_1  3314.609131  2303.992045     95\n2    guke_10    45.081058    36.831827      5\n3   guke_100   802.244626   452.059057    107\n4  guke_1000   158.020167   138.467665     52\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1507924194499_-204868789",
+      "id": "20171013-231954_1052659015",
+      "dateCreated": "Oct 13, 2017 11:19:54 PM",
+      "dateStarted": "Oct 13, 2017 11:35:32 PM",
+      "dateFinished": "Oct 13, 2017 11:35:50 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# dumping the resulting df\nnormalised_targets.to_csv(\"/media/raziel/Vault/DATA MINING CONTEST/V2/\"+\"month_5.csv\", index\u003dFalse)",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:35:50 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1507924633024_1990768945",
+      "id": "20171013-232713_300507637",
+      "dateCreated": "Oct 13, 2017 11:27:13 PM",
+      "dateStarted": "Oct 13, 2017 11:35:50 PM",
+      "dateFinished": "Oct 13, 2017 11:35:51 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s draw!\nfrom bokeh.io import show, output_file\nfrom bokeh.plotting import figure\nfrom bokeh.models import ColumnDataSource\n\noutput_file(\"/tmp/targets_month1.png\")\n\nsource \u003d ColumnDataSource(normalised_targets.iloc[0:10])\n\np \u003d figure()\np.line(x\u003d\u0027std\u0027, y\u003d\u0027mean\u0027, source\u003dsource)\n       \nshow(p)\n",
+      "user": "anonymous",
+      "dateUpdated": "Oct 13, 2017 11:32:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1507872866536_8538423",
+      "id": "20171013-090426_1879463282",
+      "dateCreated": "Oct 13, 2017 9:04:26 AM",
+      "dateStarted": "Oct 13, 2017 11:24:34 PM",
+      "dateFinished": "Oct 13, 2017 11:24:35 PM",
+      "status": "ABORT",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1507875011099_-127813761",
+      "id": "20171013-094011_1381788933",
+      "dateCreated": "Oct 13, 2017 9:40:11 AM",
+      "status": "READY",
+      "errorMessage": "",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "ADMC/Day1",
+  "id": "2CUS5T1JJ",
+  "angularObjects": {
+    "2CWVTS38W:shared_process": [],
+    "2CTQ49QZN:shared_process": [],
+    "2CWP5R143:shared_process": [],
+    "2CVVPAB79:shared_process": [],
+    "2CWC3MX6B:shared_process": [],
+    "2CX4HUJXH:shared_process": [],
+    "2CUPWKHXS:shared_process": [],
+    "2CWRHSTVT:shared_process": [],
+    "2CVH6NS4W:shared_process": [],
+    "2CWZ4K2RZ:shared_process": [],
+    "2CVUH8BKD:shared_process": [],
+    "2CWSA5KGM:shared_process": [],
+    "2CUXE8CHV:shared_process": [],
+    "2CX6EDB78:shared_process": [],
+    "2CV7YURBA:shared_process": [],
+    "2CV6SQB73:shared_process": [],
+    "2CUVUW4JY:shared_process": [],
+    "2CUAXT3B4:shared_process": [],
+    "2CVUVV6AR:shared_process": [],
+    "2CU3773PC:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
