@@ -1,0 +1,711 @@
+{
+  "paragraphs": [
+    {
+      "text": "%md\n\n# DATA PREPRATION WITH PYTHON\n\n\u003cdiv align\u003d\"center\"\u003e \n\u003cimg src\u003d\"http://localhost:8088/images/dapy.jpg\" width\u003d\"50%\" height\u003d\"100%\"\u003e\n\u003c/div\u003e",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:56 PM",
+      "config": {
+        "colWidth": 6.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eDATA PREPRATION WITH PYTHON\u003c/h1\u003e\n\u003cdiv align\u003d\"center\"\u003e \n\u003cimg src\u003d\"http://localhost:8088/images/dapy.jpg\" width\u003d\"50%\" height\u003d\"100%\"\u003e\n\u003c/div\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511455824543_1788359759",
+      "id": "20171123-202024_410139144",
+      "dateCreated": "Nov 23, 2017 8:20:24 PM",
+      "dateStarted": "Nov 24, 2017 4:51:56 PM",
+      "dateFinished": "Nov 24, 2017 4:51:56 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%md\n\n# CASE STUDY: BITCOIN HISTORICAL DATA\n\n\u003cdiv align\u003d\"center\"\u003e \n\u003cimg src\u003d\"http://localhost:8088/images/BITCOIN.png\" width\u003d\"50%\" height\u003d\"50%\"\u003e\n\u003c/div\u003e",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:32 PM",
+      "config": {
+        "colWidth": 6.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eCASE STUDY: BITCOIN HISTORICAL DATA\u003c/h1\u003e\n\u003cdiv align\u003d\"center\"\u003e \n\u003cimg src\u003d\"http://localhost:8088/images/BITCOIN.png\" width\u003d\"50%\" height\u003d\"50%\"\u003e\n\u003c/div\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511451593433_-1242728705",
+      "id": "20171123-190953_1867593191",
+      "dateCreated": "Nov 23, 2017 7:09:53 PM",
+      "dateStarted": "Nov 24, 2017 4:51:34 PM",
+      "dateFinished": "Nov 24, 2017 4:51:37 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# load a few modules\nimport pandas\nimport numpy\nimport os\nimport glob\n\n# this limit maximum numbers of rows\npandas.set_option(\u0027display.max_rows\u0027, 10)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:59 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python",
+        "editorHide": false,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1511450700375_164455674",
+      "id": "20171123-185500_1172380280",
+      "dateCreated": "Nov 23, 2017 6:55:00 PM",
+      "dateStarted": "Nov 24, 2017 4:52:41 PM",
+      "dateFinished": "Nov 24, 2017 4:52:43 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "def get_files(dataset_dir, extension\u003d\"*.csv\"):\n    \"\"\"Scan a directory and return the list of file with a specific extention\n    in that directory.\"\"\"\n    full_path \u003d os.path.join(dataset_dir, extension)\n    return glob.glob(full_path)\n    \nhelp(get_files)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:03 PM",
+      "config": {
+        "colWidth": 6.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Help on function get_files:\n\nget_files(dataset_dir, extension\u003d\u0027*.csv\u0027)\n    Scan a directory and return the list of file with a specific extention\n    in that directory.\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511452263215_-1232345942",
+      "id": "20171123-192103_1973554931",
+      "dateCreated": "Nov 23, 2017 7:21:03 PM",
+      "dateStarted": "Nov 24, 2017 4:52:44 PM",
+      "dateFinished": "Nov 24, 2017 4:52:44 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "def get_filename(file_path, dir_separator\u003d\"/\"):\n    \"\"\"Given a absolute path of a file return its actual filename.\"\"\"\n    splited_path \u003d file_path.split(dir_separator)\n    return splited_path[-1]\n\nhelp(get_filename)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:01 PM",
+      "config": {
+        "colWidth": 6.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Help on function get_filename:\n\nget_filename(file_path, dir_separator\u003d\u0027/\u0027)\n    Given a absolute path of a file return its actual filename.\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511452577498_-1369120625",
+      "id": "20171123-192617_1561201859",
+      "dateCreated": "Nov 23, 2017 7:26:17 PM",
+      "dateStarted": "Nov 24, 2017 4:52:43 PM",
+      "dateFinished": "Nov 24, 2017 4:52:43 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# Let\u0027s Load the data first!\ndataset_dir \u003d \"/home/raziel/BIN/zeppelin-0.7.3-bin-all/\"+\\\n\"http-server/static/data/bitcoin-historical-data/\"\n\ndataset_files \u003d get_files(dataset_dir, extension\u003d\"*.csv\")\ndata_files \u003d dict()\n\nfor item in dataset_files:\n    data_files.update({get_filename(item): item})\n    print(get_filename(item))",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:05 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "coincheckJPY_1-min_data_2014-10-31_to_2017-10-20.csv\nbtcnCNY_1-min_data_2012-01-01_to_2017-05-31.csv\nkrakenUSD_1-min_data_2014-01-07_to_2017-05-31.csv\nbtceUSD_1-min_data_2012-01-01_to_2017-05-31.csv\nkrakenEUR_1-min_data_2014-01-08_to_2017-05-31.csv\nbitstampUSD_1-min_data_2012-01-01_to_2017-10-20.csv\ncoinbaseUSD_1-min_data_2014-12-01_to_2017-10-20.csv.csv\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511450763443_-774088100",
+      "id": "20171123-185603_19070776",
+      "dateCreated": "Nov 23, 2017 6:56:03 PM",
+      "dateStarted": "Nov 24, 2017 4:52:44 PM",
+      "dateFinished": "Nov 24, 2017 4:52:44 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "rows \u003d [k+\"\\t\"+v+\"\\n\" for k, v in data_files.items()]\nheader \u003d \"filename\\tabs_path\\n\"\ntable \u003d \"\".join(rows)\n\nprint(\"%table \"+header+table)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:07 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 300.0,
+              "optionOpen": false
+            },
+            "helium": {}
+          }
+        },
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "filename\tabs_path\ncoincheckJPY_1-min_data_2014-10-31_to_2017-10-20.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/coincheckJPY_1-min_data_2014-10-31_to_2017-10-20.csv\nbtcnCNY_1-min_data_2012-01-01_to_2017-05-31.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/btcnCNY_1-min_data_2012-01-01_to_2017-05-31.csv\nkrakenUSD_1-min_data_2014-01-07_to_2017-05-31.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/krakenUSD_1-min_data_2014-01-07_to_2017-05-31.csv\nbtceUSD_1-min_data_2012-01-01_to_2017-05-31.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/btceUSD_1-min_data_2012-01-01_to_2017-05-31.csv\nkrakenEUR_1-min_data_2014-01-08_to_2017-05-31.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/krakenEUR_1-min_data_2014-01-08_to_2017-05-31.csv\nbitstampUSD_1-min_data_2012-01-01_to_2017-10-20.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/bitstampUSD_1-min_data_2012-01-01_to_2017-10-20.csv\ncoinbaseUSD_1-min_data_2014-12-01_to_2017-10-20.csv.csv\t/home/raziel/BIN/zeppelin-0.7.3-bin-all/http-server/static/data/bitcoin-historical-data/coinbaseUSD_1-min_data_2014-12-01_to_2017-10-20.csv.csv\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511450839064_561683461",
+      "id": "20171123-185719_1413701073",
+      "dateCreated": "Nov 23, 2017 6:57:19 PM",
+      "dateStarted": "Nov 24, 2017 4:52:44 PM",
+      "dateFinished": "Nov 24, 2017 4:52:44 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# load one of csvs\nfile_path \u003d data_files[\"bitstampUSD_1-min_data_2012-01-01_to_2017-10-20.csv\"]\n\nbitcoin_data1_df \u003d pandas.read_csv(file_path)\n\n# let\u0027s peek inside!\nbitcoin_data1_df.iloc[0:5]",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:10 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "    Timestamp  Open  High   Low  Close  Volume_(BTC)  Volume_(Currency)  \\\n0  1325317920  4.39  4.39  4.39   4.39      0.455581                2.0   \n1  1325317980  4.39  4.39  4.39   4.39      0.455581                2.0   \n2  1325318040  4.39  4.39  4.39   4.39      0.455581                2.0   \n3  1325318100  4.39  4.39  4.39   4.39      0.455581                2.0   \n4  1325318160  4.39  4.39  4.39   4.39      0.455581                2.0   \n\n   Weighted_Price  \n0            4.39  \n1            4.39  \n2            4.39  \n3            4.39  \n4            4.39  \n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511455516494_813945681",
+      "id": "20171123-201516_968574522",
+      "dateCreated": "Nov 23, 2017 8:15:16 PM",
+      "dateStarted": "Nov 24, 2017 4:52:44 PM",
+      "dateFinished": "Nov 24, 2017 4:52:51 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "bitcoin_data1_df.shape\nbitcoin_data1_df.columns",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:12 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Index([\u0027Timestamp\u0027, \u0027Open\u0027, \u0027High\u0027, \u0027Low\u0027, \u0027Close\u0027, \u0027Volume_(BTC)\u0027,\n       \u0027Volume_(Currency)\u0027, \u0027Weighted_Price\u0027],\n      dtype\u003d\u0027object\u0027)\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511511968612_-71954239",
+      "id": "20171124-115608_655518680",
+      "dateCreated": "Nov 24, 2017 11:56:08 AM",
+      "dateStarted": "Nov 24, 2017 4:52:44 PM",
+      "dateFinished": "Nov 24, 2017 4:52:51 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# oh, no!, \u0027Timestamp\u0027 data is in Unix time format, let\u0027s convert it to datetime!\nbitcoin_data1_df[\u0027Timestamp.fixed\u0027] \u003d pandas.to_datetime(bitcoin_data1_df[\"Timestamp\"], unit\u003d\u0027s\u0027)\n\n# let\u0027s peek again!\nbitcoin_data1_df.iloc[0:5]",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:14 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "    Timestamp  Open  High   Low  Close  Volume_(BTC)  Volume_(Currency)  \\\n0  1325317920  4.39  4.39  4.39   4.39      0.455581                2.0   \n1  1325317980  4.39  4.39  4.39   4.39      0.455581                2.0   \n2  1325318040  4.39  4.39  4.39   4.39      0.455581                2.0   \n3  1325318100  4.39  4.39  4.39   4.39      0.455581                2.0   \n4  1325318160  4.39  4.39  4.39   4.39      0.455581                2.0   \n\n   Weighted_Price     Timestamp.fixed  \n0            4.39 2011-12-31 07:52:00  \n1            4.39 2011-12-31 07:53:00  \n2            4.39 2011-12-31 07:54:00  \n3            4.39 2011-12-31 07:55:00  \n4            4.39 2011-12-31 07:56:00  \n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511456921717_-1228095688",
+      "id": "20171123-203841_726996394",
+      "dateCreated": "Nov 23, 2017 8:38:41 PM",
+      "dateStarted": "Nov 24, 2017 4:52:52 PM",
+      "dateFinished": "Nov 24, 2017 4:52:52 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "bitcoin_data1_df[\u0027Timestamp.fixed\u0027].dt.date",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:17 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "0          2011-12-31\n1          2011-12-31\n2          2011-12-31\n3          2011-12-31\n4          2011-12-31\n              ...    \n3045852    2017-10-19\n3045853    2017-10-19\n3045854    2017-10-19\n3045855    2017-10-19\n3045856    2017-10-20\nName: Timestamp.fixed, Length: 3045857, dtype: object\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511512200548_-723998000",
+      "id": "20171124-120000_1027665157",
+      "dateCreated": "Nov 24, 2017 12:00:00 PM",
+      "dateStarted": "Nov 24, 2017 4:52:52 PM",
+      "dateFinished": "Nov 24, 2017 4:53:15 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# show me the descriptive stats\nsummary \u003d bitcoin_data1_df.describe()\n\n# let\u0027s name for index column of summary df\nsummary.index.name \u003d \u0027Descriptives\u0027\nsummary.reset_index(inplace\u003dTrue)\n\n# need to transpose summary before writing it to a tsv file\nsummary_copy \u003d summary.copy()\nsummary_copy.set_index(\u0027Descriptives\u0027, inplace\u003dTrue)\nsummary_copy \u003d summary_copy.transpose()\nsummary_copy.index.name \u003d \u0027Attributes\u0027\nsummary_copy.reset_index(inplace\u003dTrue)\n\n# let\u0027s write the modified summary to a tsv file\nsummary_copy.to_csv(\"/tmp/summary.csv\", index\u003dTrue, sep\u003d\"\\t\")\n\n# # show me the summary\nsummary",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:19 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "  Descriptives     Timestamp          Open          High           Low  \\\n0        count  3.045857e+06  3.045857e+06  3.045857e+06  3.045857e+06   \n1         mean  1.416880e+09  5.892415e+02  5.896265e+02  5.888079e+02   \n2          std  5.292375e+07  8.829786e+02  8.836372e+02  8.821788e+02   \n3          min  1.325318e+09  3.800000e+00  3.800000e+00  1.500000e+00   \n4          25%  1.371006e+09  1.013700e+02  1.015200e+02  1.011700e+02   \n5          50%  1.416694e+09  3.625000e+02  3.627500e+02  3.622200e+02   \n6          75%  1.462770e+09  6.319900e+02  6.322100e+02  6.316200e+02   \n7          max  1.508458e+09  5.846430e+03  5.846430e+03  5.839640e+03   \n\n          Close  Volume_(BTC)  Volume_(Currency)  Weighted_Price  \n0  3.045857e+06  3.045857e+06       3.045857e+06    3.045857e+06  \n1  5.892375e+02  1.112631e+01       5.522198e+03    5.892079e+02  \n2  8.829554e+02  3.638031e+01       2.490013e+04    8.828978e+02  \n3  1.500000e+00  0.000000e+00       0.000000e+00    3.800000e+00  \n4  1.014500e+02  4.224604e-01       6.206358e+01    1.013800e+02  \n5  3.625000e+02  2.002134e+00       3.194455e+02    3.624715e+02  \n6  6.319900e+02  8.658260e+00       2.111275e+03    6.319714e+02  \n7  5.844400e+03  5.853852e+03       4.339350e+06    5.845752e+03  \n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511458344094_437503082",
+      "id": "20171123-210224_278356064",
+      "dateCreated": "Nov 23, 2017 9:02:24 PM",
+      "dateStarted": "Nov 24, 2017 4:52:52 PM",
+      "dateFinished": "Nov 24, 2017 4:53:18 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh SUMMARY\u003d`cat /tmp/summary.csv` \u0026\u0026 echo \"%table $SUMMARY\"",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:52:22 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 300.0,
+              "optionOpen": true,
+              "setting": {
+                "scatterChart": {
+                  "yAxis": {
+                    "name": "min",
+                    "index": 5.0,
+                    "aggr": "sum"
+                  },
+                  "xAxis": {
+                    "name": "mean",
+                    "index": 3.0,
+                    "aggr": "sum"
+                  }
+                },
+                "pieChart": {}
+              },
+              "commonSetting": {},
+              "keys": [
+                {
+                  "name": "count",
+                  "index": 2.0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [
+                {
+                  "name": "Attributes",
+                  "index": 1.0,
+                  "aggr": "sum"
+                }
+              ],
+              "values": []
+            },
+            "helium": {}
+          }
+        },
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TABLE",
+            "data": "\tAttributes\tcount\tmean\tstd\tmin\t25%\t50%\t75%\tmax\n0\tTimestamp\t3045857.0\t1416879780.0063233\t52923752.24728989\t1325317920.0\t1371005760.0\t1416693600.0\t1462769760.0\t1508457600.0\n1\tOpen\t3045857.0\t589.2415244185814\t882.9786382996076\t3.8\t101.37\t362.5\t631.99\t5846.43\n2\tHigh\t3045857.0\t589.6265481247677\t883.6372000068336\t3.8\t101.52\t362.75\t632.21\t5846.43\n3\tLow\t3045857.0\t588.8078539964857\t882.1787687364158\t1.5\t101.17\t362.22\t631.62\t5839.64\n4\tClose\t3045857.0\t589.2374776330576\t882.9553893755791\t1.5\t101.45\t362.5\t631.99\t5844.4\n5\tVolume_(BTC)\t3045857.0\t11.126311366149745\t36.38031115047762\t0.0\t0.42246041\t2.00213425\t8.65826\t5853.8521659\n6\tVolume_(Currency)\t3045857.0\t5522.198352720345\t24900.131684278287\t0.0\t62.06358328100001\t319.44546021\t2111.2752337\t4339350.1712\n7\tWeighted_Price\t3045857.0\t589.2078794941815\t882.8977587247425\t3.8\t101.38\t362.47153753\t631.97135938\t5845.752398899999\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511458654120_21633849",
+      "id": "20171123-210734_909597810",
+      "dateCreated": "Nov 23, 2017 9:07:34 PM",
+      "dateStarted": "Nov 24, 2017 4:52:22 PM",
+      "dateFinished": "Nov 24, 2017 4:52:22 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "dates \u003d bitcoin_data1_df.loc[0:, \"Timestamp.fixed\"].dt.date\nweighted_price \u003d bitcoin_data1_df.loc[0:, \"Weighted_Price\"]\n\ntime_data \u003d pandas.concat([dates, weighted_price], axis\u003d\"columns\")\ntime_data \u003d time_data.rename(columns\u003d{\"Timestamp.fixed\": \"date\",\n                         \"Weighted_Price\": \"weighted_price\"}, inplace\u003dFalse)\n\nnew_time_data \u003d time_data.groupby(by\u003d[\"date\"]).mean().reset_index()\n\nx \u003d new_time_data[\"date\"].values\ny \u003d new_time_data[\"weighted_price\"].values",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:37 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1511461414045_1532022510",
+      "id": "20171123-215334_1673004884",
+      "dateCreated": "Nov 23, 2017 9:53:34 PM",
+      "dateStarted": "Nov 24, 2017 4:52:11 PM",
+      "dateFinished": "Nov 24, 2017 4:52:39 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# let\u0027s draw\nfrom bokeh.plotting import figure\nfrom bokeh.io import output_file, show",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:37 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1511466602131_440862521",
+      "id": "20171123-232002_548394743",
+      "dateCreated": "Nov 23, 2017 11:20:02 PM",
+      "dateStarted": "Nov 24, 2017 4:52:14 PM",
+      "dateFinished": "Nov 24, 2017 4:52:40 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "\noutput_file(\"/tmp/plot.html\")\np \u003d figure(plot_width\u003d600, plot_height\u003d600, x_axis_type\u003d\"datetime\")\np.line(x, y, color\u003d\u0027red\u0027, alpha\u003d0.5)\nshow(p)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:39 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1511465193813_144378771",
+      "id": "20171123-225633_603019291",
+      "dateCreated": "Nov 23, 2017 10:56:33 PM",
+      "dateStarted": "Nov 24, 2017 4:52:39 PM",
+      "dateFinished": "Nov 24, 2017 4:52:40 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "dates",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:39 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "0          2011-12-31\n1          2011-12-31\n2          2011-12-31\n3          2011-12-31\n4          2011-12-31\n              ...    \n3045852    2017-10-19\n3045853    2017-10-19\n3045854    2017-10-19\n3045855    2017-10-19\n3045856    2017-10-20\nName: Timestamp.fixed, Length: 3045857, dtype: object\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511466521569_1055936450",
+      "id": "20171123-231841_4465884",
+      "dateCreated": "Nov 23, 2017 11:18:41 PM",
+      "dateStarted": "Nov 24, 2017 4:52:40 PM",
+      "dateFinished": "Nov 24, 2017 4:52:40 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "bitcoin_data1_df.iloc[0:int(bitcoin_data1_df.shape[0]/20)].to_csv(\"/tmp/subset.csv\")",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 4:51:40 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "jobName": "paragraph_1511513091817_-217367421",
+      "id": "20171124-121451_588296690",
+      "dateCreated": "Nov 24, 2017 12:14:51 PM",
+      "dateStarted": "Nov 24, 2017 4:52:40 PM",
+      "dateFinished": "Nov 24, 2017 4:52:43 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "DDMC/Day1/5",
+  "id": "2CZ8FZ45D",
+  "angularObjects": {
+    "2CWVTS38W:shared_process": [],
+    "2CTQ49QZN:shared_process": [],
+    "2CWP5R143:shared_process": [],
+    "2CVVPAB79:shared_process": [],
+    "2CWC3MX6B:shared_process": [],
+    "2CX4HUJXH:shared_process": [],
+    "2CUPWKHXS:shared_process": [],
+    "2CWRHSTVT:shared_process": [],
+    "2CVH6NS4W:shared_process": [],
+    "2CWZ4K2RZ:shared_process": [],
+    "2CVUH8BKD:shared_process": [],
+    "2CWSA5KGM:shared_process": [],
+    "2CUXE8CHV:shared_process": [],
+    "2CX6EDB78:shared_process": [],
+    "2CV7YURBA:shared_process": [],
+    "2CV6SQB73:shared_process": [],
+    "2CUVUW4JY:shared_process": [],
+    "2CUAXT3B4:shared_process": [],
+    "2CVUVV6AR:shared_process": [],
+    "2CU3773PC:shared_process": []
+  },
+  "config": {
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {}
+}

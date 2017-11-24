@@ -1,0 +1,237 @@
+{
+  "paragraphs": [
+    {
+      "text": "# WHAT ARE THE COMMON ACTIVITIES FOR WORKING WITH DATA?\n\n* *Data aquisition and integration*\n* *Data pre-processing*\n* *Analysing the Data*\n* *Building a model*\n* *Evaluting the model*\n* *Interpreting the results*",
+      "user": "habedi",
+      "dateUpdated": "Nov 23, 2017 3:41:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eWHAT ARE THE COMMON ACTIVITIES FOR WORKING WITH DATA?\u003c/h1\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003cem\u003eData aquisition and integration\u003c/em\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cem\u003eData pre-processing\u003c/em\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cem\u003eAnalysing the Data\u003c/em\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cem\u003eBuilding a model\u003c/em\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cem\u003eEvaluting the model\u003c/em\u003e\u003c/li\u003e\n  \u003cli\u003e\u003cem\u003eInterpreting the results\u003c/em\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511288268553_1107246096",
+      "id": "20171121-214748_241879444",
+      "dateCreated": "Nov 21, 2017 9:47:48 PM",
+      "dateStarted": "Nov 23, 2017 3:41:02 PM",
+      "dateFinished": "Nov 23, 2017 3:41:02 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# KDD Process Model\n\n![Data Pyramid](http://localhost:8088/images/kdd.gif)",
+      "user": "habedi",
+      "dateUpdated": "Nov 24, 2017 11:09:29 AM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorHide": true,
+        "editorMode": "ace/mode/markdown",
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eKDD Process Model\u003c/h1\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/kdd.gif\" alt\u003d\"Data Pyramid\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511437913878_1889868212",
+      "id": "20171123-152153_1446700354",
+      "dateCreated": "Nov 23, 2017 3:21:53 PM",
+      "dateStarted": "Nov 24, 2017 11:09:29 AM",
+      "dateFinished": "Nov 24, 2017 11:09:29 AM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# KDD VS DM IN THIS CONTEXT\n\n* **KDD** refers to the overall process of discovering useful knowledge from data. It involves the evaluation and possibly interpretation of the patterns to make the decision of what qualifies as knowledge. It also includes the choice of encoding schemes, preprocessing, sampling, and projections of the data prior to the data mining step.\n* **Data** mining refers to the application of algorithms for extracting patterns from data without the additional steps of the KDD process.",
+      "user": "habedi",
+      "dateUpdated": "Nov 23, 2017 4:06:04 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eKDD VS DM IN THIS CONTEXT\u003c/h1\u003e\n\u003cul\u003e\n  \u003cli\u003e\u003cstrong\u003eKDD\u003c/strong\u003e refers to the overall process of discovering useful knowledge from data. It involves the evaluation and possibly interpretation of the patterns to make the decision of what qualifies as knowledge. It also includes the choice of encoding schemes, preprocessing, sampling, and projections of the data prior to the data mining step.\u003c/li\u003e\n  \u003cli\u003e\u003cstrong\u003eData\u003c/strong\u003e mining refers to the application of algorithms for extracting patterns from data without the additional steps of the KDD process.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511440342971_1447470442",
+      "id": "20171123-160222_396591216",
+      "dateCreated": "Nov 23, 2017 4:02:22 PM",
+      "dateStarted": "Nov 23, 2017 4:06:04 PM",
+      "dateFinished": "Nov 23, 2017 4:06:04 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# CRISP-DM Process Model\n\n![Data Pyramid](http://localhost:8088/images/CRISP-DM.png)",
+      "user": "habedi",
+      "dateUpdated": "Nov 23, 2017 4:12:58 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eCRISP-DM Process Model\u003c/h1\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/CRISP-DM.png\" alt\u003d\"Data Pyramid\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511440087764_655304749",
+      "id": "20171123-155807_88163603",
+      "dateCreated": "Nov 23, 2017 3:58:07 PM",
+      "dateStarted": "Nov 23, 2017 4:12:58 PM",
+      "dateFinished": "Nov 23, 2017 4:12:58 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "# SEMMA\n\n![Data Pyramid](http://localhost:8088/images/SEMMA.JPG)",
+      "user": "habedi",
+      "dateUpdated": "Nov 23, 2017 4:13:02 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "\u003cdiv class\u003d\"markdown-body\"\u003e\n\u003ch1\u003eSEMMA\u003c/h1\u003e\n\u003cp\u003e\u003cimg src\u003d\"http://localhost:8088/images/SEMMA.JPG\" alt\u003d\"Data Pyramid\" /\u003e\u003c/p\u003e\n\u003c/div\u003e"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1511440503117_348104917",
+      "id": "20171123-160503_484330413",
+      "dateCreated": "Nov 23, 2017 4:05:03 PM",
+      "dateStarted": "Nov 23, 2017 4:12:52 PM",
+      "dateFinished": "Nov 23, 2017 4:12:52 PM",
+      "status": "FINISHED",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "habedi",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1511440952839_-967906008",
+      "id": "20171123-161232_1173859419",
+      "dateCreated": "Nov 23, 2017 4:12:32 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "DDMC/Day1/4",
+  "id": "2CXWFCFRK",
+  "angularObjects": {
+    "2CWVTS38W:shared_process": [],
+    "2CTQ49QZN:shared_process": [],
+    "2CWP5R143:shared_process": [],
+    "2CVVPAB79:shared_process": [],
+    "2CWC3MX6B:shared_process": [],
+    "2CX4HUJXH:shared_process": [],
+    "2CUPWKHXS:shared_process": [],
+    "2CWRHSTVT:shared_process": [],
+    "2CVH6NS4W:shared_process": [],
+    "2CWZ4K2RZ:shared_process": [],
+    "2CVUH8BKD:shared_process": [],
+    "2CWSA5KGM:shared_process": [],
+    "2CUXE8CHV:shared_process": [],
+    "2CX6EDB78:shared_process": [],
+    "2CV7YURBA:shared_process": [],
+    "2CV6SQB73:shared_process": [],
+    "2CUVUW4JY:shared_process": [],
+    "2CUAXT3B4:shared_process": [],
+    "2CVUVV6AR:shared_process": [],
+    "2CU3773PC:shared_process": []
+  },
+  "config": {
+    "looknfeel": "simple",
+    "personalizedMode": "false"
+  },
+  "info": {}
+}
