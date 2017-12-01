@@ -1,0 +1,13 @@
+# exclusde thse directories
+venv/
+mevnv/
+temp/
+.ipynb_checkpoints/
+
+# exclude these file types and patterns
+*.html
+*~
+*#
+*.pyc
+
+
