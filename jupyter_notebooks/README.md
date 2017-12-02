@@ -40,6 +40,7 @@
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 * [Kaggle](https://www.kaggle.com)
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 
 <div align="right">
 
