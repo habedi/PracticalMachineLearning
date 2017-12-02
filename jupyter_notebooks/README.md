@@ -17,7 +17,7 @@
 <div align="left">
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Whirl wind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+* [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 * [Mining Massive Datasets](http://www.mmds.org)
 * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8)
 
