@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="400" height="500" />
+<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="400" />
   
 
 <div align="right">
