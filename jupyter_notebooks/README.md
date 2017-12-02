@@ -38,10 +38,24 @@
 
 <div align="right">
 
-## سایت
+## سایت‌های مفید
 
 <div align="left">
 
 1. [Kaggle](https://www.kaggle.com)
 2. [CrowdAI](https://www.crowdai.org)
+
+<div align="right">
+
+## Editor‌ ها‌ و IDE‌ها
+
+<div align="left">
+
+1. [Spyder](https://pythonhosted.org/spyder/)
+2. [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
+3. [GNU Emacs](https://www.gnu.org/software/emacs/)
+4. [IDLE](https://docs.python.org/3/library/idle.html)
+
+
+
 
