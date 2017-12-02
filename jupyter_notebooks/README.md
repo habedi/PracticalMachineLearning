@@ -9,6 +9,9 @@
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
 
+### نسخه این نوشته: 0.1
+
+
 ## کتاب‌ها
 
 <div align="left">
@@ -114,7 +117,7 @@
 
 <div align="right">
 
-## (اضافی)تارنما‌های مفید
+## تارنما‌های اضافی سودمند
 
 <div align="left">
 
@@ -131,8 +134,3 @@
 * [Torch](http://torch.ch/)
 * [BPython](https://bpython-interpreter.org/)
 * [RAnalyticFlow](http://r.analyticflow.com/en/)
-
-
-<div align="right">
-
-## نسخه 0.1
