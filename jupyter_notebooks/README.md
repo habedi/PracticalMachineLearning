@@ -51,6 +51,8 @@
 * [CrowdAI](https://www.crowdai.org)
 * [Quora](https://www.quora.com)
 * [Github.com](https://github.com/)
+* [Apache Projects](https://projects.apache.org/)
+
 
 <div align="right">
 
@@ -123,7 +125,8 @@
 * [IPython](https://ipython.org/)
 * [Incanter](http://incanter.org/)
 * [Torch](http://torch.ch/)
-* [Bpython](https://bpython-interpreter.org/)
+* [BPython](https://bpython-interpreter.org/)
+* [RAnalyticFlow](http://r.analyticflow.com/en/)
 
 
 
