@@ -16,6 +16,7 @@
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirl wind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 * [Mining Massive Datasets](http://www.mmds.org)
+* [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8)
 
 <div align="right">
 
@@ -26,6 +27,8 @@
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Kaggle](https://www.kaggle.com)
 * [Network Repository](http://networkrepository.com)
+* [Deep Learning Datasets](http://deeplearning.net/datasets/)
+* [MLDatasets](http://mldata.org)
 
 <div align="right">
 
@@ -46,6 +49,7 @@
 
 * [Kaggle](https://www.kaggle.com)
 * [CrowdAI](https://www.crowdai.org)
+* [Quora](https://www.quora.com)
 
 <div align="right">
 
@@ -75,6 +79,30 @@
 * [Jupyter](http://jupyter.org/)
 * [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Beacker](http://beakernotebook.com/)
+* [nteract](https://nteract.io/)
+
+<div align="right">
+
+## کتابخانه‌ها
+
+<div align="left">
+
+* [Pandas](https://pandas.pydata.org/)
+* [Scipy](https://www.scipy.org/)
+* [Numpy](http://www.numpy.org/)
+* [Scikit Learn](http://scikit-learn.org/)
+* [Bokeh](https://bokeh.pydata.org/en/latest/)
+* [Matplotlib](https://matplotlib.org/)
+* [Graph tool](https://graph-tool.skewed.de/)
+* [NetworkX](https://networkx.github.io/)
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+* [Keras](https://keras.io/)
+* [NLTK](http://www.nltk.org/)
+* [Pattern](https://www.clips.uantwerpen.be/pattern)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+* [IPython](https://ipython.org/)
+* [Orange](https://orange.biolab.si/)
+
 
 
 <div align="right">
@@ -90,5 +118,12 @@
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 * [ELKI](https://elki-project.github.io/)
 * [Julia Programming Language](https://julialang.org/)
+* [SQL Notebook](https://sqlnotebook.com/)
+* [IPython](https://ipython.org/)
+* [Incanter](http://incanter.org/)
+* [Torch](http://torch.ch/)
+* [Bpython](https://bpython-interpreter.org/)
+
+
 
 
