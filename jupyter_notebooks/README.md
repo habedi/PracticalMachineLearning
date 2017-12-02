@@ -29,7 +29,7 @@
 
 <div align="right">
 
-## سوال و جواب
+## سایت‌های سوال و جواب
 
 <div align="left">
 
@@ -47,7 +47,7 @@
 1. [Kaggle](https://www.kaggle.com)
 2. [CrowdAI](https://www.crowdai.org)
 
-<div align="right" dir="auto">
+<div align="right">
 
 ## محیط توسعه برنامه و ویرایش کد
 
@@ -58,6 +58,20 @@
 3. [GNU Emacs](https://www.gnu.org/software/emacs/)
 4. [IDLE](https://docs.python.org/3/library/idle.html)
 
+<div align="right">
 
+## جعبه‌های ابزار
+
+<div align="left">
+
+1. [Anaconda](https://conda.io/docs/user-guide/install/download.html)
+
+<div align="right">
+
+## محیط‌های Notebook
+
+<div align="left">
+
+1. [Jupyter](http://jupyter.org/)
 
 
