@@ -1,3 +1,8 @@
+<div align="center">
+  
+<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" style="width: 300px; height: 300px;"/>
+  
+
 <div align="right">
 
 # منابع پیشنهادی
