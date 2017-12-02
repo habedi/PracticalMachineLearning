@@ -64,15 +64,17 @@
 
 <div align="left">
 
-1. [Anaconda](https://conda.io/docs/user-guide/install/download.html)
+* [Anaconda](https://conda.io/docs/user-guide/install/download.html)
 
 <div align="right">
 
-## محیط‌های Notebook
+## Notebook محیط‌های
 
 <div align="left">
 
 * [Jupyter](http://jupyter.org/)
+* [Apache Zeppelin](https://zeppelin.apache.org/)
+* [Beacker](http://beakernotebook.com/)
 
 
 <div align="right">
@@ -83,5 +85,10 @@
 
 * [Usefull Metrics](https://github.com/habedi/Metrics)
 * [Xgboost Benchmarks](https://catboost.yandex/)
+* [Franchise Notebook](https://franchise.cloud/)
+* [Orange](https://orange.biolab.si/)
+* [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+* [ELKI](https://elki-project.github.io/)
+* [Julia Programming Language](https://julialang.org/)
 
 
