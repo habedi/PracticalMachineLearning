@@ -49,7 +49,7 @@
 
 <div align="right" dir="auto">
 
-## IDEها و Editorها
+## محیط نوشتن برنامه و ویرایش کد
 
 <div align="left">
 
