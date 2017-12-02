@@ -106,6 +106,9 @@
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [IPython](https://ipython.org/)
 * [Orange](https://orange.biolab.si/)
+* [Theano](http://deeplearning.net/software/theano/)
+* [Catboost](https://github.com/catboost/catboost)
+* [Xgboost](https://github.com/dmlc/xgboost)
 
 
 
