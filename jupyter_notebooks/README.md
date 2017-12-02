@@ -47,7 +47,7 @@
 1. [Kaggle](https://www.kaggle.com)
 2. [CrowdAI](https://www.crowdai.org)
 
-<div align="right">
+<div align="right" dir="auto">
 
 ## IDEها و Editorها
 
