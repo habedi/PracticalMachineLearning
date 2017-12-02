@@ -68,6 +68,7 @@
 * [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
 * [GNU Emacs](https://www.gnu.org/software/emacs/)
 * [IDLE](https://docs.python.org/3/library/idle.html)
+* [Rodeo](https://www.yhat.com/products/rodeo)
 
 <div align="right">
 
