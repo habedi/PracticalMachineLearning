@@ -20,6 +20,7 @@
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 * [Mining Massive Datasets](http://www.mmds.org)
 * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8)
+* [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 <div align="right">
 
