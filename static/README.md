@@ -2,5 +2,5 @@
 
 * Images
 * Datasets
-* CSS
+* CSS files
 * JS file
