@@ -9,7 +9,7 @@
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
 
-### نسخه این نوشته: 0.2
+### نسخه این نوشته: 0.3
 
 
 ## کتاب‌ها
@@ -115,6 +115,7 @@
 * [Theano](http://deeplearning.net/software/theano/)
 * [Catboost](https://github.com/catboost/catboost)
 * [Xgboost](https://github.com/dmlc/xgboost)
+* [Mlxtend](https://github.com/rasbt/mlxtend)
 
 
 
