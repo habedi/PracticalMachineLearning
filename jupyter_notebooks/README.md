@@ -115,6 +115,7 @@
 * [Theano](http://deeplearning.net/software/theano/)
 * [Catboost](https://github.com/catboost/catboost)
 * [Xgboost](https://github.com/dmlc/xgboost)
+* [Mlxtend](https://github.com/rasbt/mlxtend)
 
 
 
