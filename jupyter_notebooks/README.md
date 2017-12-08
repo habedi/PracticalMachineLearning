@@ -138,3 +138,4 @@
 * [Torch](http://torch.ch/)
 * [BPython](https://bpython-interpreter.org/)
 * [RAnalyticFlow](http://r.analyticflow.com/en/)
+* [SPMF](http://www.philippe-fournier-viger.com/spmf/)
