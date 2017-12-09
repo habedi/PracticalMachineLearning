@@ -9,7 +9,7 @@
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
 
-### نسخه این نوشته: 0.3
+### نسخه این نوشته: 0.4
 
 
 ## کتاب‌ها
@@ -58,6 +58,7 @@
 * [Quora](https://www.quora.com)
 * [Github.com](https://github.com/)
 * [Apache Projects](https://projects.apache.org/)
+* [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html)
 
 
 <div align="right">
