@@ -1,2 +1,2 @@
-* [Notebooks for regression, classification and clustering](Day1/)
-* [Notebooks for anomaly detection and association rule mining](Day2/)
+* [Notebooks for **regression**, **classification** and **clustering**](Day2/)
+* [Notebooks for **anomaly detection** and **association rule mining**](Day3/)
