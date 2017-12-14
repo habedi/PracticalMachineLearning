@@ -29,6 +29,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8)
 * [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Deep Learning Book(MIT Press)](https://github.com/janishar/mit-deep-learning-book-pdf)
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 <div align="right">
 
@@ -124,6 +125,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Catboost](https://github.com/catboost/catboost)
 * [Xgboost](https://github.com/dmlc/xgboost)
 * [Mlxtend](https://github.com/rasbt/mlxtend)
+* [NetworKit](https://networkit.iti.kit.edu/)
 
 
 
