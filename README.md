@@ -149,3 +149,4 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [BPython](https://bpython-interpreter.org/)
 * [RAnalyticFlow](http://r.analyticflow.com/en/)
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/)
+* [SageMath](http://www.sagemath.org)
