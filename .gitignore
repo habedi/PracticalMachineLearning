@@ -1,8 +1,8 @@
 # exclusde thse directories
-venv/
-mevnv/
-temp/
-.ipynb_checkpoints/
+venv
+mevnv
+temp
+.ipynb_checkpoints
 
 # exclude these file types and patterns
 *.html
