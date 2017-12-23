@@ -30,6 +30,8 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Deep Learning Book(MIT Press)](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [Probability and Statistics Cookbook](http://statistics.zone)
+* [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 
 <div align="right">
 
@@ -150,3 +152,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [RAnalyticFlow](http://r.analyticflow.com/en/)
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/)
 * [SageMath](http://www.sagemath.org)
+* [Stanford ML Course Projects](http://cs229.stanford.edu/projects.html)
+* [H2O AI Platform](https://www.h2o.ai/)
+* [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
