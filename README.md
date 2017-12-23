@@ -32,6 +32,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+* [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 
 <div align="right">
 
@@ -152,6 +153,5 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [RAnalyticFlow](http://r.analyticflow.com/en/)
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/)
 * [SageMath](http://www.sagemath.org)
-* [Stanford ML Course Projects](http://cs229.stanford.edu/projects.html)
 * [H2O AI Platform](https://www.h2o.ai/)
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
