@@ -157,3 +157,4 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [H2O AI Platform](https://www.h2o.ai/)
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
+* [OpenRefine](https://github.com/OpenRefine/OpenRefine)
