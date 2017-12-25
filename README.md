@@ -129,6 +129,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Xgboost](https://github.com/dmlc/xgboost)
 * [Mlxtend](https://github.com/rasbt/mlxtend)
 * [NetworKit](https://networkit.iti.kit.edu/)
+* [Eli5](https://github.com/TeamHG-Memex/eli5)
 
 
 
