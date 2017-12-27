@@ -3,4 +3,4 @@
 * Images
 * Datasets
 * CSS files
-* JS file
+* JS files
