@@ -159,3 +159,4 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
+* [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
