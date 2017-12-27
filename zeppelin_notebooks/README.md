@@ -1,5 +1,6 @@
-| Video | Notebook |
+| Video | Notebookfile |
 |--------|--------|
+|   [Prelude](https://www.youtube.com/watch?v=w_jjrcvMDrE) | [No Notebook](./) |
 |   [Slide 1: Python3 setup and installation](https://www.youtube.com/watch?v=WqffLDwtv0A) | [2CV7TWMU6](2CV7TWMU6)       |
 |   [Slide 2: Data categories and its various formats](https://www.youtube.com/watch?v=OfVzoK3Xj14)    |  [2CYTF5DQ4](2CYTF5DQ4)        |
 |   [Slide 3: A short historical review](https://www.youtube.com/watch?v=sO4bOlgfFzw)       | [2CXP18SAK](2CXP18SAK)      |
