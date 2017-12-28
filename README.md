@@ -5,14 +5,10 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Jupyter Notebooks](jupyter_notebooks/)
 
 
-<div align="center">
   
 <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
-  
 
-<div align="right">
-
-# General Resourses for Data Science(with emphasize on Python)
+# Data Science Resourses(with emphasize on Python)
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
 
@@ -20,8 +16,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 
 ## Books
-
-<div align="left">
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
@@ -34,11 +28,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 
-<div align="right">
 
 ## Dataset Repositories
 
-<div align="left">
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Kaggle](https://www.kaggle.com)
@@ -46,11 +38,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [MLDatasets](http://mldata.org)
 
-<div align="right">
 
 ## S&A Website
 
-<div align="left">
 
 * [Quora Data Science](https://www.quora.com/topic/Data-Science)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
@@ -58,11 +48,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
 * [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 
-<div align="right">
 
 ## Useful Websites
 
-<div align="left">
 
 * [Kaggle](https://www.kaggle.com)
 * [CrowdAI](https://www.crowdai.org)
@@ -72,11 +60,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html)
 
 
-<div align="right">
 
 ## Editors & IDEs
 
-<div align="left">
 
 * [Spyder](https://pythonhosted.org/spyder/)
 * [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
@@ -84,30 +70,23 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [IDLE](https://docs.python.org/3/library/idle.html)
 * [Rodeo](https://www.yhat.com/products/rodeo)
 
-<div align="right">
 
 ## Toolboxes & Distributions
 
-<div align="left">
 
 * [Anaconda](https://conda.io/docs/user-guide/install/download.html)
 
-<div align="right">
 
 ## Notebook Authoring Environments
 
-<div align="left">
 
 * [Jupyter](http://jupyter.org/)
 * [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
 
-<div align="right">
 
 ## Python Data Science Libraries
-
-<div align="left">
 
 * [Pandas](https://pandas.pydata.org/)
 * [Scipy](https://www.scipy.org/)
@@ -135,11 +114,8 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 
 
-<div align="right">
-
 ## Additional Useful Resourses
 
-<div align="left">
 
 * [Usefull Metrics](https://github.com/habedi/Metrics)
 * [Xgboost Benchmarks](https://catboost.yandex/)
