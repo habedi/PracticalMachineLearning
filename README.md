@@ -14,10 +14,10 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 My curated list of data science resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
-### Version: 0.8
+### Version: 0.10
 
 
-## Books
+## Books and Writings
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
@@ -29,6 +29,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
+* [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 
 
 ## Dataset Repositories
@@ -39,14 +40,12 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Deep Learning Datasets](http://deeplearning.net/datasets/)
 * [MLDatasets](http://mldata.org)
 
-
-## S&A Website
+## Q&A Websites
 
 * [Quora Data Science](https://www.quora.com/topic/Data-Science)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
 * [Kaggle](https://www.kaggle.com)
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
-* [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 
 
 ## Useful Websites
@@ -58,7 +57,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html)
 
-## Editors & IDEs
+## Editors & IDEs for Python
 
 * [Spyder](https://pythonhosted.org/spyder/)
 * [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
