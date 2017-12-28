@@ -161,3 +161,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
+
+
+
+<a href="javascript:void(0);">
+            <img id="doge" src="//live-sochain-blockioinc.netdna-ssl.com/content/img/doge.png">
+</a>
