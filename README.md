@@ -4,7 +4,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Apache Zeppelin Notebooks](zeppelin_notebooks/)
 * [Jupyter Notebooks](jupyter_notebooks/)
 
-
 <div align="center">
   
 <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
@@ -13,7 +12,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
   
 # Data Science Resourses(with emphasize on Python)
 
-.در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
+My curated list of data science resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
 ### Version: 0.8
 
@@ -34,7 +33,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 ## Dataset Repositories
 
-
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
 * [Kaggle](https://www.kaggle.com)
 * [Network Repository](http://networkrepository.com)
@@ -43,7 +41,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 
 ## S&A Website
-
 
 * [Quora Data Science](https://www.quora.com/topic/Data-Science)
 * [Stack Exchange Data Science](https://datascience.stackexchange.com)
@@ -54,7 +51,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 ## Useful Websites
 
-
 * [Kaggle](https://www.kaggle.com)
 * [CrowdAI](https://www.crowdai.org)
 * [Quora](https://www.quora.com)
@@ -62,10 +58,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html)
 
-
-
 ## Editors & IDEs
-
 
 * [Spyder](https://pythonhosted.org/spyder/)
 * [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
@@ -76,18 +69,14 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 ## Toolboxes & Distributions
 
-
 * [Anaconda](https://conda.io/docs/user-guide/install/download.html)
 
-
 ## Notebook Authoring Environments
-
 
 * [Jupyter](http://jupyter.org/)
 * [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
-
 
 ## Python Data Science Libraries
 
@@ -115,10 +104,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Pandasql](https://github.com/yhat/pandasql)
 * [Dask](https://github.com/dask/dask)
 
-
-
 ## Additional Useful Resourses
-
 
 * [Usefull Metrics](https://github.com/habedi/Metrics)
 * [Xgboost Benchmarks](https://catboost.yandex/)
