@@ -5,9 +5,12 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Jupyter Notebooks](jupyter_notebooks/)
 
 
+<div align="center">
   
 <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
 
+<div align="center">
+  
 # Data Science Resourses(with emphasize on Python)
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
