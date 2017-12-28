@@ -131,6 +131,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [NetworKit](https://networkit.iti.kit.edu/)
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
 * [Pandasql](https://github.com/yhat/pandasql)
+* [Dask](https://github.com/dask/dask)
 
 
 
