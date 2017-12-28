@@ -9,7 +9,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
   
 <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
 
-<div align="center">
+<div align="left">
   
 # Data Science Resourses(with emphasize on Python)
 
