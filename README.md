@@ -12,14 +12,14 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-# منابع پیشنهادی علم داده
+# General Resourses for Data Science(with emphasize on Python)
 
 .در زیر فهرستی از منابع پیشنهادی برای یادگیری و فعالیت در علم داده(به طور کلی) با تاکید بر استفاده از پایتون ارایه شده است
 
-### نسخه این نوشته: 0.8
+### Version: 0.8
 
 
-## کتاب‌ها
+## Books
 
 <div align="left">
 
@@ -36,7 +36,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## مخزن‌های داده
+## Dataset Repositories
 
 <div align="left">
 
@@ -48,7 +48,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## سایت‌های سوال و جواب
+## S&A Website
 
 <div align="left">
 
@@ -60,7 +60,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## سایت‌های مفید
+## Useful Websites
 
 <div align="left">
 
@@ -74,7 +74,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## محیط توسعه برنامه و ویرایش کد
+## Editors & IDEs
 
 <div align="left">
 
@@ -86,7 +86,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## جعبه‌های ابزار
+## Toolboxes & Distributions
 
 <div align="left">
 
@@ -94,7 +94,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## Notebook محیط‌های
+## Notebook Authoring Environments
 
 <div align="left">
 
@@ -105,7 +105,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## کتابخانه‌ها
+## Python Data Science Libraries
 
 <div align="left">
 
@@ -137,7 +137,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="right">
 
-## تارنما‌های اضافی سودمند
+## Additional Useful Resourses
 
 <div align="left">
 
@@ -161,9 +161,3 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-
-
-
-<a href="javascript:void(0);">
-            <img id="doge" src="//live-sochain-blockioinc.netdna-ssl.com/content/img/doge.png">
-</a>
