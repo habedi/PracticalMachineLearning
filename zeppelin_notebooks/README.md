@@ -1,4 +1,4 @@
-<div style="align:center">
+<div align="center">
 
 | Video | Notebook file |
 |--------|--------|
@@ -9,4 +9,4 @@
 |   [Slide 4: A few important things](https://www.youtube.com/watch?v=gOJV81Uykao)     | [2CXWFCFRK](2CXWFCFRK)       |
 |   [Slide 5: Loading the data into Python](https://www.youtube.com/watch?v=JijyBQPLj30) |  [2CZ8FZ45D](2CZ8FZ45D)                |  
 
-</div>
+<div align="left">
