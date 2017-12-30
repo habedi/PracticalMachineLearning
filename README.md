@@ -68,6 +68,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 ## Toolboxes & Distributions
 
 * [Anaconda](https://conda.io/docs/user-guide/install/download.html)
+* [Miniconda](https://conda.io/miniconda.html)
 
 ## Notebook Authoring Environments
 
