@@ -125,3 +125,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
+* [StackNet](https://github.com/kaz-Anova/StackNet)
