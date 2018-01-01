@@ -102,6 +102,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
 * [Pandasql](https://github.com/yhat/pandasql)
 * [Dask](https://github.com/dask/dask)
+* [MLBox](https://github.com/AxeldeRomblay/MLBox)
 
 ## Additional Useful Resourses
 
