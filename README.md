@@ -18,6 +18,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Books and Writings
 
+* [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 * [Mining Massive Datasets](http://www.mmds.org)
