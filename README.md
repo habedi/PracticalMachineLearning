@@ -129,3 +129,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [StackNet](https://github.com/kaz-Anova/StackNet)
+* [Sofia ML](https://github.com/glycerine/sofia-ml)
