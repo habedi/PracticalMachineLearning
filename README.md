@@ -57,6 +57,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Github.com](https://github.com/)
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Have a look at project section!)](https://see.stanford.edu/Course/CS229)
+* [NIPS Website](https://nips.cc/)
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
 ## Editors & IDEs for Python
