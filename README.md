@@ -74,6 +74,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Anaconda](https://conda.io/docs/user-guide/install/download.html)
 * [Miniconda](https://conda.io/miniconda.html)
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
+* [StackNet](https://github.com/kaz-Anova/StackNet)
+* [Sofia ML](https://github.com/glycerine/sofia-ml)
 
 ## Notebook Authoring Environments
 
@@ -132,5 +134,3 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [StackNet](https://github.com/kaz-Anova/StackNet)
-* [Sofia ML](https://github.com/glycerine/sofia-ml)
