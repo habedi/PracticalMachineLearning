@@ -112,6 +112,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [MLBox](https://github.com/AxeldeRomblay/MLBox)
 * [Gensim](https://github.com/RaRe-Technologies/gensim)
 * [Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+* [Patsy](https://github.com/pydata/patsy)
+* [Statsmodels](http://www.statsmodels.org/stable/index.html)
 
 ## Additional Useful Resourses
 
