@@ -14,7 +14,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 My curated list of data science resourses, including books, papers, softwares, libraries, notebooks, etc. The most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
-### Version: 0.11
+### Version: 0.12
 
 ## Books and Writings
 
@@ -134,6 +134,11 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [SageMath](http://www.sagemath.org)
 * [H2O AI Platform](https://www.h2o.ai/)
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
-* [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
+
+
+## My Favourites
+
+* [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
+* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
