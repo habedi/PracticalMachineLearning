@@ -114,6 +114,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
 * [Patsy](https://github.com/pydata/patsy)
 * [Statsmodels](http://www.statsmodels.org/stable/index.html)
+* [Seaborn](https://github.com/mwaskom/seaborn)
+
 
 ## Additional Useful Resourses
 
