@@ -144,4 +144,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 * [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE)
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
-* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox
+* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
