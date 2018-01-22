@@ -138,6 +138,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Mxnet](https://github.com/apache/incubator-mxnet)
+* [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 
 
 ## My Favourites
