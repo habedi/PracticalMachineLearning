@@ -115,6 +115,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Patsy](https://github.com/pydata/patsy)
 * [Statsmodels](http://www.statsmodels.org/stable/index.html)
 * [Seaborn](https://github.com/mwaskom/seaborn)
+* [Pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 
 ## Additional Useful Resourses
 
