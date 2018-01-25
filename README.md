@@ -76,6 +76,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
 * [StackNet](https://github.com/kaz-Anova/StackNet)
 * [Sofia ML](https://github.com/glycerine/sofia-ml)
+* [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
 ## Notebook Authoring Environments
 
@@ -140,6 +141,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Mxnet](https://github.com/apache/incubator-mxnet)
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
+* [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
 
 
 ## My Favourites
