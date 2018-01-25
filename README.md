@@ -52,6 +52,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 ## Useful Websites
 
 * [Kaggle](https://www.kaggle.com)
+* [Reddit MachineLearning Community](https://www.reddit.com/r/MachineLearning/)
 * [CrowdAI](https://www.crowdai.org)
 * [Quora](https://www.quora.com)
 * [Github.com](https://github.com/)
