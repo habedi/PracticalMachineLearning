@@ -142,6 +142,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Mxnet](https://github.com/apache/incubator-mxnet)
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
+* [Apache Spark MLib](https://spark.apache.org/mllib/)
 
 
 ## My Favourites
