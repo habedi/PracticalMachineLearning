@@ -31,7 +31,6 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 * [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 
-
 ## Dataset Repositories
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
@@ -59,6 +58,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/)
+* [Scipy Lectures](http://www.scipy-lectures.org/index.html)
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
 ## Editors & IDEs for Python
