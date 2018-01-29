@@ -78,6 +78,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [StackNet](https://github.com/kaz-Anova/StackNet)
 * [Sofia ML](https://github.com/glycerine/sofia-ml)
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+* [LibFM](http://www.libfm.org)
 
 ## Notebook Authoring Environments
 
