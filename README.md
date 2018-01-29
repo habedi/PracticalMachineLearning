@@ -59,7 +59,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/)
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
-* [Nice Website #1](http://www.saedsayad.com)
+* [Nice website about Data Mining](http://www.saedsayad.com)
 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
