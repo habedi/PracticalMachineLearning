@@ -1,12 +1,12 @@
 # My data science related stuff!
-My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data science related stuff in general
+My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data analysis and machine learning related stuff in general
 
 * [Apache Zeppelin Notebooks](zeppelin_notebooks/)
 * [Jupyter Notebooks](jupyter_notebooks/)
 
 <div align="center">
   
-<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
+<!-- <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" /> -->
 
 <div align="left">
   
