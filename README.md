@@ -121,6 +121,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Statsmodels](http://www.statsmodels.org/stable/index.html)
 * [Seaborn](https://github.com/mwaskom/seaborn)
 * [Pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
+* [Blaze](https://github.com/blaze/blaze)
+* [Altair](https://github.com/altair-viz/altair)
 
 ## Additional Useful Resourses
 
@@ -147,6 +149,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
+* [Awesome-Python](https://github.com/vinta/awesome-python)
 
 
 ## My Favourites
