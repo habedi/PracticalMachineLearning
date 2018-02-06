@@ -14,7 +14,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 My curated list of data science resourses, including books, papers, softwares, libraries, notebooks, etc. The most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
-### Version: 0.15
+### Version: 0.16
 
 ## Books and Writings
 
