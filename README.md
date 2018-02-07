@@ -150,6 +150,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
+* [GATE](https://gate.ac.uk/download/)
 
 
 ## My Favourites
