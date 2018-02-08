@@ -151,6 +151,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [GATE](https://gate.ac.uk/download/)
+* [Microsoft CNTK](https://github.com/Microsoft/CNTK)
 
 
 ## My Favourites
