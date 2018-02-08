@@ -60,6 +60,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [NIPS Website](https://nips.cc/)
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
 * [Nice website about Data Mining](http://www.saedsayad.com)
+* [ML Resources on Github](https://github.com/collections/machine-learning)
 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
@@ -81,6 +82,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Sofia ML](https://github.com/glycerine/sofia-ml)
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 * [LibFM](http://www.libfm.org)
+* [Apache Predictionio](https://github.com/apache/predictionio)
 
 ## Notebook Authoring Environments
 
