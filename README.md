@@ -19,6 +19,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 ## Books and Writings
 
 <!-- * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8) -->
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
