@@ -62,7 +62,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
 * [Nice website about Data Mining](http://www.saedsayad.com)
 * [ML Resources on Github](https://github.com/collections/machine-learning)
-* [A list of researches on a few interesting topipcs](https://cs.nyu.edu/~mohri/rsch.html)
+* [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
