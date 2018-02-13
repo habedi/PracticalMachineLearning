@@ -127,7 +127,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 * [Blaze](https://github.com/blaze/blaze)
 * [Altair](https://github.com/altair-viz/altair)
-* [Numba](http://numba.pydata.org/)
+* [Numba](https://github.com/numba/numba)
 
 ## Additional Useful Resourses
 
