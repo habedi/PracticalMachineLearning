@@ -128,6 +128,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Blaze](https://github.com/blaze/blaze)
 * [Altair](https://github.com/altair-viz/altair)
 * [Numba](https://github.com/numba/numba)
+* [BigARTM](https://github.com/bigartm/bigartm)
 
 ## Additional Useful Resourses
 
@@ -157,6 +158,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [GATE](https://gate.ac.uk/download/)
 * [Microsoft CNTK](https://github.com/Microsoft/CNTK)
+* [MALLET](http://mallet.cs.umass.edu/topics.php)
 
 
 ## My Favourites
