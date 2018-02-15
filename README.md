@@ -132,6 +132,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Additional Useful Resourses
 
+* [PyPy Python Implementation](https://pypy.org)
 * [Usefull Metrics](https://github.com/habedi/Metrics)
 * [Xgboost Benchmarks](https://catboost.yandex/)
 * [Franchise Notebook](https://franchise.cloud/)
