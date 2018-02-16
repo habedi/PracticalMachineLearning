@@ -160,6 +160,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Microsoft CNTK](https://github.com/Microsoft/CNTK)
 * [MALLET](http://mallet.cs.umass.edu/topics.php)
 * [MLPack](http://www.mlpack.org)
+* [t-SNE](https://lvdmaaten.github.io/tsne/)
 
 ## My Favourites
 
