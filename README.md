@@ -63,7 +63,6 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Nice website about Data Mining](http://www.saedsayad.com)
 * [ML Resources on Github](https://github.com/collections/machine-learning)
 * [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
-
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
 ## Editors & IDEs for Python
@@ -160,7 +159,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [GATE](https://gate.ac.uk/download/)
 * [Microsoft CNTK](https://github.com/Microsoft/CNTK)
 * [MALLET](http://mallet.cs.umass.edu/topics.php)
-
+* [MLPack](http://www.mlpack.org)
 
 ## My Favourites
 
@@ -169,4 +168,5 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+* [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
 
