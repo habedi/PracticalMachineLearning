@@ -129,6 +129,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Numba](https://github.com/numba/numba)
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym)
+* [PyBrain](http://pybrain.org)
 
 ## Additional Useful Resourses
 
