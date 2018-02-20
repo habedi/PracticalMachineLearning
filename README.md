@@ -132,6 +132,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [PyBrain](http://pybrain.org)
 * [Sklearn-Pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
+* [Lightning](https://github.com/scikit-learn-contrib/lightning)
 
 ## Additional Useful Resourses
 
