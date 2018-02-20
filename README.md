@@ -130,6 +130,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym)
 * [PyBrain](http://pybrain.org)
+* [Sklearn-Pandas](https://github.com/paulgb/sklearn-pandas/)
+* [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 
 ## Additional Useful Resourses
 
