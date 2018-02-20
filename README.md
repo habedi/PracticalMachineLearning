@@ -176,4 +176,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
-* [Scikit-Learn Website](http://scikit-learn.org/stable/)
+* [Scikit-Learn website](http://scikit-learn.org/stable/)
