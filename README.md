@@ -134,6 +134,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 * [Lightning](https://github.com/scikit-learn-contrib/lightning)
 * [GPLearn](https://github.com/trevorstephens/gplearn)
+* [Nengo](https://www.nengo.ai/)
 
 ## Additional Useful Resourses
 
@@ -168,6 +169,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [MLPack](http://www.mlpack.org)
 * [t-SNE](https://lvdmaaten.github.io/tsne/)
 * [Caffe](https://github.com/BVLC/caffe)
+* [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 
 ## My Favourites
 
