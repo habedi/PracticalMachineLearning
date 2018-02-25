@@ -180,3 +180,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
 * [Scikit-Learn website](http://scikit-learn.org/stable/)
+* [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do)
