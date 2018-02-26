@@ -135,6 +135,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Lightning](https://github.com/scikit-learn-contrib/lightning)
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
+* [Scikit-Learn Contributions](https://github.com/scikit-learn-contrib)
 
 ## Additional Useful Resourses
 
