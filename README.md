@@ -42,11 +42,11 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Q&A Websites
 
-* [Quora Data Science](https://www.quora.com/topic/Data-Science)
-* [Stack Exchange Data Science](https://datascience.stackexchange.com)
-* [Kaggle](https://www.kaggle.com)
-* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
-* [Stack Overflow](https://stackoverflow.com)
+* [Quora Data Science](https://www.quora.com/topic/Data-Science): A nice place to ask and seek answers!
+* [Stack Exchange Data Science](https://datascience.stackexchange.com): Another nice Q&A community with emphasis on the technical side 
+* [Kaggle](https://www.kaggle.com): Kaggle again:)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning): Quora again:)
+* [Stack Overflow](https://stackoverflow.com): General Q&A for develpers, need help with your code then it's the place to ask for ranswers 
 
 
 ## Useful Websites
