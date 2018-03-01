@@ -174,6 +174,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 * [CompLearn](http://complearn.org/index.html)
+* [SPMF](http://www.philippe-fournier-viger.com/spmf/)
 
 ## My Favourites
 
