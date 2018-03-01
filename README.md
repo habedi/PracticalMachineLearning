@@ -172,6 +172,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [t-SNE](https://lvdmaaten.github.io/tsne/)
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
+* [CompLearn](http://complearn.org/index.html)
 
 ## My Favourites
 
