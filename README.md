@@ -34,11 +34,11 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Dataset Repositories
 
-* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
-* [Kaggle](https://www.kaggle.com)
-* [Network Repository](http://networkrepository.com)
-* [Deep Learning Datasets](http://deeplearning.net/datasets/)
-* [MLDatasets](http://mldata.org)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): Lots of interesting datasets, piled up just for you to use them!
+* [Kaggle](https://www.kaggle.com): A very active community, great place to learn from others
+* [Network Repository](http://networkrepository.com): Many network/graph datasets, If you like graphs it's the place for you! 
+* [Deep Learning Datasets](http://deeplearning.net/datasets/): DL datasets of course!
+* [MLDatasets](http://mldata.org): Another nice dataset repository
 
 ## Q&A Websites
 
