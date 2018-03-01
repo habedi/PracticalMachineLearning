@@ -137,6 +137,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Nengo](https://www.nengo.ai/)
 * [Scikit-Learn Contributions](https://github.com/scikit-learn-contrib)
 * [Koolmogorov](https://github.com/MLWave/koolmogorov)
+* [Lime](https://github.com/marcotcr/lime)
+* [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 
 ## Additional Useful Resourses
 
