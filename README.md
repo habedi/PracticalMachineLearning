@@ -67,12 +67,11 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Editors & IDEs for Python
 
-* [Spyder](https://pythonhosted.org/spyder/)
-* [Pycharm CE](https://www.jetbrains.com/pycharm/download/)
-* [GNU Emacs](https://www.gnu.org/software/emacs/)
-* [IDLE](https://docs.python.org/3/library/idle.html)
-* [Rodeo](https://www.yhat.com/products/rodeo)
-
+* [Spyder](https://pythonhosted.org/spyder/): A great Python IDE for scientists in general
+* [Pycharm CE](https://www.jetbrains.com/pycharm/download/): A very good IDE for development of anything with Python
+* [GNU Emacs](https://www.gnu.org/software/emacs/): GNU Emacs is an environment for doing almost anything
+* [IDLE](https://docs.python.org/3/library/idle.html): Default Python IDE, lean and clean environment to develop in Python
+* [Rodeo](https://www.yhat.com/products/rodeo): A Python IDE for data scientists
 
 ## Toolboxes & Distributions
 
