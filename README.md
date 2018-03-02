@@ -39,7 +39,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Network Repository](http://networkrepository.com): Many network/graph datasets, If you like graphs it's the place for you! 
 * [Deep Learning Datasets](http://deeplearning.net/datasets/): DL datasets of course!
 * [MLDatasets](http://mldata.org): Another nice dataset repository
-* [Deep Learning Dataset list](https://github.com/deeplearning4j/deeplearning4j/blob/gh-pages/opendata.md): Deep means big here i guess!
+* [Open Data for Deep Learning](https://github.com/deeplearning4j/deeplearning4j/blob/gh-pages/opendata.md): Deep means big here i guess!
 
 ## Q&A Websites
 
