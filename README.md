@@ -31,6 +31,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 * [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
+* [An Introduction to Statistical Learning(http://www-bcf.usc.edu/~gareth/ISL/)
 
 ## Dataset Repositories
 
