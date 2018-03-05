@@ -139,6 +139,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Koolmogorov](https://github.com/MLWave/koolmogorov)
 * [Lime](https://github.com/marcotcr/lime)
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
+* [SNAP-Python](https://github.com/snap-stanford/snap-python)
 
 ## Additional Useful Resourses
 
@@ -175,6 +176,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 * [CompLearn](http://complearn.org/index.html)
+* [SNAP](https://github.com/snap-stanford/snap)
 
 ## My Favourites
 
