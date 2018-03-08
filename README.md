@@ -32,7 +32,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 * [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## Dataset Repositories
 
