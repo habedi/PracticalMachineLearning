@@ -85,7 +85,6 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Sofia ML](https://github.com/glycerine/sofia-ml)
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 * [LibFM](http://www.libfm.org)
-* [Apache PredictionIO](https://github.com/apache/predictionio)
 
 ## Notebook Authoring Environments
 
@@ -180,6 +179,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 * [CompLearn](http://complearn.org/index.html)
 * [SNAP](https://github.com/snap-stanford/snap)
+* [Apache PredictionIO](https://github.com/apache/predictionio)
 
 ## My Favourites
 
