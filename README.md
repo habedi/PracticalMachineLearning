@@ -33,6 +33,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io)
 
 ## Dataset Repositories
 
@@ -192,3 +193,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
 * [Scikit-Learn website](http://scikit-learn.org/stable/)
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do)
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io)
