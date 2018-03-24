@@ -143,7 +143,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Lime](https://github.com/marcotcr/lime)
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python)
-* [JGraphT](https://github.com/jgrapht/jgrapht)
+* [PyConda](https://github.com/bhargavvader/pycobra)
 
 ## Additional Useful Resourses
 
@@ -182,6 +182,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [CompLearn](http://complearn.org/index.html)
 * [SNAP](https://github.com/snap-stanford/snap)
 * [Apache PredictionIO](https://github.com/apache/predictionio)
+* [JGraphT](https://github.com/jgrapht/jgrapht)
 
 ## My Favourites
 
