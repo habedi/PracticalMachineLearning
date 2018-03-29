@@ -187,11 +187,11 @@ My curated list of data science resourses, including books, papers, softwares, l
 ## My Favourites
 
 * [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE)
-* [Procrustes](https://en.wikipedia.org/wiki/Procrustes)
+* [Procrustes](https://en.wikipedia.org/wiki/Procrustes): How could we live without Wikipedia?
 * [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
-* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): A good book to start learning ML, A must for every ML enthusiast
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
-* [Scikit-Learn website](http://scikit-learn.org/stable/)
-* [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do)
-* [Readings in Database Systems(The Red Book)](http://www.redbook.io)
+* [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-Learn's website itself is a great resource to learn!
+* [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid critisms of **Strong AI**!, **Are AI and Akchemy the same?**
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to catch at first but great many resources are mentioned at the end of each chapter
