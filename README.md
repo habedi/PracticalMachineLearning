@@ -194,4 +194,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
 * [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-Learn's website itself is a great resource to learn!
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid critisms of **Strong AI**!, **Are AI and Akchemy the same?**
-* [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history and trends and future of DBMSs and Data Processing Platforms
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
