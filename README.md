@@ -87,6 +87,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Sofia ML](https://github.com/glycerine/sofia-ml)
 * [LIBLINEAR](https://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 * [LibFM](http://www.libfm.org)
+* [SVM Rank](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html)
 
 ## Notebook Authoring Environments
 
