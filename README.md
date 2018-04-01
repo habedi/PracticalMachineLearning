@@ -19,22 +19,22 @@ My curated list of data science resourses, including books, papers, softwares, l
 ## Books and Writings
 
 <!-- * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8) -->
-* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): I strongly suggest reading this book
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io): I strongly suggest reading this book
+* [A Course in Machine Learning](http://ciml.info): Good book to start learning ML
+* [Mining Massive Datasets](http://www.mmds.org): Great book about Data Mining algorithms and their applications
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Good starter book to Network Science and its applications(e.g. graph analysis, social network analysis)
+* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
-* [Mining Massive Datasets](http://www.mmds.org)
+* [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): Good starter book for learning Python
 * [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Deep Learning Book(MIT Press)](https://github.com/janishar/mit-deep-learning-book-pdf)
-* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
-* [Arxiv.org/ML](https://arxiv.org/list/stat.ML/recent)
-* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
-* [Readings in Database Systems(The Red Book)](http://www.redbook.io)
-* [A Course in Machine Learning](http://ciml.info)
 
 ## Dataset Repositories
 
