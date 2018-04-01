@@ -34,6 +34,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io)
+* [A Course in Machine Learning](http://ciml.info)
 
 ## Dataset Repositories
 
