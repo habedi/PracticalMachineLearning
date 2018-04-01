@@ -22,7 +22,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): I strongly suggest reading this book
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): I strongly suggest reading this book
 * [A Course in Machine Learning](http://ciml.info): Good book to start learning ML
-* [Mining Massive Datasets](http://www.mmds.org): Great book about Data Mining algorithms and their applications
+* [Mining Massive Datasets](http://www.mmds.org): Great book about Big Data concepts, Data Mining algorithms and their applications
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Good starter book to Network Science and its applications(e.g. graph analysis, social network analysis)
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
@@ -170,7 +170,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Mxnet](https://github.com/apache/incubator-mxnet)
+* [Apache Mxnet](https://mxnet.apache.org)
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
