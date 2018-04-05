@@ -175,7 +175,6 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [GATE](https://gate.ac.uk/download/)
-* [Microsoft CNTK](https://github.com/Microsoft/CNTK)
 * [MALLET](http://mallet.cs.umass.edu/topics.php)
 * [MLPack](http://www.mlpack.org)
 * [t-SNE](https://lvdmaaten.github.io/tsne/)
@@ -185,6 +184,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [SNAP](https://github.com/snap-stanford/snap)
 * [Apache PredictionIO](https://github.com/apache/predictionio)
 * [JGraphT](https://github.com/jgrapht/jgrapht)
+* [Microsoft Distributed Machine Learning Toolkit](http://www.dmtk.io)
+* [Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 
 ## My Favourites
 
