@@ -81,7 +81,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## Toolboxes & Distributions
 
-* [Anaconda](https://conda.io/docs/user-guide/install/download.html)
+* [Anaconda](https://conda.io/docs/user-guide/install/download.html): A very user friendly environment for scientific Python development
 * [Miniconda](https://conda.io/miniconda.html)
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
 * [StackNet](https://github.com/kaz-Anova/StackNet)
