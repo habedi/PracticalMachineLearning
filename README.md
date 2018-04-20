@@ -190,7 +190,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 ## My Favourites
 
-* [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE)
+* [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE): Good talk from someone inside the field
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes): How could we live without Wikipedia?
 * [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
