@@ -187,6 +187,10 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [JGraphT](https://github.com/jgrapht/jgrapht)
 * [Microsoft Distributed Machine Learning Toolkit](http://www.dmtk.io)
 * [Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
+* [BIDMat](https://github.com/BIDData/BIDMat)
+* [BIDMach](https://github.com/BIDData/BIDMach)
+* [Apache SystemML](https://systemml.apache.org)
+* [Apache Mahout](https://mahout.apache.org)
 
 ## My Favourites
 
