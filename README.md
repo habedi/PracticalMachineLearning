@@ -191,6 +191,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [BIDMach](https://github.com/BIDData/BIDMach)
 * [Apache SystemML](https://systemml.apache.org)
 * [Apache Mahout](https://mahout.apache.org)
+* [Accord.NET](http://accord-framework.net)
 
 ## My Favourites
 
