@@ -193,6 +193,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Mahout](https://mahout.apache.org)
 * [Accord.NET](http://accord-framework.net)
 * [BitMAGIC Library](http://bitmagic.io/)
+* [Cassovary](http://twitter.com/cassovary)
 
 ## My Favourites
 
