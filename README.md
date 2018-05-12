@@ -6,7 +6,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="center">
   
-<!-- <img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" /> !--> 
+<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
 
 <div align="left">
   
