@@ -148,6 +148,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [PyConda](https://github.com/bhargavvader/pycobra)
 * [TF Learn](http://tflearn.org)
 * [Featuretools](https://github.com/Featuretools/featuretools)
+* [spaCy](https://github.com/explosion/spaCy)
 
 ## Additional Useful Resourses
 
