@@ -147,6 +147,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [SNAP-Python](https://github.com/snap-stanford/snap-python)
 * [PyConda](https://github.com/bhargavvader/pycobra)
 * [TF Learn](http://tflearn.org)
+* [Featuretools](https://github.com/Featuretools/featuretools)
 
 ## Additional Useful Resourses
 
