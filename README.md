@@ -196,7 +196,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Accord.NET](http://accord-framework.net)
 * [BitMAGIC Library](http://bitmagic.io/)
 * [Cassovary](http://twitter.com/cassovary)
-* [Dex](https://github.com/PatMartin/Dex)
+* [Dex](https://dexvis.net/)
+* [Apache OpenNLP](https://opennlp.apache.org/)
 
 ## My Favourites
 
