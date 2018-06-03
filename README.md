@@ -203,7 +203,6 @@ My curated list of data science resourses, including books, papers, softwares, l
 
 * [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE): Good talk from someone inside the field
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes): How could we live without Wikipedia?
-* [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): A good book to start learning ML, A must for every ML enthusiast
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
