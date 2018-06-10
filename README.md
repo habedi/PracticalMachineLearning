@@ -159,16 +159,16 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Orange](https://orange.biolab.si/)
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/): The famous Data Mining tool from where Kiwis live
 * [ELKI](https://elki-project.github.io/): A Data Mining software framework in Java
-* [Julia Programming Language](https://julialang.org/)
+* [Julia Programming Language](https://julialang.org/): New language for Scientific Computing and HPC
 * [SQL Notebook](https://sqlnotebook.com/)
-* [IPython](https://ipython.org/)
-* [Incanter](http://incanter.org/)
-* [Torch](http://torch.ch/)
+* [IPython](https://ipython.org/): An augmented Python shell with lots of features
+* [Incanter](http://incanter.org/): An statistical analysis environment for a Lisp(for Clojure to be exact)
+* [Torch](http://torch.ch/): Scientific Computing framework running on top of Lua's Just in Time compiler, briliant idea!
 * [BPython](https://bpython-interpreter.org/)
-* [RAnalyticFlow](http://r.analyticflow.com/en/)
-* [SPMF](http://www.philippe-fournier-viger.com/spmf/)
-* [SageMath](http://www.sagemath.org)
-* [H2O AI Platform](https://www.h2o.ai/)
+* [RAnalyticFlow](http://r.analyticflow.com/en/): Greate environment for Data Flow Programming in R
+* [SPMF](http://www.philippe-fournier-viger.com/spmf/): A Java Data Mining library with tons of algorithms
+* [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
+* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
