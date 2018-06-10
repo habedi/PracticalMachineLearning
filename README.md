@@ -158,7 +158,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Franchise Notebook](https://franchise.cloud/)
 * [Orange](https://orange.biolab.si/)
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
-* [ELKI](https://elki-project.github.io/)
+* [ELKI](https://elki-project.github.io/): A Data Mining software framework in Java
 * [Julia Programming Language](https://julialang.org/)
 * [SQL Notebook](https://sqlnotebook.com/)
 * [IPython](https://ipython.org/)
@@ -180,7 +180,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [GATE](https://gate.ac.uk/download/)
 * [MALLET](http://mallet.cs.umass.edu/topics.php)
 * [MLPack](http://www.mlpack.org)
-* [t-SNE](https://lvdmaaten.github.io/tsne/)
+* [t-SNE](https://lvdmaaten.github.io/tsne/): Implementation of famous t-distributed stochastic neighbor embedding algorithm for various languages
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 * [CompLearn](http://complearn.org/index.html)
@@ -198,6 +198,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Cassovary](http://twitter.com/cassovary)
 * [Dex](https://dexvis.net/)
 * [Apache OpenNLP](https://opennlp.apache.org/)
+* [OpenNN](http://www.opennn.net): A C++ library to build complex neural network models
+
 
 ## My Favourites
 
