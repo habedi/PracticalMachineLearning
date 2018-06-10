@@ -178,7 +178,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [GATE](https://gate.ac.uk/download/)
-* [MALLET](http://mallet.cs.umass.edu/topics.php)
+* [MALLET](http://mallet.cs.umass.edu/topics.php): "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text." - MALLET's website
 * [MLPack](http://www.mlpack.org)
 * [t-SNE](https://lvdmaaten.github.io/tsne/): Implementation of famous t-distributed stochastic neighbor embedding algorithm for various languages
 * [Caffe](https://github.com/BVLC/caffe)
