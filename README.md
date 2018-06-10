@@ -141,14 +141,14 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
 * [Scikit-Learn Contributions](https://github.com/scikit-learn-contrib)
-* [Koolmogorov](https://github.com/MLWave/koolmogorov)
-* [Lime](https://github.com/marcotcr/lime)
+* [Koolmogorov](https://github.com/MLWave/koolmogorov): A python library for hierarchical clustering and visualization
+* [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python)
 * [PyConda](https://github.com/bhargavvader/pycobra)
-* [TF Learn](http://tflearn.org)
-* [Featuretools](https://github.com/Featuretools/featuretools)
-* [spaCy](https://github.com/explosion/spaCy)
+* [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
+* [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
+* [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
 
 ## Additional Useful Resourses
 
@@ -214,3 +214,4 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-Learn's website itself is a great resource to learn!
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
+* [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
