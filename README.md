@@ -157,7 +157,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Xgboost Benchmarks](https://catboost.yandex/)
 * [Franchise Notebook](https://franchise.cloud/)
 * [Orange](https://orange.biolab.si/)
-* [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+* [Weka](https://www.cs.waikato.ac.nz/ml/weka/): The famous Data Mining tool from where Kiwis live
 * [ELKI](https://elki-project.github.io/): A Data Mining software framework in Java
 * [Julia Programming Language](https://julialang.org/)
 * [SQL Notebook](https://sqlnotebook.com/)
@@ -199,6 +199,8 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Dex](https://dexvis.net/)
 * [Apache OpenNLP](https://opennlp.apache.org/)
 * [OpenNN](http://www.opennn.net): A C++ library to build complex neural network models
+* [MOA](https://moa.cms.waikato.ac.nz/): A tool for mining stream data, by people who also created Weka
+* [MLPACK](http://mlpack.org): C++ Machine Learning library for scalability, speed, and ease-of-use
 
 
 ## My Favourites
