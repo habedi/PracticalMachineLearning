@@ -201,6 +201,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [OpenNN](http://www.opennn.net): A C++ library to build complex neural network models
 * [MOA](https://moa.cms.waikato.ac.nz/): A tool for mining stream data, by people who also created Weka
 * [MLPACK](http://mlpack.org): C++ Machine Learning library for scalability, speed, and ease-of-use
+* [MOSES](http://www.statmt.org/moses): "Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair." - Moses's website
 
 
 ## My Favourites
