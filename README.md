@@ -149,6 +149,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
+* [SymPy](http://www.sympy.org/en/index.html): Symbolic computation library for Python, Aiming to become a full-fledged CAS
 
 ## Additional Useful Resourses
 
