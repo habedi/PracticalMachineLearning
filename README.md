@@ -6,7 +6,7 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="center">
   
-<img src="http://scikit-learn.org/stable/_static/ml_map.png" alt="ML algorithms" width="431" height="390" />
+<img src="http://scikit-learn.org/stable/_static/ml_map.png" alt="ML algorithms" width="800" height="500" />
 
 <div align="left">
   
