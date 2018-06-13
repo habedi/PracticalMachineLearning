@@ -1,4 +1,4 @@
-# My data science related stuff!
+# My Machine Learning related stuff!
 My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data analysis and machine learning related stuff in general
 
 * [Apache Zeppelin Notebooks(Need maintenance)](zeppelin_notebooks/)
@@ -6,13 +6,13 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="center">
   
-<img src="http://i.imgur.com/nFXKnl7.png" alt="Data Science" width="431" height="390" />
+<img src="http://scikit-learn.org/stable/_static/ml_map.png" alt="ML algorithms" width="431" height="390" />
 
 <div align="left">
   
-# Data Science Resourses(with an emphasis on Python)
+# ML Resourses(with an emphasis on Python)
 
-My curated list of data science resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
+My curated list of Machine Learning resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
 ### Version: 0.32
 
@@ -97,7 +97,7 @@ My curated list of data science resourses, including books, papers, softwares, l
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
 
-## Python Data Science Libraries
+## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
 * [Pandas](https://pandas.pydata.org/)
 * [Scipy](https://www.scipy.org/)
