@@ -99,15 +99,15 @@ My curated list of Machine Learning resourses, including books, papers, software
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
-* [Pandas](https://pandas.pydata.org/): Famous Python data manipulation library
-* [Scipy](https://www.scipy.org/): Defacto Python scientific computation library
-* [Numpy](http://www.numpy.org/): Python linear algebra library for fast numerical computation
+* [Pandas](https://pandas.pydata.org/): Famous Python's data manipulation library
+* [Scipy](https://www.scipy.org/): Defacto Pythons scientific computation library
+* [Numpy](http://www.numpy.org/): Linear algebra library for fast numerical computation
 * [Scikit Learn](http://scikit-learn.org/): High-level Machine Learning library with tons of features, very easy-to-use and extendable
 * [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
 * [Matplotlib](https://matplotlib.org/): A very powerful data visualization library, More low-level than other visualization libs
 * [Graph tool](https://graph-tool.skewed.de/): A very fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
 * [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times becasue it's in pure Python
-* [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on cpu and gpu, Usually you use TF in conjuction with a higher level library exposing its functionalies like Keras
+* [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on cpu and gpu, Usually you use TF in conjuction with a library with higher level API exposing TF's functionalies like Keras
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
 * [NLTK](http://www.nltk.org/)
 * [Pattern](https://www.clips.uantwerpen.be/pattern)
@@ -121,7 +121,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [NetworKit](https://networkit.iti.kit.edu/)
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
 * [Pandasql](https://github.com/yhat/pandasql)
-* [Dask](https://github.com/dask/dask)
+* [Dask](https://github.com/dask/dask): A fast data manipulation library with out-of-core handling of the data, Suited for a distributed environment, Its API is (exactly)compatible with Pandas' API
 * [MLBox](https://github.com/AxeldeRomblay/MLBox)
 * [Gensim](https://github.com/RaRe-Technologies/gensim)
 * [Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
@@ -167,7 +167,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [IPython](https://ipython.org/): An augmented Python shell with lots of features
 * [Incanter](http://incanter.org/): A statistical analysis environment for a Lisp(for Clojure to be exact)
 * [Torch](http://torch.ch/): Scientific Computing framework running on top of Lua's Just in Time compiler, briliant idea!
-* [BPython](https://bpython-interpreter.org/)
+* [BPython](https://bpython-interpreter.org/): An advanced Python shell
 * [RAnalyticFlow](http://r.analyticflow.com/en/): Great environment for Data Flow Programming in R
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/): A Java Data Mining library with tons of cool algorithms
 * [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
