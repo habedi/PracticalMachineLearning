@@ -99,16 +99,16 @@ My curated list of Machine Learning resourses, including books, papers, software
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
-* [Pandas](https://pandas.pydata.org/)
-* [Scipy](https://www.scipy.org/)
-* [Numpy](http://www.numpy.org/)
-* [Scikit Learn](http://scikit-learn.org/)
-* [Bokeh](https://bokeh.pydata.org/en/latest/)
-* [Matplotlib](https://matplotlib.org/)
-* [Graph tool](https://graph-tool.skewed.de/)
-* [NetworkX](https://networkx.github.io/)
-* [TensorFlow](https://github.com/tensorflow/tensorflow)
-* [Keras](https://keras.io/)
+* [Pandas](https://pandas.pydata.org/): Famous Python data manipulation library
+* [Scipy](https://www.scipy.org/): Defacto Python scientific computation library
+* [Numpy](http://www.numpy.org/): Python linear algebra library for fast numerical computation
+* [Scikit Learn](http://scikit-learn.org/): High-level Machine Learning library with tons of features, very easy-to-use and extendable
+* [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
+* [Matplotlib](https://matplotlib.org/): A very powerful data visualization library, More low-level than other visualization libs
+* [Graph tool](https://graph-tool.skewed.de/): A very fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
+* [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times becasue it's in pure Python
+* [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on cpu and gpu, Usually you use TF in conjuction with a higher level library exposing its functionalies like Keras
+* [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
 * [NLTK](http://www.nltk.org/)
 * [Pattern](https://www.clips.uantwerpen.be/pattern)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
