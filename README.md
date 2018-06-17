@@ -14,8 +14,6 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 My curated list of Machine Learning resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
 
-### Version: 0.32
-
 ## Books and Writings
 
 <!-- * [Encyclopedia of Machine Learning](https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8) -->
