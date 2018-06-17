@@ -205,6 +205,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [MOA](https://moa.cms.waikato.ac.nz/): A tool for mining stream data, by people who also created Weka
 * [MLPACK](http://mlpack.org): C++ Machine Learning library for scalability, speed, and ease-of-use
 * [MOSES](http://www.statmt.org/moses): "Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair." - Moses's website
+* [Parallel Python](https://www.parallelpython.com/): A Python module for parallel execution of code on SMP and Cluster environment 
 
 
 ## My Favourites
