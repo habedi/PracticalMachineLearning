@@ -109,7 +109,6 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
 * [NLTK](http://www.nltk.org/)
 * [Pattern](https://www.clips.uantwerpen.be/pattern)
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [IPython](https://ipython.org/)
 * [Orange](https://orange.biolab.si/)
 * [Theano](http://deeplearning.net/software/theano/)
@@ -150,7 +149,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [SymPy](http://www.sympy.org/en/index.html): Symbolic computation library for Python, Aiming to become a full-fledged CAS
 * [Uniform Manifold Approximation and Projection]: A general non-linear dimsionality reduction algorithm imeplemented in Python
 * [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis
-* [Turi Create](https://github.com/apple/turicreate): A tool/library for simplifying various ML tasks
+* [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
 
 ## Additional Useful Resourses
 
@@ -205,6 +204,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [MLPACK](http://mlpack.org): C++ Machine Learning library for scalability, speed, and ease-of-use
 * [MOSES](http://www.statmt.org/moses): "Moses is a statistical machine translation system that allows you to automatically train translation models for any language pair." - Moses's website
 * [Parallel Python](https://www.parallelpython.com/): A Python module for parallel execution of code on SMP and Cluster environment
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): A handy Python library to digest almost anything from World Wild Web
 
 ## My Favourites
 
