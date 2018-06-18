@@ -113,7 +113,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Orange](https://orange.biolab.si/)
 * [Theano](http://deeplearning.net/software/theano/)
 * [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees
-* [Xgboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting with extra regularizations
+* [Xgboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularizations
 * [Mlxtend](https://github.com/rasbt/mlxtend)
 * [NetworKit](https://networkit.iti.kit.edu/)
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
