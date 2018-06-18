@@ -112,8 +112,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [IPython](https://ipython.org/)
 * [Orange](https://orange.biolab.si/)
 * [Theano](http://deeplearning.net/software/theano/)
-* [Catboost](https://github.com/catboost/catboost)
-* [Xgboost](https://github.com/dmlc/xgboost)
+* [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees
+* [Xgboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting with extra regularizations
 * [Mlxtend](https://github.com/rasbt/mlxtend)
 * [NetworKit](https://networkit.iti.kit.edu/)
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
@@ -169,7 +169,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [RAnalyticFlow](http://r.analyticflow.com/en/): Great environment for Data Flow Programming in R
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/): A Java Data Mining library with tons of cool algorithms
 * [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
-* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks
+* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks, It has tons of fearures
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
