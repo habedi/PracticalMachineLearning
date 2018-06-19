@@ -121,7 +121,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Dask](https://github.com/dask/dask): A fast data manipulation library with out-of-core handling of the data, Suited for a distributed environment, Its API is (exactly)compatible with Pandas' API
 * [MLBox](https://github.com/AxeldeRomblay/MLBox)
 * [Gensim](https://github.com/RaRe-Technologies/gensim)
-* [Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+* [Scikit-Learn-Contrib/Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn): An extension library for Scikit-Learn for handling imbalanced datasets
 * [Patsy](https://github.com/pydata/patsy): "Kamelot!!! ... It's just a model ... Shhhh!"
 * [Statsmodels](http://www.statsmodels.org/stable/index.html)
 * [Seaborn](https://github.com/mwaskom/seaborn)
@@ -134,10 +134,10 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [PyBrain](http://pybrain.org)
 * [Sklearn-Pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
-* [Lightning](https://github.com/scikit-learn-contrib/lightning)
+* [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-Learn for large-scale linear classification, regression and ranking problems
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
-* [Scikit-Learn Contributions](https://github.com/scikit-learn-contrib)
+* [Scikit-Learn Contrib/*](https://github.com/scikit-learn-contrib/scikit-learn-contrib): A collection of extension libraries for Scikit-Learn adding new (missing) functionalities to it
 * [Koolmogorov](https://github.com/MLWave/koolmogorov): A python library for hierarchical clustering and visualization
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
@@ -150,7 +150,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Uniform Manifold Approximation and Projection]: A general non-linear dimsionality reduction algorithm imeplemented in Python
 * [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis
 * [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
-* [Scikit-Learn-Contrib/Categorical-Encoding](https://github.com/scikit-learn-contrib/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
+* [Scikit-Learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
 
 ## Additional Useful Resourses
 
@@ -198,7 +198,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Accord.NET](http://accord-framework.net)
 * [BitMAGIC Library](http://bitmagic.io/)
 * [Cassovary](http://twitter.com/cassovary)
-* [Dex](https://dexvis.net/)
+* [Dex](https://dexvis.net/): A nice Java based tool for Data Analysis and Data Mining
 * [Apache OpenNLP](https://opennlp.apache.org/)
 * [OpenNN](http://www.opennn.net): A C++ library to build complex neural network models
 * [MOA](https://moa.cms.waikato.ac.nz/): A tool for mining stream data, by people who also created Weka
