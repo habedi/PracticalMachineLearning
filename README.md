@@ -148,7 +148,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
 * [SymPy](http://www.sympy.org/en/index.html): Symbolic computation library for Python, Aiming to become a full-fledged CAS
 * [Uniform Manifold Approximation and Projection]: A general non-linear dimsionality reduction algorithm imeplemented in Python
-* [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis
+* [Scikit-Learn Contrib/HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis
 * [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
 * [Scikit-Learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
 
