@@ -212,6 +212,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Wordbatch](https://github.com/anttttti/Wordbatch): A library for parallel feature extraction on textual data(and potentially other complex data types)
 * [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
 * [SKIL](https://skymind.ai)
+* [An unofficial Python extension package reposiroty for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 
 ## My Favourites
 
