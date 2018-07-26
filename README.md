@@ -210,7 +210,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Parallel Python](https://www.parallelpython.com/): A Python module for parallel execution of code on SMP and Cluster environment
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): A handy Python library to digest almost anything from World Wild Web
 * [Wordbatch](https://github.com/anttttti/Wordbatch): A library for parallel feature extraction on textual data(and potentially other complex data types)
-* [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python 
+* [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
+* [SKIL](https://skymind.ai)
 
 ## My Favourites
 
