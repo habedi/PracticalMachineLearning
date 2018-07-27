@@ -154,6 +154,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
 * [Scikit-Learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
 * [Optunity](http://optunity.readthedocs.io/en/latest/index.html): A library for hyperparameter optimization
+* [Kmodes](https://github.com/nicodv/kmodes)
 
 ## Additional Useful Resourses
 
