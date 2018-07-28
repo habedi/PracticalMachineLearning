@@ -214,6 +214,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
 * [SKIL](https://skymind.ai)
 * [An unofficial Python extension package reposiroty for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
+* [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 
 ## My Favourites
 
