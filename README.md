@@ -215,6 +215,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [SKIL](https://skymind.ai)
 * [An unofficial Python extension package reposiroty for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
+* [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system" accordint to its website
 
 ## My Favourites
 
