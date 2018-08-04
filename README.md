@@ -35,6 +35,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
+* [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of almost all of the research papers published about various DL related topics
 
 ## Dataset Repositories
 
