@@ -62,7 +62,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
 * [CrowdAI](https://www.crowdai.org)
 * [Quora](https://www.quora.com)
-* [Github.com](https://github.com/)
+* [Github.com](https://github.com/): Github contains many useful resources such as code for many algorrithms
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/)
