@@ -156,6 +156,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Scikit-Learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
 * [Optunity](http://optunity.readthedocs.io/en/latest/index.html): A library for hyperparameter optimization
 * [Kmodes](https://github.com/nicodv/kmodes)
+* [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 
 ## Additional Useful Resourses
 
