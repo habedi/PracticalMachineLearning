@@ -55,7 +55,6 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning): Quora again:)
 * [Stack Overflow](https://stackoverflow.com): General Q&A for develpers, need help with your code then it's the place
 
-
 ## Useful Websites
 
 * [Kaggle](https://www.kaggle.com)
