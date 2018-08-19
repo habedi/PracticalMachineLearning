@@ -218,6 +218,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [An unofficial Python extension package reposiroty for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
+* [Tablesaw](https://github.com/jtablesaw/tablesaw): A dataframe and visualization library for Java
 
 ## My Favourites
 
