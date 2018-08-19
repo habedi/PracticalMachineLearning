@@ -156,6 +156,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Optunity](http://optunity.readthedocs.io/en/latest/index.html): A library for hyperparameter optimization
 * [Kmodes](https://github.com/nicodv/kmodes)
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
+* [Pyro](https://github.com/uber/pyro)
 
 ## Additional Useful Resourses
 
