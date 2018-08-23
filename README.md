@@ -219,6 +219,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
 * [Tablesaw](https://github.com/jtablesaw/tablesaw): A dataframe and visualization library for Java
+* [TensorFlow Models](https://github.com/tensorflow/models): A repository of models and examples built with TensorFlow
 
 ## My Favourites
 
