@@ -157,6 +157,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Kmodes](https://github.com/nicodv/kmodes)
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Pyro](https://github.com/uber/pyro)
+* [GEN](https://github.com/palash1992/GEM): Python library that provides various graph embedding methods like 'node2vec' and 'localy linear embedding'
 
 ## Additional Useful Resourses
 
