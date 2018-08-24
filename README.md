@@ -140,7 +140,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
 * [Scikit-Learn Contrib/*](https://github.com/scikit-learn-contrib/scikit-learn-contrib): A collection of extension libraries for Scikit-Learn adding new (missing) functionalities to it
-* [Koolmogorov](https://github.com/MLWave/koolmogorov): A python library for hierarchical clustering and visualization
+* [Koolmogorov](https://github.com/MLWave/koolmogorov): A Python library for hierarchical clustering and visualization
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python)
@@ -157,7 +157,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Kmodes](https://github.com/nicodv/kmodes)
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Pyro](https://github.com/uber/pyro)
-* [GEN](https://github.com/palash1992/GEM): Python library that provides various graph embedding methods like 'node2vec' and 'localy linear embedding'
+* [GEN](https://github.com/palash1992/GEM): A Python library that provides various graph embedding methods like 'node2vec' and 'localy linear embedding'
 
 ## Additional Useful Resourses
 
