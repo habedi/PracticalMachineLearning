@@ -36,7 +36,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 * [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL related topics over the years
-* [Network Representation Learning](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
+* [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
+* [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
 
 ## Dataset Repositories
 
@@ -117,8 +118,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Theano](http://deeplearning.net/software/theano/)
 * [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees, It supports categorical features out of the box
 * [Xgboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularizations
-* [Mlxtend](https://github.com/rasbt/mlxtend)
-* [NetworKit](https://networkit.iti.kit.edu/)
+* [Mlxtend](https://github.com/rasbt/mlxtend): A great Data Mining and Machine Learning library with 
+* [NetworKit](https://networkit.iti.kit.edu/): A very high performance graph processing and analysis toolkit, written in C++ and uses OpenMP so it is very fast on multicore computers
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
 * [Pandasql](https://github.com/yhat/pandasql)
 * [Dask](https://github.com/dask/dask): A fast data manipulation library with out-of-core handling of the data, Suited for a distributed environment, Its API is (exactly)compatible with Pandas' API
