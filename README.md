@@ -226,6 +226,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [TensorFlow Models](https://github.com/tensorflow/models): A repository of models and examples built with TensorFlow
 * [Curated list of graph embedding methods](https://github.com/chihming/awesome-network-embedding): A collection of of paper-code pairs for state of the art graph embeddings(a.k.a network representational learning) algorithms
 * [Curated list of resources for Recomender Systems](https://github.com/chihming/competitive-recsys)
+* [Pegasus](http://www.cs.cmu.edu/~pegasus/): An opensource system for analyzing very large graphs
 
 ## My Favourites
 
