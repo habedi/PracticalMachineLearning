@@ -202,7 +202,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [JGraphT](https://github.com/jgrapht/jgrapht)
 * [Microsoft Distributed Machine Learning Toolkit](http://www.dmtk.io)
 * [Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
-* [BIDMat](https://github.com/BIDData/BIDMat)
+* [BIDMat](https://github.com/BIDData/BIDMat): A both CPU and GPU-accelerated matrix library for data mining tasks
 * [BIDMach](https://github.com/BIDData/BIDMach)
 * [Apache SystemML](https://systemml.apache.org)
 * [Apache Mahout](https://mahout.apache.org)
