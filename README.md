@@ -145,7 +145,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Koolmogorov](https://github.com/MLWave/koolmogorov): A Python library for hierarchical clustering and visualization
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
-* [SNAP-Python](https://github.com/snap-stanford/snap-python)
+* [SNAP-Python](https://github.com/snap-stanford/snap-python):  Python wrapper library for Stanford Network Analysis Platform (SNAP)
 * [PyConda](https://github.com/bhargavvader/pycobra)
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
@@ -163,6 +163,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [GraphSAGE](http://snap.stanford.edu/graphsage/): A graph embedding framework to generate low-dimensional vector representations for nodes, very useful if you need to use deep learning on graph data
 * [Horovd](https://github.com/uber/horovod): A distributed training framework for TensorFlow, Keras, and PyTorch by Uber
 * [NetLSD](https://github.com/xgfs/NetLSD): Python implementation of NetLSD, a scalable graph embedding algorithm for representing a graph via a low-dimensional vector
+* [PyGraphhostry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs 
 
 ## Additional Useful Resourses
 
