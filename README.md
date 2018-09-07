@@ -163,7 +163,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [GraphSAGE](http://snap.stanford.edu/graphsage/): A graph embedding framework to generate low-dimensional vector representations for nodes, very useful if you need to use deep learning on graph data
 * [Horovd](https://github.com/uber/horovod): A distributed training framework for TensorFlow, Keras, and PyTorch by Uber
 * [NetLSD](https://github.com/xgfs/NetLSD): Python implementation of NetLSD, a scalable graph embedding algorithm for representing a graph via a low-dimensional vector
-* [PyGraphhistry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs 
+* [PyGraphhistry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs
+* [SHAP](https://github.com/slundberg/shap): A tool for explaoring and explaining outcome of an arbitrary model
 
 ## Additional Useful Resourses
 
