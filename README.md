@@ -146,7 +146,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python):  Python wrapper library for Stanford Network Analysis Platform (SNAP)
-* [Pyconda](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations
+* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
