@@ -231,6 +231,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Curated list of graph embedding methods](https://github.com/chihming/awesome-network-embedding): A collection of of paper-code pairs for state of the art graph embeddings(a.k.a network representational learning) algorithms
 * [Curated list of resources for Recomender Systems](https://github.com/chihming/competitive-recsys)
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An opensource system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
+* [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 
 ## My Favourites
 
