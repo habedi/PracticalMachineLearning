@@ -136,7 +136,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym)
 * [PyBrain](http://pybrain.org)
-* [Sklearn-Pandas](https://github.com/paulgb/sklearn-pandas/)
+* [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 * [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-Learn for large-scale linear classification, regression and ranking problems
 * [GPLearn](https://github.com/trevorstephens/gplearn)
