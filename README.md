@@ -125,7 +125,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Dask](https://github.com/dask/dask): A fast data manipulation library with out-of-core handling of the data, Suited for a distributed environment, Its API is (exactly)compatible with Pandas' API
 * [MLBox](https://github.com/AxeldeRomblay/MLBox)
 * [Gensim](https://github.com/RaRe-Technologies/gensim)
-* [Scikit-Learn-Contrib/Imbalanced-Learn](https://github.com/scikit-learn-contrib/imbalanced-learn): An extension library for Scikit-Learn for handling imbalanced datasets
+* [Scikit-learn-Contrib/Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn): An extension library for Scikit-learn for handling imbalanced datasets
 * [Patsy](https://github.com/pydata/patsy): "Kamelot!!! ... It's just a model ... Shhhh!"
 * [Statsmodels](http://www.statsmodels.org/stable/index.html)
 * [Seaborn](https://github.com/mwaskom/seaborn)
@@ -138,10 +138,10 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [PyBrain](http://pybrain.org)
 * [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
-* [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-Learn for large-scale linear classification, regression and ranking problems
+* [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-learn for large-scale linear classification, regression and ranking problems
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
-* [Scikit-Learn Contrib/*](https://github.com/scikit-learn-contrib/scikit-learn-contrib): A collection of extension libraries for Scikit-Learn adding new (missing) functionalities to it
+* [Scikit-learn Contrib/*](https://github.com/scikit-learn-contrib/scikit-learn-contrib): A collection of extension libraries for Scikit-learn adding new (missing) functionalities to it
 * [Koolmogorov](https://github.com/MLWave/koolmogorov): A Python library for hierarchical clustering and visualization
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
@@ -152,9 +152,9 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
 * [SymPy](http://www.sympy.org/en/index.html): Symbolic computation library for Python, Aiming to become a full-fledged CAS
 * [Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap): A general non-linear dimsionality reduction algorithm imeplemented in Python
-* [Scikit-Learn Contrib/HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis; It works as an extension to Scikit-Learn
+* [Scikit-learn Contrib/HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis; It works as an extension to Scikit-learn
 * [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
-* [Scikit-Learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-Learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
+* [Scikit-learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
 * [Optunity](http://optunity.readthedocs.io/en/latest/index.html): A library for hyperparameter optimization
 * [Kmodes](https://github.com/nicodv/kmodes)
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
@@ -240,7 +240,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): A good book to start learning ML, A must for every ML enthusiast
 * [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
-* [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-Learn's website itself is a great resource to learn!
+* [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-learn's website itself is a great resource to learn!
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
