@@ -38,6 +38,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL related topics over the years
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
 * [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
+* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheatsheets on various important subject matters
 
 ## Dataset Repositories
 
