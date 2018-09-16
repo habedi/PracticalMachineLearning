@@ -166,6 +166,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [NetLSD](https://github.com/xgfs/NetLSD): Python implementation of NetLSD, a scalable graph embedding algorithm for representing a graph via a low-dimensional vector
 * [PyGraphhistry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs
 * [SHAP](https://github.com/slundberg/shap): A tool for explaoring and explaining outcome of an arbitrary model
+* [NLPre](https://github.com/NIHOPA/NLPre): Another cool Python NLP library
 
 ## Additional Useful Resourses
 
