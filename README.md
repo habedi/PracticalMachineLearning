@@ -167,6 +167,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [PyGraphhistry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs
 * [SHAP](https://github.com/slundberg/shap): A tool for explaoring and explaining outcome of an arbitrary model
 * [NLPre](https://github.com/NIHOPA/NLPre): Another cool Python NLP library
+* [GCN](https://github.com/tkipf/gcn/): Implementation of Graph Convolutional Networks in TensorFlow 
 
 ## Additional Useful Resourses
 
