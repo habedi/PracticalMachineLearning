@@ -235,6 +235,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An opensource system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
+* [Apache Tinkerpop](http://tinkerpop.apache.org/): A cool graph storage and computation framework
 
 ## My Favourites
 
