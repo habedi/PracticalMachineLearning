@@ -195,7 +195,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
 * [Apache Spark MLib](https://spark.apache.org/mllib/)
-* [Awesome-Python](https://github.com/vinta/awesome-python)
+* [Awesome-Python](https://github.com/vinta/awesome-python): A very thorough list of Pythonic resources (libraries, frameworks, etc)
 * [GATE](https://gate.ac.uk/download/)
 * [MALLET](http://mallet.cs.umass.edu/topics.php): "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text." - MALLET's website
 * [MLPack](http://www.mlpack.org)
@@ -237,6 +237,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
 * [Apache Tinkerpop](http://tinkerpop.apache.org/): A cool graph storage and computation framework
+* [Scilab](https://www.scilab.org/): An opensource numerical computation language and environment, great Matlab alternative
 
 ## My Favourites
 
