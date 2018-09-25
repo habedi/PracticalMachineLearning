@@ -72,6 +72,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Nice website about Data Mining](http://www.saedsayad.com)
 * [ML Resources on Github](https://github.com/collections/machine-learning)
 * [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
+* [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
 ## Editors & IDEs for Python
