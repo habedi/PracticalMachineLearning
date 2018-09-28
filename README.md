@@ -12,9 +12,9 @@ My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data 
 
 <div align="left">
   
-# ML Resourses(with an emphasis on Python)
+# ML Resources(with an emphasis on Python)
 
-My curated list of Machine Learning resourses, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generaly suited for working with data.
+My curated list of Machine Learning resources, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
 
 ## Books and Writings
 
@@ -38,7 +38,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL related topics over the years
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
 * [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
-* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheatsheets on various important subject matters
+* [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
 
 ## Dataset Repositories
 
@@ -56,7 +56,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Stack Exchange Data Science](https://datascience.stackexchange.com): Another nice Q&A community with emphasis on the technical side 
 * [Kaggle](https://www.kaggle.com): Kaggle again:)
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning): Quora again:)
-* [Stack Overflow](https://stackoverflow.com): General Q&A for develpers, need help with your code then it's the place
+* [Stack Overflow](https://stackoverflow.com): General Q&A for developers, need help with your code then it's the place
 
 ## Useful Websites
 
@@ -64,7 +64,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
 * [CrowdAI](https://www.crowdai.org)
 * [Quora](https://www.quora.com)
-* [Github.com](https://github.com/): Github contains many useful resources such as code for many algorrithms
+* [Github.com](https://github.com/): Github contains many useful resources such as code for many algorithms
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/)
@@ -110,8 +110,8 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
 * [Matplotlib](https://matplotlib.org/): A very powerful data visualization library, More low-level than other visualization libs
 * [Graph tool](https://graph-tool.skewed.de/): A very fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
-* [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times becasue it's in pure Python
-* [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on cpu and gpu, Usually you use TF in conjuction with a library with higher level API exposing TF's functionalies like Keras
+* [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times because it's in pure Python
+* [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on CPU and GPU, Usually you use TF in conjunction with a library with higher level API exposing TF's functionalities like Keras
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
 * [NLTK](http://www.nltk.org/)
 * [Pattern](https://www.clips.uantwerpen.be/pattern)
@@ -119,7 +119,7 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Orange](https://orange.biolab.si/)
 * [Theano](http://deeplearning.net/software/theano/)
 * [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees, It supports categorical features out of the box
-* [XGboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularizations
+* [XGboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularization
 * [Mlxtend](https://github.com/rasbt/mlxtend): A great Data Mining and Machine Learning library with 
 * [NetworKit](https://networkit.iti.kit.edu/): A very high performance graph processing and analysis toolkit, written in C++ and uses OpenMP so it is very fast on multicore computers
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
@@ -148,12 +148,12 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python):  Python wrapper library for Stanford Network Analysis Platform (SNAP)
-* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations
+* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualization tools including Voronoi tesselations
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
 * [SymPy](http://www.sympy.org/en/index.html): Symbolic computation library for Python, Aiming to become a full-fledged CAS
-* [Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap): A general non-linear dimsionality reduction algorithm imeplemented in Python
+* [Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap): A general non-linear dimensionality reduction algorithm implemented in Python
 * [Scikit-learn Contrib/HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): A high performance implementation of HDBSCAN clustering, HDBSCAN is robust and easy-to-use clustering algorithm with very little parameters, Ideal for for exploratory data analysis; It works as an extension to Scikit-learn
 * [Turi Create](https://github.com/apple/turicreate): A fast tool/library for simplifying various ML tasks
 * [Scikit-learn-Contrib/Categorical-Encoding](http://contrib.scikit-learn.org/categorical-encoding): An extension library for Scikit-learn that provides additional categorical feature encoding schemes(e.g. LeaveOneOut scheme)
@@ -161,20 +161,20 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Kmodes](https://github.com/nicodv/kmodes)
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Pyro](https://github.com/uber/pyro)
-* [GEM](https://github.com/palash1992/GEM): A Python library that provides various graph embedding methods like 'node2vec' and 'localy linear embedding'
+* [GEM](https://github.com/palash1992/GEM): A Python library that provides various graph embedding methods like 'node2vec' and 'locally linear embedding'
 * [GraphSAGE](http://snap.stanford.edu/graphsage/): A graph embedding framework to generate low-dimensional vector representations for nodes, very useful if you need to use deep learning on graph data
 * [Horovd](https://github.com/uber/horovod): A distributed training framework for TensorFlow, Keras, and PyTorch by Uber
 * [NetLSD](https://github.com/xgfs/NetLSD): Python implementation of NetLSD, a scalable graph embedding algorithm for representing a graph via a low-dimensional vector
 * [PyGraphhistry](https://github.com/graphistry/pygraphistry): A Python library to extract, transform, and visually explore big graphs
-* [SHAP](https://github.com/slundberg/shap): A tool for explaoring and explaining outcome of an arbitrary model
+* [SHAP](https://github.com/slundberg/shap): A tool for exploring and explaining outcome of an arbitrary model
 * [NLPre](https://github.com/NIHOPA/NLPre): Another cool Python NLP library
 * [GCN](https://github.com/tkipf/gcn/): Python implementation of graph convolutional networks in TensorFlow 
 
-## Additional Useful Resourses
+## Additional Useful Resources
 
 * [PyPy Python Implementation](https://pypy.org)
-* [Usefull Metrics](https://github.com/habedi/Metrics)
-* [Xgboost Benchmarks](https://catboost.yandex/)
+* [Useful Metrics](https://github.com/habedi/Metrics)
+* [XGboost Benchmarks](https://catboost.yandex/)
 * [Franchise Notebook](https://franchise.cloud/)
 * [Orange](https://orange.biolab.si/)
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/): The famous Data Mining tool from where Kiwis live
@@ -183,12 +183,12 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [SQL Notebook](https://sqlnotebook.com/)
 * [IPython](https://ipython.org/): An augmented Python shell with lots of features
 * [Incanter](http://incanter.org/): A statistical analysis environment for a Lisp(for Clojure to be exact)
-* [Torch](http://torch.ch/): Scientific Computing framework running on top of Lua's Just in Time compiler, briliant idea!
+* [Torch](http://torch.ch/): Scientific Computing framework running on top of Lua's Just in Time compiler, brilliant idea!
 * [BPython](https://bpython-interpreter.org/): An advanced Python shell
 * [RAnalyticFlow](http://r.analyticflow.com/en/): Great environment for Data Flow Programming in R
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/): A Java Data Mining library with tons of cool algorithms
 * [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
-* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks, It has tons of fearures
+* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks, It has tons of features
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine)
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
@@ -227,18 +227,18 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [Wordbatch](https://github.com/anttttti/Wordbatch): A library for parallel feature extraction on textual data(and potentially other complex data types)
 * [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
 * [SKIL](https://skymind.ai)
-* [An unofficial Python extension package reposiroty for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
+* [An unofficial Python extension package repository for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
-* [Tablesaw](https://github.com/jtablesaw/tablesaw): A dataframe and visualization library for Java
+* [Tablesaw](https://github.com/jtablesaw/tablesaw): A daydreamer and visualization library for Java
 * [TensorFlow Models](https://github.com/tensorflow/models): A repository of models and examples built with TensorFlow
 * [Curated list of graph embedding methods](https://github.com/chihming/awesome-network-embedding): A collection of of paper-code pairs for state of the art graph embeddings(a.k.a network representational learning) algorithms
-* [Curated list of resources for Recomender Systems](https://github.com/chihming/competitive-recsys)
-* [Pegasus](http://www.cs.cmu.edu/~pegasus/): An opensource system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
+* [Curated list of resources for Recommender Systems](https://github.com/chihming/competitive-recsys)
+* [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
 * [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework
-* [Scilab](https://www.scilab.org/): An opensource numerical computation language and environment, great Matlab alternative
+* [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, great Matlab alternative
 
 ## My Favourites
 
@@ -251,3 +251,4 @@ My curated list of Machine Learning resourses, including books, papers, software
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
+
