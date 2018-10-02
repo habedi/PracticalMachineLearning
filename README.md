@@ -239,6 +239,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
 * [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, great Matlab alternative
+* [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardwares
 
 ## My Favourites
 
