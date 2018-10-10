@@ -243,6 +243,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardwares
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
 * [GraphDrawing](https://www.gradlibrary.net): A very nice graph analysis and drawing library in Java
+* [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
 
 ## My Favourites
 
