@@ -1,7 +1,7 @@
 ## J'ai seulement fait ici un amas de fleurs étrangères, n'y ayant fourni du mien que le filet à les lier.
 
 # My Machine Learning related stuff!
-My Apache Zeppelin and Jupyter notebooks(and more!) for a series of useful data analysis and machine learning related stuff in general
+My Apache Zeppelin and Jupyter notebooks and more! for a series of useful data analysis and machine learning related stuff in general
 
 * [Apache Zeppelin Notebooks(Need maintenance)](zeppelin_notebooks/)
 * [Jupyter Notebooks](jupyter_notebooks/)
