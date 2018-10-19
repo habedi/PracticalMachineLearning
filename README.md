@@ -244,7 +244,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
 * [GraphDrawing](https://www.gradlibrary.net): A very nice graph analysis and drawing library in Java
 * [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
-* [Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java like RankLib for ranking
+* [The Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java like RankLib for ranking
 
 ## My Favourites
 
