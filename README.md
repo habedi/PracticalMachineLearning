@@ -246,6 +246,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
 * [The Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java like RankLib for ranking
 * [VisPy](http://vispy.org/): A Python library for interactive scientific visualization that is designed to be fast, scalable and easy to use
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software, etc
 
 ## My Favourites
 
