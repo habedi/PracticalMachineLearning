@@ -170,6 +170,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLPre](https://github.com/NIHOPA/NLPre): Another cool Python NLP library
 * [GCN](https://github.com/tkipf/gcn/): Python implementation of graph convolutional networks in TensorFlow
 * [AllenNLP](https://github.com/allenai/allennlp): "An open-source NLP research library, built on PyTorch" - AllenNLP's repository documentations
+* [TensorLy](http://tensorly.org/stable/index.html): A Python Library for efficient Tensor operations
 
 ## Additional Useful Resources
 
