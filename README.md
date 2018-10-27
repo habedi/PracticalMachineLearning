@@ -195,16 +195,16 @@ My curated list of Machine Learning resources, including books, papers, software
 * [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
 * [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis, could be used for both Data Mining or Machine Learning tasks, It has tons of features
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
-* [OpenRefine](https://github.com/OpenRefine/OpenRefine)
+* [OpenRefine](https://github.com/OpenRefine/OpenRefine): An open source data cleansing and refinement tool
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Apache Mxnet](https://mxnet.apache.org)
+* [Apache Mxnet](https://mxnet.apache.org): A high performance and scalbale ANN framework for Deep Learning
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
-* [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/)
-* [Apache Spark MLib](https://spark.apache.org/mllib/)
+* [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/): An ML library for Java and .NET with focus on ANN algorithms
+* [Apache Spark MLib](https://spark.apache.org/mllib/): An ML library on top of your spark cluster!
 * [Awesome-Python](https://github.com/vinta/awesome-python): A very thorough list of Pythonic resources (libraries, frameworks, etc)
-* [GATE](https://gate.ac.uk/download/)
+* [GATE](https://gate.ac.uk/download/): A mature text processing toolkit in Java
 * [MALLET](http://mallet.cs.umass.edu/topics.php): "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text." - MALLET's website
-* [MLPack](http://www.mlpack.org)
+* [MLPack](http://www.mlpack.org): A fast ML library written in C++ with bindings to Python
 * [t-SNE](https://lvdmaaten.github.io/tsne/): Implementation of famous t-distributed stochastic neighbor embedding algorithm for various languages
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
