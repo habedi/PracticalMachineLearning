@@ -39,7 +39,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
 * [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
-* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools. 
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
+* [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 
 ## Dataset Repositories
 
@@ -130,15 +131,15 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Gensim](https://github.com/RaRe-Technologies/gensim)
 * [Scikit-learn-Contrib/Imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn): An extension library for Scikit-learn for handling imbalanced datasets
 * [Patsy](https://github.com/pydata/patsy): "Kamelot!!! ... It's just a model ... Shhhh!"
-* [Statsmodels](http://www.statsmodels.org/stable/index.html)
-* [Seaborn](https://github.com/mwaskom/seaborn)
+* [Statsmodels](http://www.statsmodels.org/stable/index.html): A Python package for building various statistical models
+* [Seaborn](https://github.com/mwaskom/seaborn): A high-level visualization library for Python
 * [Pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 * [Blaze](https://github.com/blaze/blaze)
 * [Altair](https://github.com/altair-viz/altair)
 * [Numba](https://github.com/numba/numba)
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym)
-* [PyBrain](http://pybrain.org)
+* [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphesis on modeling via many types of neural network architectures
 * [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 * [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-learn for large-scale linear classification, regression and ranking problems
@@ -171,6 +172,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLPre](https://github.com/NIHOPA/NLPre): Another cool Python NLP library
 * [GCN](https://github.com/tkipf/gcn/): Python implementation of graph convolutional networks in TensorFlow
 * [AllenNLP](https://github.com/allenai/allennlp): "An open-source NLP research library, built on PyTorch" - AllenNLP's repository documentations
+* [TensorLy](http://tensorly.org/stable/index.html): A Python Library for efficient Tensor operations
+* [CuPy](https://cupy.chainer.org): A Python matrix library accelerated by Nvidia CUDA, it's also compatible with Numpy's API
 
 ## Additional Useful Resources
 
@@ -245,6 +248,10 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
 * [GraphDrawing](https://www.gradlibrary.net): A very nice graph analysis and drawing library in Java
 * [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
+* [The Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java like RankLib for ranking
+* [VisPy](http://vispy.org/): A Python library for interactive scientific visualization that is designed to be fast, scalable and easy to use
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software, etc
+* [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for Stream Mining
 
 ## My Favourites
 
@@ -258,4 +265,4 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
-
+* [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
