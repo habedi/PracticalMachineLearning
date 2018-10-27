@@ -39,6 +39,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
 * [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 
 ## Dataset Repositories
