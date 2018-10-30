@@ -174,6 +174,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [AllenNLP](https://github.com/allenai/allennlp): "An open-source NLP research library, built on PyTorch" - AllenNLP's repository documentations
 * [TensorLy](http://tensorly.org/stable/index.html): A Python Library for efficient Tensor operations
 * [CuPy](https://cupy.chainer.org): A Python matrix library accelerated by Nvidia CUDA, it's also compatible with Numpy's API
+* [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for stream mining
 
 ## Additional Useful Resources
 
@@ -252,6 +253,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [VisPy](http://vispy.org/): A Python library for interactive scientific visualization that is designed to be fast, scalable and easy to use
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software, etc
 * [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for stream mining
+* [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
+* [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-label data
 
 ## My Favourites
 
