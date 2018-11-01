@@ -42,6 +42,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 * [Linear Algebra course book](http://joshua.smcvt.edu/linearalgebra): Jim Hefferon's Linear Algebra book, A good companion book for learning linear algebra fundamentals
+* [Top 10 Data Mining Algorithms](www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf): A good article describing how 10 of more famous Data Mining algorithms work
 
 ## Dataset Repositories
 
