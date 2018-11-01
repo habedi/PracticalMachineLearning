@@ -41,6 +41,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
+* [Linear Algebra course book](http://joshua.smcvt.edu/linearalgebra): Jim Hefferon's Linear Algebra book, A good companion book for learning linear algebra fundamentals
 
 ## Dataset Repositories
 
