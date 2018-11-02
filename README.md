@@ -113,7 +113,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Scikit Learn](http://scikit-learn.org/): High-level Machine Learning library with tons of features, very easy-to-use and extendable
 * [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
 * [Matplotlib](https://matplotlib.org/): A very powerful data visualization library, More low-level than other visualization libs
-* [Graph tool](https://graph-tool.skewed.de/): A very fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
+* [Graph Tool](https://graph-tool.skewed.de/): A very fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
 * [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times because it's in pure Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on CPU and GPU, Usually you use TF in conjunction with a library with higher level API exposing TF's functionalities like Keras
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
@@ -214,7 +214,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [CompLearn](http://complearn.org/index.html)
 * [SNAP](https://github.com/snap-stanford/snap)
 * [Apache PredictionIO](https://github.com/apache/predictionio)
-* [JGraphT](https://github.com/jgrapht/jgrapht)
+* [JGraphT](https://github.com/jgrapht/jgrapht): A Java library for working with graphs with tonnes of features
+* [JGaphX](https://github.com/jgraph/jgraphx): A Java library for diagramming and visualizing graphs
 * [Microsoft Distributed Machine Learning Toolkit](http://www.dmtk.io)
 * [Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 * [BIDMat](https://github.com/BIDData/BIDMat): A both CPU and GPU-accelerated matrix library for data mining tasks
