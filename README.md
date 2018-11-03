@@ -258,6 +258,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for stream mining
 * [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
 * [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-label data
+* [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
 
 ## My Favourites
 
