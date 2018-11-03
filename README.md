@@ -259,6 +259,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
 * [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-label data
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
+* [MITE](https://github.com/mit-nlp/MITIE): A library and tool for information extraction on text data, it's built on top of Dlib with binding for languages like Java and Python
 
 ## My Favourites
 
