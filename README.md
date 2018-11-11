@@ -176,7 +176,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [AllenNLP](https://github.com/allenai/allennlp): "An open-source NLP research library, built on PyTorch" - AllenNLP's repository documentations
 * [TensorLy](http://tensorly.org/stable/index.html): A Python Library for efficient Tensor operations
 * [CuPy](https://cupy.chainer.org): A Python matrix library accelerated by Nvidia CUDA, it's also compatible with Numpy's API
-* [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for stream mining
+* [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for Stream Mining
+* [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
 
 ## Additional Useful Resources
 
@@ -261,7 +262,6 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
 * [MITE](https://github.com/mit-nlp/MITIE): A library and tool for information extraction on text data, it's built on top of Dlib with binding for languages like Java and Python
 * [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analyzing and visualizing dynamic graphs
-* [MLFlow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various components for each steps 
 
 ## My Favourites
 
