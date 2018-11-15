@@ -178,6 +178,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [CuPy](https://cupy.chainer.org): A Python matrix library accelerated by Nvidia CUDA, it's also compatible with Numpy's API
 * [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for Stream Mining
 * [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
+* [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
 
 ## Additional Useful Resources
 
