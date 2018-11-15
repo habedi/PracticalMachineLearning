@@ -30,7 +30,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/): Good starter book for learning Python
-* [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+* [Python Machine Learning (second edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * [Deep Learning Book(MIT Press)](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
@@ -141,7 +141,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Numba](https://github.com/numba/numba)
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym)
-* [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphesis on modeling via many types of neural network architectures
+* [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphasis on modeling via many types of neural network architectures
 * [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 * [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-learn for large-scale linear classification, regression and ranking problems
@@ -202,7 +202,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine): An open source data cleansing and refinement tool
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Apache Mxnet](https://mxnet.apache.org): A high performance and scalbale ANN framework for Deep Learning
+* [Apache Mxnet](https://mxnet.apache.org): A high performance and scalable ANN framework for Deep Learning
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/): An ML library for Java and .NET with focus on ANN algorithms
 * [Apache Spark MLib](https://spark.apache.org/mllib/): An ML library on top of your spark cluster!
@@ -277,3 +277,4 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
+
