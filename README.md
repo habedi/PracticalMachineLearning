@@ -64,11 +64,11 @@ My curated list of Machine Learning resources, including books, papers, software
 
 ## Useful Websites
 
-* [Kaggle](https://www.kaggle.com)
+* [Kaggle](https://www.kaggle.com): Kaggle again:)
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
-* [CrowdAI](https://www.crowdai.org)
-* [Quora](https://www.quora.com)
-* [Github.com](https://github.com/): Github contains many useful resources such as code for many algorithms
+* [CrowdAI](https://www.crowdai.org): A Kaggle alternative, popular among students
+* [Quora](https://www.quora.com): Quora Q&A platform
+* [Github.com](https://github.com/): Github contains many useful resources such as the code for many algorithms, all in one centralized platform!
 * [Apache Projects](https://projects.apache.org/)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/)
