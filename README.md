@@ -225,7 +225,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [BIDMach](https://github.com/BIDData/BIDMach)
 * [Apache SystemML](https://systemml.apache.org)
 * [Apache Mahout](https://mahout.apache.org)
-* [Accord.NET](http://accord-framework.net): Accord.NET is a Machine Learning framework written in C# available in .NET, it comes combined with audio and image processing libraries completely written in C#
+* [Accord.NET](http://accord-framework.net): Accord.NET is a Machine Learning framework written in C#, its API is available for .NET, it also comes combined with some audio and image processing libraries completely written in C#
 * [BitMAGIC Library](http://bitmagic.io/)
 * [Cassovary](http://twitter.com/cassovary)
 * [Dex](https://dexvis.net/): A nice Java based tool for Data Analysis and Data Mining
