@@ -225,7 +225,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [BIDMach](https://github.com/BIDData/BIDMach)
 * [Apache SystemML](https://systemml.apache.org)
 * [Apache Mahout](https://mahout.apache.org)
-* [Accord.NET](http://accord-framework.net)
+* [Accord.NET](http://accord-framework.net): Accord.NET is a Machine Learning framework written in C# available in .NET, it comes combined with audio and image processing libraries completely written in C#
 * [BitMAGIC Library](http://bitmagic.io/)
 * [Cassovary](http://twitter.com/cassovary)
 * [Dex](https://dexvis.net/): A nice Java based tool for Data Analysis and Data Mining
@@ -249,7 +249,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
-* [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework
+* [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework, love the little gremlins!
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, great Matlab alternative
 * [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardwares
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
