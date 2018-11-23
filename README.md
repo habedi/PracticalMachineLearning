@@ -258,7 +258,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [The Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java like RankLib for ranking
 * [VisPy](http://vispy.org/): A Python library for interactive scientific visualization that is designed to be fast, scalable and easy to use
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software, etc
-* [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for stream mining
+* [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for Stream Mining
 * [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
 * [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-label data
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
