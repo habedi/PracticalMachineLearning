@@ -249,7 +249,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing very large graphs, It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
-* [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework, love the little gremlins!
+* [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework, it can be used both as a graph analytics platform and a graph database system, love the little gremlins!
+* [Graphexp](https://github.com/bricaud/graphexp): Graphexp is a visual graph explorer with D3.js for TinkerPop
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, great Matlab alternative
 * [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardwares
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
