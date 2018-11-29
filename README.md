@@ -43,6 +43,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 * [Linear Algebra course book](http://joshua.smcvt.edu/linearalgebra): Jim Hefferon's Linear Algebra book, A good companion book for learning linear algebra fundamentals
 * [Top 10 Data Mining Algorithms](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf): A good article describing how 10 of more famous Data Mining algorithms work
+[Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538): A good introduction to Representation Learning and its implications
 
 ## Dataset Repositories
 
