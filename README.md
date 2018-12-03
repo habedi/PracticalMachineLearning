@@ -167,6 +167,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [TF-Slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
 * [Pyro](https://github.com/uber/pyro)
 * [GEM](https://github.com/palash1992/GEM): A Python library that provides various graph embedding methods like 'node2vec' and 'locally linear embedding'
+* [DynamicGEM](https://github.com/palash1992/DynamicGEM): A dynamic graph embedding library like GEM
 * [GraphSAGE](http://snap.stanford.edu/graphsage/): A graph embedding framework to generate low-dimensional vector representations for nodes, very useful if you need to use deep learning on graph data
 * [Horovd](https://github.com/uber/horovod): A distributed training framework for TensorFlow, Keras, and PyTorch by Uber
 * [NetLSD](https://github.com/xgfs/NetLSD): Python implementation of NetLSD, a scalable graph embedding algorithm for representing a graph via a low-dimensional vector
