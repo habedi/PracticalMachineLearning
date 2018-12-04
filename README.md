@@ -182,6 +182,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
 * [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
 * [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making profressional looking, plots quickly with minimal code" - ggplot's website
+* [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
 
 ## Additional Useful Resources
 
