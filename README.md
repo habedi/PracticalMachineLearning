@@ -183,6 +183,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
 * [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making profressional looking, plots quickly with minimal code" - ggplot's website
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
+* [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
 
 ## Additional Useful Resources
 
