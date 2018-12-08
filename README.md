@@ -184,7 +184,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making profressional looking, plots quickly with minimal code" - ggplot's website
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
 * [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
-* [OpenNE](https://github.com/thunlp/openne): An open source network embedding library
+* [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
 
 ## Additional Useful Resources
 
