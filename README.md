@@ -185,6 +185,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
 * [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
+* [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
 
 ## Additional Useful Resources
 
