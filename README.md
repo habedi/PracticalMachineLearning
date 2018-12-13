@@ -186,6 +186,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
 * [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
+* [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
 
 ## Additional Useful Resources
 
