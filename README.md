@@ -272,6 +272,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
 * [MITE](https://github.com/mit-nlp/MITIE): A library and tool for information extraction on text data, it's built on top of Dlib with binding for languages like Java and Python
 * [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analyzing and visualizing dynamic graphs
+* [Cytoscape](https://cytoscape.org): A complex network (graph) visualization tool in Java
+* [Gephi](https://gephi.org): A network visualization and analysis tool in Java
 
 ## My Favourites
 
