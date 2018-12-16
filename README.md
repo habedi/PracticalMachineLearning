@@ -275,6 +275,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analyzing and visualizing dynamic graphs
 * [Cytoscape](https://cytoscape.org): A complex network (graph) visualization tool in Java
 * [Gephi](https://gephi.org): A network visualization and analysis tool in Java
+* [SocNetV](https://socnetv.org): A very handy social network (and other types of networks ;)) visualization tool
 
 ## My Favourites
 
