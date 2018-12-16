@@ -187,6 +187,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
 * [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
+* [PyText](https://github.com/facebookresearch/pytext): An NLP platform on top PyTorch 
 
 ## Additional Useful Resources
 
