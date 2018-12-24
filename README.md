@@ -190,6 +190,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [PyText](https://github.com/facebookresearch/pytext): A deep-learning based NLP modeling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A sate-of-the-art NLP framework in Python from Zalando
 
+
 ## Additional Useful Resources
 
 * [PyPy Python Implementation](https://pypy.org)
@@ -278,6 +279,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Gephi](https://gephi.org): A network visualization and analysis tool in Java
 * [SocNetV](https://socnetv.org): A very handy social network visualization tool
 * [Visone](http://visone.info): Yet another handy social network analysis and visualization tool
+* [Flashlight](https://github.com/facebookresearch/flashlight): A fast Machine Learning library in C++
 
 ## My Favourites
 
