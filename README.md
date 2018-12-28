@@ -54,6 +54,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [MLDatasets](http://mldata.org): Another nice dataset repository
 * [Open Data for Deep Learning](https://github.com/deeplearning4j/deeplearning4j/blob/gh-pages/opendata.md): Deep means big here I guess!
 * [Wikipedia List of Datasets for Machine Learning Research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): It's Wikipedia!
+* [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queriable mirror of Github projects' data available for everyone
+* [SOTorrent](https://empirical-software.engineering/projects/sotorrent/): A very rich dataset of StackOverflow posts and related contents such as post comments
 
 ## Q&A Websites
 
