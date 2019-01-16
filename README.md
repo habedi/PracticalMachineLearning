@@ -282,6 +282,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [SocNetV](https://socnetv.org): A very handy social network visualization tool
 * [Visone](http://visone.info): Yet another handy social network analysis and visualization tool
 * [Flashlight](https://github.com/facebookresearch/flashlight): A fast Machine Learning library in C++
+* [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample usecases implemented in Python
 
 ## My Favourites
 
