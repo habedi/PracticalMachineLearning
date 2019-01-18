@@ -191,7 +191,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
 * [PyText](https://github.com/facebookresearch/pytext): A deep-learning based NLP modeling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A sate-of-the-art NLP framework in Python from Zalando
-* [](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its discreptions
+* [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its discreptions
+* [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
 
 ## Additional Useful Resources
 
