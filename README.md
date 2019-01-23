@@ -80,7 +80,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ML Resources on Github](https://github.com/collections/machine-learning)
 * [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
 * [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
-* [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): Tanagra's tutorials, covering a vast amount of topics
+* [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials, covering a vast amount of topics
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 
 ## Editors & IDEs for Python
