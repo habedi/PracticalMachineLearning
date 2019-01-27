@@ -286,6 +286,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Flashlight](https://github.com/facebookresearch/flashlight): A fast Machine Learning library in C++
 * [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample usecases implemented in Python
 * [TANAGRA](http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html): "TANAGRA is a free DATA MINING software for academic and research purposes" its website
+* [KNIME](https://www.knime.com/): KNIME is an open source data analytics, reporting and data integration platform
 
 ## My Favourites
 
