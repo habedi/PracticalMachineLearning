@@ -194,6 +194,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [flair](https://github.com/zalandoresearch/flair): A sate-of-the-art NLP framework in Python from Zalando
 * [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its discreptions
 * [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
+* [Vaex](https://vaex.io): Vaex is a data manipulation library much like Pandas and Dask with a lazy out-of-core approach to handling the data so you can work with very huge tables with it
 
 ## Additional Useful Resources
 
