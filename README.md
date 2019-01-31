@@ -302,4 +302,6 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
+* [Mining Massive Datasets](http://www.mmds.org): A very nice blend of theory and application for what can be done to data
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Very insightful if like to know more about the intereconnected world and networks
 
