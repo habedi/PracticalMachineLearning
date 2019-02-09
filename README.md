@@ -289,6 +289,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [TANAGRA](http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html): "TANAGRA is a free DATA MINING software for academic and research purposes" its website
 * [KNIME](https://www.knime.com/): KNIME is an open source data analytics, reporting and data integration platform
 * [Faust](https://github.com/robinhood/faust): A stream processing library for Python
+* [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
 
 ## My Favourites
 
