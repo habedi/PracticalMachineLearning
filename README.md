@@ -196,6 +196,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
 * [Vaex](https://vaex.io): Vaex is a data manipulation library much like Pandas and Dask with a lazy out-of-core approach to handling the data so you can work with very huge tables with it
 * [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
+* [Faust](https://github.com/robinhood/faust): A stream processing library for Python
 
 ## Additional Useful Resources
 
@@ -289,7 +290,6 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample usecases implemented in Python
 * [TANAGRA](http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html): "TANAGRA is a free DATA MINING software for academic and research purposes" its website
 * [KNIME](https://www.knime.com/): KNIME is an open source data analytics, reporting and data integration platform
-* [Faust](https://github.com/robinhood/faust): A stream processing library for Python
 * [MG4J](http://mg4j.di.unimi.it): An open-source high-performance full-text search engine written in Java
 * [WebGraph](http://webgraph.di.unimi.it): A Java framework for working on very large graphs
 
