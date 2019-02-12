@@ -197,6 +197,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Vaex](https://vaex.io): Vaex is a data manipulation library much like Pandas and Dask with a lazy out-of-core approach to handling the data so you can work with very huge tables with it
 * [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
 * [Faust](https://github.com/robinhood/faust): A stream processing library for Python
+* [Active Semi-Supervised Clustering](https://github.com/datamole-ai/active-semi-supervised-clustering): An extension library for scikit-learn that implements a collection of useful active semi-supervised clustering algorithms
 
 ## Additional Useful Resources
 
