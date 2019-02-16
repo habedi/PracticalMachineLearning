@@ -293,7 +293,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [KNIME](https://www.knime.com/): KNIME is an open source data analytics, reporting and data integration platform
 * [MG4J](http://mg4j.di.unimi.it): An open-source high-performance full-text search engine written in Java
 * [WebGraph](http://webgraph.di.unimi.it): A Java framework for working on very large graphs
-* [RTree](https://github.com/davidmoten/rtree): Reactive implementations of immutable in-memory R-tree and R*-tree in Java  
+* [RTree](https://github.com/davidmoten/rtree): Reactive implementations of immutable in-memory R-tree and R*-tree in Java
+* [Recommender Systems](https://github.com/Microsoft/Recommenders): A useful repository of stuff all about the Recommender Systems (e.g. best practices to build Recommender Systems)
 
 ## My Favourites
 
