@@ -14,7 +14,7 @@ My Apache Zeppelin and Jupyter notebooks and more! for a series of useful data a
   
 # ML Resources(with an emphasis on Python)
 
-My curated list of Machine Learning resources, including books, papers, softwares, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
+My curated list of Machine Learning resources, including books, papers, software, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
 
 ## Books and Writings
 
@@ -54,7 +54,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [MLDatasets](http://mldata.org): Another nice dataset repository
 * [Open Data for Deep Learning](https://github.com/deeplearning4j/deeplearning4j/blob/gh-pages/opendata.md): Deep means big here I guess!
 * [Wikipedia List of Datasets for Machine Learning Research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): It's Wikipedia!
-* [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queriable mirror of Github projects' data available for everyone
+* [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queryable mirror of Github projects' data available for everyone
 * [SOTorrent](https://empirical-software.engineering/projects/sotorrent/): A very rich dataset of StackOverflow posts and related contents such as post comments
 
 ## Q&A Websites
@@ -184,7 +184,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for Stream Mining
 * [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
 * [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
-* [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making profressional looking, plots quickly with minimal code" - ggplot's website
+* [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making professionally looking, plots quickly with minimal code" - ggplot's website
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
 * [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
@@ -192,7 +192,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
 * [PyText](https://github.com/facebookresearch/pytext): A deep-learning based NLP modeling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A sate-of-the-art NLP framework in Python from Zalando
-* [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its discreptions
+* [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its descriptions
 * [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
 * [Vaex](https://vaex.io): Vaex is a data manipulation library much like Pandas and Dask with a lazy out-of-core approach to handling the data so you can work with very huge tables with it
 * [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
@@ -270,7 +270,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework, it can be used both as a graph analytics platform and a graph database system, love the little gremlins!
 * [Graphexp](https://github.com/bricaud/graphexp): Graphexp is a visual graph explorer with D3.js for TinkerPop
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, great Matlab alternative
-* [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardwares
+* [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardware
 * [GraphJet](https://github.com/twitter/GraphJet): A real-time graph processing library in Java
 * [GraphDrawing](https://www.gradlibrary.net): A very nice graph analysis and drawing library in Java
 * [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
@@ -288,13 +288,14 @@ My curated list of Machine Learning resources, including books, papers, software
 * [SocNetV](https://socnetv.org): A very handy social network visualization tool
 * [Visone](http://visone.info): Yet another handy social network analysis and visualization tool
 * [Flashlight](https://github.com/facebookresearch/flashlight): A fast Machine Learning library in C++
-* [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample usecases implemented in Python
+* [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample use-cases implemented in Python
 * [TANAGRA](http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html): "TANAGRA is a free DATA MINING software for academic and research purposes" its website
 * [KNIME](https://www.knime.com/): KNIME is an open source data analytics, reporting and data integration platform
 * [MG4J](http://mg4j.di.unimi.it): An open-source high-performance full-text search engine written in Java
 * [WebGraph](http://webgraph.di.unimi.it): A Java framework for working on very large graphs
 * [RTree](https://github.com/davidmoten/rtree): Reactive implementations of immutable in-memory R-tree and R*-tree in Java
 * [Recommender Systems](https://github.com/Microsoft/Recommenders): A useful repository of stuff all about the Recommender Systems (e.g. best practices to build Recommender Systems)
+* [Awesome-Graph](https://github.com/jbmusso/awesome-graph): A curated list of resources (e.g., libraries, frameworks and databases) related to graphs
 
 ## My Favourites
 
@@ -310,5 +311,4 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
 * [Mining Massive Datasets](http://www.mmds.org): A very nice blend of theory and application for what can be done to data
-* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Very insightful if like to know more about the intereconnected world and networks
-
+* [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Very insightful if like to know more about the interconnected world and networks
