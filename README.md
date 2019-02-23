@@ -198,6 +198,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
 * [Faust](https://github.com/robinhood/faust): A stream processing library for Python
 * [Active Semi-Supervised Clustering](https://github.com/datamole-ai/active-semi-supervised-clustering): An extension library for scikit-learn that implements a collection of useful active semi-supervised clustering algorithms
+* [TextDistance](https://github.com/orsinium/textdistance): A Python library for calculating and comparing the distance between two sequences (such as text documents) with many algorithms
 
 ## Additional Useful Resources
 
