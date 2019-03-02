@@ -297,6 +297,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [RTree](https://github.com/davidmoten/rtree): Reactive implementations of immutable in-memory R-tree and R*-tree in Java
 * [Recommender Systems](https://github.com/Microsoft/Recommenders): A useful repository of stuff all about the Recommender Systems (e.g. best practices to build Recommender Systems)
 * [Awesome-Graph](https://github.com/jbmusso/awesome-graph): A curated list of resources (e.g., libraries, frameworks and databases) related to graphs
+* [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox written in Java from Oracle
 
 ## My Favourites
 
