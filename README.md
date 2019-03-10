@@ -300,6 +300,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Awesome-Graph](https://github.com/jbmusso/awesome-graph): A curated list of resources (e.g., libraries, frameworks and databases) related to graphs
 * [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox written in Java from Oracle
 * [ROOT](https://root.cern.ch): A scientific toolbox for data processing and analysis in C++
+* [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modeling on textual data
 
 ## My Favourites
 
