@@ -301,6 +301,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox written in Java from Oracle
 * [ROOT](https://root.cern.ch): A scientific toolbox for data processing and analysis in C++
 * [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modeling on textual data
+* [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e. clustering, regression, classification and graphical models)
 
 ## My Favourites
 
