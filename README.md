@@ -306,6 +306,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
 * [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/): A simple Scala library for creating complex artificial neural networks by ThoughtWorks
+* [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many highlevel programming languages, for example Python, Java, and Lua!
 
 ## My Favourites
 
