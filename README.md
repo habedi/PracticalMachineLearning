@@ -303,7 +303,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ROOT](https://root.cern.ch): A scientific toolbox for data processing and analysis in C++
 * [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modeling on textual data
 * [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e. clustering, regression, classification and graphical models)
-* [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala
+* [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
 
 ## My Favourites
 
