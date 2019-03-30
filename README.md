@@ -304,6 +304,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modeling on textual data
 * [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e. clustering, regression, classification and graphical models)
 * [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
+* [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
 
 ## My Favourites
 
