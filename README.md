@@ -201,7 +201,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Active Semi-Supervised Clustering](https://github.com/datamole-ai/active-semi-supervised-clustering): An extension library for scikit-learn that implements a collection of useful active semi-supervised clustering algorithms
 * [TextDistance](https://github.com/orsinium/textdistance): A Python library for calculating and comparing the distance between two sequences (such as text documents) with many algorithms
 * [Ray](https://ray.readthedocs.io/en/latest/): A scalable. high-performance distributed execution framework for executing arbitrary Python functions on multiple machines, suitable for many ML worlkloads
-* [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoric measures (i.e. Entropy) for discrete random variables 
+* [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoric measures (i.e. Entropy) for discrete random variables
+* [KDEpy](https://github.com/tommyod/KDEpy): A collection of useful kernel density estimators in Python 3.5+
 
 ## Additional Useful Resources
 
