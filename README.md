@@ -309,6 +309,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/): A simple Scala library for creating complex artificial neural networks by ThoughtWorks
 * [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many highlevel programming languages, for example Python, Java, and Lua!
+* [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization" - DataMelt's website
 
 ## My Favourites
 
