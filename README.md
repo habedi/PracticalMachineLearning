@@ -310,6 +310,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/): A simple Scala library for creating complex artificial neural networks by ThoughtWorks
 * [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many highlevel programming languages, for example Python, Java, and Lua!
 * [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization" - DataMelt's website
+* [Luna](https://luna-lang.org/): A functioal programming language to create data processing friendly programs in a WYSIWYG way
 
 ## My Favourites
 
