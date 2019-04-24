@@ -312,6 +312,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization" - DataMelt's website
 * [Luna](https://luna-lang.org/): A functioal programming language to create data processing friendly programs in a WYSIWYG way
 * [NetLogo](https://ccl.northwestern.edu/netlogo/): A computational multi-agent development and simulation enviroment, very cool tool for investigating complex phenomena via implementing simple computational rules for agents!
+* [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and ploting, it is part of [KDE Project!](https://kde.org/)
 
 ## My Favourites
 
