@@ -203,6 +203,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Ray](https://ray.readthedocs.io/en/latest/): A scalable. high-performance distributed execution framework for executing arbitrary Python functions on multiple machines, suitable for many ML worlkloads
 * [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoric measures (i.e. Entropy) for discrete random variables
 * [KDEpy](https://github.com/tommyod/KDEpy): A collection of useful kernel density estimators in Python 3.5+
+* [Tsfresh](https://github.com/blue-yonder/tsfresh): A Pyton library for (automatic) feature extraction and engineering on time-dependent data
 
 ## Additional Useful Resources
 
