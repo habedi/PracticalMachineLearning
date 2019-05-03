@@ -315,6 +315,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Luna](https://luna-lang.org/): A functioal programming language to create data processing friendly programs in a WYSIWYG way
 * [NetLogo](https://ccl.northwestern.edu/netlogo/): A computational multi-agent development and simulation enviroment, very cool tool for investigating complex phenomena via implementing simple computational rules for agents!
 * [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and ploting, it is part of [KDE Project!](https://kde.org/)
+* [Meta Toolkit](https://meta-toolkit.org/): A fast software toolkit implementing many useful ML algorithms, it is written in C++
 
 ## My Favourites
 
@@ -322,7 +323,6 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes): How could we live without Wikipedia?
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): A good book to start learning ML, A must for every ML enthusiast
-* [A list of ML Conferences on 2018](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?HN=)
 * [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-learn's website itself is a great resource to learn!
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoy to read, It's a little bit hard to follow at first for me but great many resources are mentioned at the end of each chapter and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
