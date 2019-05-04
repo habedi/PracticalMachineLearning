@@ -204,7 +204,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoric measures (i.e. Entropy) for discrete random variables
 * [KDEpy](https://github.com/tommyod/KDEpy): A collection of useful kernel density estimators in Python 3.5+
 * [Tsfresh](https://github.com/blue-yonder/tsfresh): A Pyton library for (automatic) feature extraction and engineering on time-dependent data
-* [GPy](https://github.com/SheffieldML/GPy): A Python library for working with Gaussian processes 
+* [GPy](https://github.com/SheffieldML/GPy): A Python library for working with Gaussian processes
+* [Tslearn](https://github.com/rtavenar/tslearn): A machine learning library dedicated to working with time-dependent data
 
 ## Additional Useful Resources
 
