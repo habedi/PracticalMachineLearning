@@ -206,6 +206,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Tsfresh](https://github.com/blue-yonder/tsfresh): A Pyton library for (automatic) feature extraction and engineering on time-dependent data
 * [GPy](https://github.com/SheffieldML/GPy): A Python library for working with Gaussian processes
 * [Tslearn](https://github.com/rtavenar/tslearn): A machine learning library dedicated to working with time-dependent data
+* [Ludwig](https://uber.github.io/ludwig/): "Ludwig is a toolbox that allows to train and test deep learning models without the need to write code" - Ludwigs's website
 
 ## Additional Useful Resources
 
