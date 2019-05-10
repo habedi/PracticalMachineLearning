@@ -37,13 +37,13 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
 * [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL related topics over the years
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A very good collection of papers on Network Representation Learning and Network Embedding
-* [KRL Papers](https://github.com/thunlp/KRLPapers):  A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
+* [KRL Papers](https://github.com/thunlp/KRLPapers): A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 * [Linear Algebra course book](http://joshua.smcvt.edu/linearalgebra): Jim Hefferon's Linear Algebra book, A good companion book for learning linear algebra fundamentals
 * [Top 10 Data Mining Algorithms](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf): A good article describing how 10 of more famous Data Mining algorithms work
-[Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538): A good introduction to Representation Learning and its implications
+* [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538): A good introduction to Representation Learning and its implications
 * [NLTK Book](https://www.nltk.org/book/): A great book if you want to process and analyse texts with NLTK
 
 ## Dataset Repositories
