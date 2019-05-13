@@ -209,6 +209,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Tslearn](https://github.com/rtavenar/tslearn): A machine learning library dedicated to working with time-dependent data
 * [Ludwig](https://uber.github.io/ludwig/): "Ludwig is a toolbox that allows to train and test deep learning models without the need to write code" - Ludwigs's website
 * [Record Linkage Toolkit](https://github.com/J535D165/recordlinkage): A Python software toolkit for record deduplication and linkage
+* [PyJanitor](https://github.com/ericmjl/pyjanitor): Python port of R's janitor package, for data cleansing and manipulation
 
 ## Additional Useful Resources
 
