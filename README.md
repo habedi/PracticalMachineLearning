@@ -323,6 +323,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Meta Toolkit](https://meta-toolkit.org/): A fast software toolkit implementing many useful ML algorithms, it is written in C++
 * [Record Linkage Tools](https://github.com/J535D165/data-matching-software): A collection of useful resources for record deduplication and linkage
 * [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
+* [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml): A curated list of publications related graph analytics
 
 ## My Favourites
 
