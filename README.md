@@ -324,6 +324,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Record Linkage Tools](https://github.com/J535D165/data-matching-software): A collection of useful resources for record deduplication and linkage
 * [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
 * [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml): A thorough list of publications related to graphs covering many interesting topics
+* [GraphIt](http://graphit-lang.org/): GraphIt - "A High-Performance Domain Specific Language for Graph Analytics" - GraphIt's website
 
 ## My Favourites
 
