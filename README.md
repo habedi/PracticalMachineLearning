@@ -322,6 +322,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and ploting, it is part of [KDE Project!](https://kde.org/)
 * [Meta Toolkit](https://meta-toolkit.org/): A fast software toolkit implementing many useful ML algorithms, it is written in C++
 * [Record Linkage Tools](https://github.com/J535D165/data-matching-software): A collection of useful resources for record deduplication and linkage
+* [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
 
 ## My Favourites
 
