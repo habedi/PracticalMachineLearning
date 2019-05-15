@@ -210,6 +210,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Ludwig](https://uber.github.io/ludwig/): "Ludwig is a toolbox that allows to train and test deep learning models without the need to write code" - Ludwigs's website
 * [Record Linkage Toolkit](https://github.com/J535D165/recordlinkage): A Python software toolkit for record deduplication and linkage
 * [PyJanitor](https://github.com/ericmjl/pyjanitor): Python port of R's janitor package, for data cleansing and manipulation
+* [FastText](https://fasttext.cc/): A library for fast and efficient text embedding and classification
 
 ## Additional Useful Resources
 
