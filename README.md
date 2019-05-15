@@ -326,6 +326,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
 * [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml): A thorough list of publications related to graphs covering many interesting topics
 * [GraphIt](http://graphit-lang.org/): GraphIt - "A High-Performance Domain Specific Language for Graph Analytics" - GraphIt's website
+* [SMORe](https://github.com/cnclabs/smore): A handy tool and library for fast weighted graph embedding in C++
 
 ## My Favourites
 
