@@ -110,6 +110,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Apache Zeppelin](https://zeppelin.apache.org/)
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab): Nex generation jupyter notebook environment
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
