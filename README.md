@@ -214,6 +214,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [FastText](https://fasttext.cc/): A library for fast and efficient text embedding and classification
 * [Mimesis](https://mimesis.name/): A fast and useful fake data generation library
 * [PyOD](https://github.com/yzhao062/pyod): A Python software toolbox for scalable Outlier Detection (aka Anomaly Detection)
+* [Creme](https://github.com/creme-ml/creme): A Python library for Online Learning and building incremental models
 
 ## Additional Useful Resources
 
