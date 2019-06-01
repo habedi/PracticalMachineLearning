@@ -74,7 +74,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [CrowdAI](https://www.crowdai.org): A Kaggle alternative, popular among students
 * [Quora](https://www.quora.com): Quora Q&A platform
 * [Github.com](https://github.com/): Github contains many useful resources such as the code for many algorithms, all in one centralized platform!
-* [Apache Projects](https://projects.apache.org/): A few hundered cool software projects, many are related to data management in some way! (e.g. Hadoop ecosystem)
+* [Apache Projects](https://projects.apache.org/): A few hundred cool software projects, many are related to data management in some way! (e.g. Hadoop ecosystem)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/): A very prestigious AI conference held every year
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
@@ -159,7 +159,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python):  Python wrapper library for Stanford Network Analysis Platform (SNAP)
-* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualization tools including Voronoi tesselations
+* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualization tools including Voronoi tessellations
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
@@ -185,7 +185,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [TensorLy](http://tensorly.org/stable/index.html): A Python Library for efficient Tensor operations
 * [CuPy](https://cupy.chainer.org): A Python matrix library accelerated by Nvidia CUDA, it's also compatible with Numpy's API
 * [Scikit-Multiflow](https://scikit-multiflow.github.io): A Python library for Stream Mining
-* [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and lifecycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
+* [MLflow](https://mlflow.org/): A software toolbox to manage ML projects' workflow and life-cycle, it aims to make ML software projects easier to implement by providing various helper components for each steps
 * [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
 * [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making professionally looking, plots quickly with minimal code" - ggplot's website
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
@@ -202,10 +202,10 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Faust](https://github.com/robinhood/faust): A stream processing library for Python
 * [Active Semi-Supervised Clustering](https://github.com/datamole-ai/active-semi-supervised-clustering): An extension library for scikit-learn that implements a collection of useful active semi-supervised clustering algorithms
 * [TextDistance](https://github.com/orsinium/textdistance): A Python library for calculating and comparing the distance between two sequences (such as text documents) with many algorithms
-* [Ray](https://ray.readthedocs.io/en/latest/): A scalable. high-performance distributed execution framework for executing arbitrary Python functions on multiple machines, suitable for many ML worlkloads
-* [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoric measures (i.e. Entropy) for discrete random variables
+* [Ray](https://ray.readthedocs.io/en/latest/): A scalable. high-performance distributed execution framework for executing arbitrary Python functions on multiple machines, suitable for many ML workloads
+* [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoretic measures (i.e. Entropy) for discrete random variables
 * [KDEpy](https://github.com/tommyod/KDEpy): A collection of useful kernel density estimators in Python 3.5+
-* [Tsfresh](https://github.com/blue-yonder/tsfresh): A Pyton library for (automatic) feature extraction and engineering on time-dependent data
+* [Tsfresh](https://github.com/blue-yonder/tsfresh): A Python library for (automatic) feature extraction and engineering on time-dependent data
 * [GPy](https://github.com/SheffieldML/GPy): A Python library for working with Gaussian processes
 * [Tslearn](https://github.com/rtavenar/tslearn): A machine learning library dedicated to working with time-dependent data
 * [Ludwig](https://uber.github.io/ludwig/): "Ludwig is a toolbox that allows to train and test deep learning models without the need to write code" - Ludwigs's website
@@ -320,11 +320,11 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
 * [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/): A simple Scala library for creating complex artificial neural networks by ThoughtWorks
-* [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many highlevel programming languages, for example Python, Java, and Lua!
+* [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many high-level programming languages, for example Python, Java, and Lua!
 * [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization" - DataMelt's website
-* [Luna](https://luna-lang.org/): A functioal programming language to create data processing friendly programs in a WYSIWYG way
-* [NetLogo](https://ccl.northwestern.edu/netlogo/): A computational multi-agent development and simulation enviroment, very cool tool for investigating complex phenomena via implementing simple computational rules for agents!
-* [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and ploting, it is part of [KDE Project!](https://kde.org/)
+* [Luna](https://luna-lang.org/): A functional programming language to create data processing friendly programs in a WYSIWYG way
+* [NetLogo](https://ccl.northwestern.edu/netlogo/): A computational multi-agent development and simulation environment, very cool tool for investigating complex phenomena via implementing simple computational rules for agents!
+* [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and plotting, it is part of [KDE Project!](https://kde.org/)
 * [Meta Toolkit](https://meta-toolkit.org/): A fast software toolkit implementing many useful ML algorithms, it is written in C++
 * [Record Linkage Tools](https://github.com/J535D165/data-matching-software): A collection of useful resources for record deduplication and linkage
 * [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
