@@ -215,7 +215,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Mimesis](https://mimesis.name/): A fast and useful fake data generation library
 * [PyOD](https://github.com/yzhao062/pyod): A Python software toolbox for scalable Outlier Detection (aka Anomaly Detection)
 * [Creme](https://github.com/creme-ml/creme): A Python library for Online Learning and building incremental models
-* [vg](https://github.com/lace/vg): A linear algebra library much like Numpy with a very more human-friend interface
+* [vg](https://github.com/lace/vg): A linear algebra library much like Numpy with a more human-friendly interface
 
 ## Additional Useful Resources
 
