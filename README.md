@@ -332,6 +332,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml): A thorough list of publications related to graphs covering many interesting topics
 * [GraphIt](http://graphit-lang.org/): GraphIt - "A High-Performance Domain Specific Language for Graph Analytics" - GraphIt's website
 * [SMORe](https://github.com/cnclabs/smore): A handy tool and library for fast weighted graph embedding in C++
+* [Warp-ctc](https://github.com/baidu-research/warp-ctc): A fast parallel implementation of [CTC](http://www.cs.toronto.edu/~graves/icml_2006.pdf), for both CPU and GPU
+
 
 ## My Favourites
 
