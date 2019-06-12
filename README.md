@@ -216,6 +216,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [PyOD](https://github.com/yzhao062/pyod): A Python software toolbox for scalable Outlier Detection (aka Anomaly Detection)
 * [Creme](https://github.com/creme-ml/creme): A Python library for Online Learning and building incremental models
 * [vg](https://github.com/lace/vg): A linear algebra library much like Numpy with a more human-friendly interface
+* [GraphKernels](https://github.com/BorgwardtLab/GraphKernels): A fast library for calculating various graph kernels
+* [GraKeL](https://github.com/ysig/GraKeL): A graph kernel calculation library that is using scikit-learn's api so it can be used with other functionalities and routines already present in scikit-learn without much hassle
 
 ## Additional Useful Resources
 
