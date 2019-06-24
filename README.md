@@ -58,7 +58,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Wikipedia List of Datasets for Machine Learning Research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): It's Wikipedia!
 * [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queryable mirror of Github projects' data available for everyone
 * [SOTorrent](https://empirical-software.engineering/projects/sotorrent/): A very rich dataset of StackOverflow posts and related contents such as post comments
-* [Datalist.com](https://www.datasetlist.com/): A very thorough list of ML related datasets from all over the web
+* [Datalist.com](https://www.datasetlist.com/): A handy list of ML related datasets from all over the web
 
 ## Q&A Websites
 
