@@ -220,6 +220,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [vg](https://github.com/lace/vg): A linear algebra library much like Numpy with a more human-friendly interface
 * [GraphKernels](https://github.com/BorgwardtLab/GraphKernels): A fast library for calculating various graph kernels
 * [GraKeL](https://github.com/ysig/GraKeL): A graph kernel calculation library that is using scikit-learn's api so it can be used with other functionalities and routines already present in scikit-learn without much hassle
+* [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extention libraries for NetworkX
 
 ## Additional Useful Resources
 
