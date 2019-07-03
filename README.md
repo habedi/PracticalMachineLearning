@@ -340,6 +340,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [SMORe](https://github.com/cnclabs/smore): A handy tool and library for fast weighted graph embedding in C++
 * [Warp-ctc](https://github.com/baidu-research/warp-ctc): A fast parallel implementation of [CTC](http://www.cs.toronto.edu/~graves/icml_2006.pdf), for both CPU and GPU
 * [Grew](http://grew.fr): Grew is a graph library and tool written in Ocaml with applications in NLP, it is a companion tool for the book [Application of Graph Rewriting to Natural Language Processing](https://www.wiley.com/en-fr/Application+of+Graph+Rewriting+to+Natural+Language+Processing-p-9781119522348)
+* [ZGRViewer](http://zvtm.sourceforge.net/zgrviewer.html): A handy graph visualizatin tool in Java 
 
 
 ## My Favourites
