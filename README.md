@@ -222,6 +222,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GraKeL](https://github.com/ysig/GraKeL): A graph kernel calculation library that is using scikit-learn's api so it can be used with other functionalities and routines already present in scikit-learn without much hassle
 * [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extention libraries for NetworkX
 * [Textract](https://github.com/deanmalmgren/textract): A general text extracttion tool from many file formats
+* [Sacred](https://github.com/IDSIA/sacred): Sacred is a Python library to make a ML workflow easier to reproduce and manage for you!
 
 ## Additional Useful Resources
 
