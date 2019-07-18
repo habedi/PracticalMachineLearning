@@ -343,6 +343,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Grew](http://grew.fr): Grew is a graph library and tool written in Ocaml with applications in NLP, it is a companion tool for the book [Application of Graph Rewriting to Natural Language Processing](https://www.wiley.com/en-fr/Application+of+Graph+Rewriting+to+Natural+Language+Processing-p-9781119522348)
 * [ZVTM](http://zvtm.sourceforge.net/): A handy graph visualizatin library for Java
 * [mrJob](https://pythonhosted.org/mrjob/): A Python library to create MapReduce jobs and run them on multiple machines (ie, in a cluster)
+* [Metanome](http://metanome.de/): A collection of interesting materials (eg, algorithms, code, articles) related to data profiling
 
 
 ## My Favourites
