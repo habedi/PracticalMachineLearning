@@ -126,8 +126,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow on times because it's in pure Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on CPU and GPU, Usually you use TF in conjunction with a library with higher level API exposing TF's functionalities like Keras
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
-* [NLTK](http://www.nltk.org/)
-* [Pattern](https://www.clips.uantwerpen.be/pattern)
+* [NLTK](http://www.nltk.org/): Swiss Army knife tool for text processing in Python
+* [Pattern](https://www.clips.uantwerpen.be/pattern): Another good text processing library for Python
 * [IPython](https://ipython.org/)
 * [Orange](https://orange.biolab.si/)
 * [Theano](http://deeplearning.net/software/theano/)
