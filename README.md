@@ -345,6 +345,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [mrJob](https://pythonhosted.org/mrjob/): A Python library to create MapReduce jobs and run them on multiple machines (ie, in a cluster)
 * [Metanome](http://metanome.de/): A collection of interesting materials (eg, algorithms, code, articles) related to data profiling
 * [Graphillion](https://github.com/takemaru/graphillion): Graphilion is a software library for working with many graphs in a parallel fashion
+* [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification): A very throughout collection of graph embedding, classification and representation learning papers with the code!
 
 
 ## My Favourites
