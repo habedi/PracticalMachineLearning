@@ -109,10 +109,10 @@ My curated list of Machine Learning resources, including books, papers, software
 ## Notebook Authoring Environments
 
 * [Jupyter](http://jupyter.org/)
-* [Apache Zeppelin](https://zeppelin.apache.org/)
+* [Apache Zeppelin](https://zeppelin.apache.org/): A great notebook environment for data visualization and doing analytics stuff, it can connect to many different databases and data management systems
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
-* [JupyterLab](https://github.com/jupyterlab/jupyterlab): Nex generation jupyter notebook environment
+* [JupyterLab](https://github.com/jupyterlab/jupyterlab): Next generation jupyter notebook environment
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
