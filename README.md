@@ -346,6 +346,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Metanome](http://metanome.de/): A collection of interesting materials (eg, algorithms, code, articles) related to data profiling
 * [Graphillion](https://github.com/takemaru/graphillion): Graphilion is a software library for working with many graphs in a parallel fashion
 * [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification): A very throughout collection of graph embedding, classification and representation learning papers with the code!
+* [VFML](https://www.cs.washington.edu/dm/vfml/): Very Fast ML (hence the name VFML) is a fast C library for mining very huge data streams
 
 
 ## My Favourites
