@@ -223,6 +223,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extention libraries for NetworkX
 * [Textract](https://github.com/deanmalmgren/textract): A general text extracttion tool from many file formats
 * [Sacred](https://github.com/IDSIA/sacred): Sacred is a Python library to make a ML workflow easier to reproduce and manage for you!
+* [](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing distance between two or more sequences of arbitary alphabet (eg, words, DNA sequences), it has got over 30 distance algorithms to use
 
 ## Additional Useful Resources
 
