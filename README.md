@@ -349,6 +349,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification): A very throughout collection of graph embedding, classification and representation learning papers with the code!
 * [VFML](https://www.cs.washington.edu/dm/vfml/): Very Fast ML (hence the name VFML) is a fast C library for mining very huge data streams
 * [Talisman](https://github.com/Yomguithereal/talisman): Talisman is a modular JavaScript library for NLP and Machine Learning activities
+* [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN is TensorFlow implementation of a proposed architecture for GANs from NVIDIA, you can use it to create photo-realistic pictures of people whom don't exist!
 
 ## My Favourites
 
