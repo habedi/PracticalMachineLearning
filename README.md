@@ -87,6 +87,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials, covering a vast amount of topics
 * [Papers with code](https://paperswithcode.com/): It is a very handy repository of research papers that are coming with their code also published too, you can access the code from many recent cutting-edge algorithms from here 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
+* [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
 
 ## Editors & IDEs for Python
 
