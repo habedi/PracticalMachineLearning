@@ -227,7 +227,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Sacred](https://github.com/IDSIA/sacred): Sacred is a Python library to make a ML workflow easier to reproduce and manage for you!
 * [TextDistance](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing distance between two or more sequences of arbitary alphabet (eg, words, DNA sequences), it has got over 30 distance algorithms to use
 * [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenizers (such as alphabetical tokenizers, whitespace tokenizers) and also string similarity measures (eg, edit distance, Jaccard distance)
-* [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing ibrary for Python 
+* [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing ibrary for Python
+* [](https://github.com/quantumblacklabs/kedro): A Python library and also tool to manage your data analysis workflow in your projects
 
 ## Additional Useful Resources
 
