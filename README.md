@@ -356,6 +356,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Talisman](https://github.com/Yomguithereal/talisman): Talisman is a modular JavaScript library for NLP and Machine Learning activities
 * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN is TensorFlow implementation of a proposed architecture for GANs from NVIDIA, you can use it to create photo-realistic pictures of people whom don't exist!
 * [Java String Similarity](https://github.com/tdebatty/java-string-similarity): A Java library implementing a collection of useful text similarity/distance measures
+* [Label Studio](https://github.com/heartexlabs/label-studio): Label Studio is a handy tool with a nice UI for labeling your data (eg, records and documents)
 
 ## My Favourites
 
