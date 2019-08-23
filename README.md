@@ -229,6 +229,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenizers (such as alphabetical tokenizers, whitespace tokenizers) and also string similarity measures (eg, edit distance, Jaccard distance)
 * [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing ibrary for Python
 * [Kedro](https://github.com/quantumblacklabs/kedro): A Python library and also tool to manage your data analysis workflow in your projects
+* [PySAL](https://pysal.org/): PySAL is a Python package for geolocation based data analysis 
 
 ## Additional Useful Resources
 
