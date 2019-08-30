@@ -359,6 +359,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Java String Similarity](https://github.com/tdebatty/java-string-similarity): A Java library implementing a collection of useful text similarity/distance measures
 * [Label Studio](https://github.com/heartexlabs/label-studio): Label Studio is a handy tool with a nice UI for labeling your data (eg, records and documents)
 * [GraphML](http://graphml.graphdrawing.org/index.html): GraphML is a graph representation and serialization file format based on XML that could store many different types of graphs with their attributes without loss of information
+* [Taco](http://tensor-compiler.org/): A compiler for compiling and executing general tensor algebra operations on sparse tensors in machine code for CPUs and GPUs
 
 ## My Favourites
 
