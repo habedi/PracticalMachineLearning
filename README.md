@@ -230,6 +230,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing ibrary for Python
 * [Kedro](https://github.com/quantumblacklabs/kedro): A Python library and also tool to manage your data analysis workflow in your projects
 * [PySAL](https://pysal.org/): PySAL is a Python package for geolocation based data analysis 
+* [k-Shape](https://github.com/johnpaparrizos/kshape): This is a Python implementation of the k-Shape clustering algorithm for clustering the time series data
 
 ## Additional Useful Resources
 
