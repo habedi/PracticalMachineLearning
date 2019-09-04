@@ -364,6 +364,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GraphML](http://graphml.graphdrawing.org/index.html): GraphML is a graph representation and serialization file format based on XML that could store many different types of graphs with their attributes without loss of information
 * [Taco](http://tensor-compiler.org/): A compiler for compiling and executing general tensor algebra operations on sparse tensors in machine code for CPUs and GPUs
 * [Libspatialindex](https://libspatialindex.org/): Libspatialindex contains many robust geolocational indexing algorithms like R*-tree and TPR-tree
+* [NLP Best Practices](https://github.com/microsoft/nlp): A collection of best practices and their examples in NLP domain from Microsoft
 
 ## My Favourites
 
