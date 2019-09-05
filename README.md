@@ -365,6 +365,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Taco](http://tensor-compiler.org/): A compiler for compiling and executing general tensor algebra operations on sparse tensors in machine code for CPUs and GPUs
 * [Libspatialindex](https://libspatialindex.org/): Libspatialindex contains many robust geolocational indexing algorithms like R*-tree and TPR-tree
 * [NLP Best Practices](https://github.com/microsoft/nlp): A collection of best practices and their examples in NLP domain from Microsoft
+* [Tulip](https://tulip.labri.fr/TulipDrupal/): Tulip is a nice open source data visualization software toolbox 
 
 ## My Favourites
 
