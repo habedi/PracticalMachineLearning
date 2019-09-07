@@ -131,7 +131,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLTK](http://www.nltk.org/): Swiss Army knife tool for text processing in Python
 * [Pattern](https://www.clips.uantwerpen.be/pattern): Another good text processing library for Python
 * [IPython](https://ipython.org/)
-* [Orange](https://orange.biolab.si/)
+* [Orange](https://orange.biolab.si/): Orange is a general purpose data mining and analysis tool also library that lets you develop machine learning pipelines just by a few dragging and dropping
 * [Theano](http://deeplearning.net/software/theano/)
 * [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees, It supports categorical features out of the box
 * [XGboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularization
