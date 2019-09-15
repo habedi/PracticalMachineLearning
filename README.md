@@ -115,6 +115,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab): Next generation jupyter notebook environment
+* [Spark Notebook](http://spark-notebook.io): Spark Notebook is an interactive notebook authoring environment for working with Scala code on top of Spark clusters 
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
