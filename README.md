@@ -233,6 +233,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [PySAL](https://pysal.org/): PySAL is a Python package for geolocation based data analysis 
 * [k-Shape](https://github.com/johnpaparrizos/kshape): This is a Python implementation of the k-Shape clustering algorithm for clustering the time series data
 * [Pyforest](https://github.com/8080labs/pyforest): You could use Pyforest to import all Python data science related library lazily as you need them in your code
+* [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualizing and analysis of tree format data
 
 
 ## Additional Useful Resources
