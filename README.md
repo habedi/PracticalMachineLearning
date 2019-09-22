@@ -238,8 +238,8 @@ My curated list of Machine Learning resources, including books, papers, software
 
 ## Additional Useful Resources
 
-* [PyPy Python Implementation](https://pypy.org)
-* [Useful Metrics](https://github.com/habedi/Metrics)
+* [PyPy Python Implementation](https://pypy.org): A stackless alternative implementation for Python's runtime 
+* [Useful Metrics](https://github.com/habedi/Metrics): A collection of useful ML related scoring and learning metircs
 * [XGboost Benchmarks](https://catboost.yandex/)
 * [Franchise Notebook](https://franchise.cloud/)
 * [Orange](https://orange.biolab.si/)
