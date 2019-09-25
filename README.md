@@ -234,6 +234,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [k-Shape](https://github.com/johnpaparrizos/kshape): This is a Python implementation of the k-Shape clustering algorithm for clustering the time series data
 * [Pyforest](https://github.com/8080labs/pyforest): You could use Pyforest to import all Python data science related library lazily as you need them in your code
 * [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualizing and analysis of tree format data
+* [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
 
 
 ## Additional Useful Resources
