@@ -294,7 +294,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): A handy Python library to digest almost anything from World Wild Web
 * [Wordbatch](https://github.com/anttttti/Wordbatch): A library for parallel feature extraction on textual data(and potentially other complex data types)
 * [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
-* [SKIL](https://skymind.ai)
+* [SKIL](https://skymind.ai): A platform for managing the life cycle of a ML/DS related project or product 
 * [An unofficial Python extension package repository for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
