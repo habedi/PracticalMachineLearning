@@ -235,6 +235,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Pyforest](https://github.com/8080labs/pyforest): You could use Pyforest to import all Python data science related library lazily as you need them in your code
 * [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualizing and analysis of tree format data
 * [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
+* [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geo-locational records
 
 
 ## Additional Useful Resources
@@ -371,6 +372,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Tulip](https://tulip.labri.fr/TulipDrupal/): Tulip is a nice open source data visualization and analysis software toolbox, it is specially good for working with graphs and graph datasets
 * [Juno](https://junolab.org): Juno is an IDE based on Atom for Julia programming language
 * [BoofCV](https://boofcv.org/index.php?title=Main_Page): A real-time machine vision and image processing in Java
+
 
 ## My Favourites
 
