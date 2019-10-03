@@ -373,6 +373,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Tulip](https://tulip.labri.fr/TulipDrupal/): Tulip is a nice open source data visualization and analysis software toolbox, it is specially good for working with graphs and graph datasets
 * [Juno](https://junolab.org): Juno is an IDE based on Atom for Julia programming language
 * [BoofCV](https://boofcv.org/index.php?title=Main_Page): A real-time machine vision and image processing in Java
+* [cuDF](https://github.com/rapidsai/cudf): cuDF is a library with API similar to Pandas that is built based on the Apache Arrow columnar memory format, cuDF uses GPU routines for loading, joining, aggregating, filtering, and otherwise manipulating data
 
 
 ## My Favourites
