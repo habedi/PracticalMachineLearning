@@ -60,6 +60,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queryable mirror of Github projects' data available for everyone
 * [SOTorrent](https://empirical-software.engineering/projects/sotorrent/): A very rich dataset of StackOverflow posts and related contents such as post comments
 * [Datalist.com](https://www.datasetlist.com/): A handy list of ML related datasets from all over the web
+* [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data): A huge collection of datasets from Twitter's data
 
 ## Q&A Websites
 
