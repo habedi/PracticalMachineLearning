@@ -47,6 +47,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [NLTK Book](https://www.nltk.org/book/): A great book if you want to process and analyse texts with NLTK
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 * [Machine Learning Workflow with Python](https://github.com/mjbahmani/Machine-Learning-Workflow-with-Python): A collection of usefull ML related stuff for people intrested to work with the data
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Dataset Repositories
 
