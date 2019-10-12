@@ -238,6 +238,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualizing and analysis of tree format data
 * [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
 * [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geo-locational records
+* [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
 
 
 ## Additional Useful Resources
