@@ -377,6 +377,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [BoofCV](https://boofcv.org/index.php?title=Main_Page): A real-time machine vision and image processing in Java
 * [cuDF](https://github.com/rapidsai/cudf): cuDF is a library with API similar to Pandas that is built based on the Apache Arrow columnar memory format, cuDF uses GPU routines for loading, joining, aggregating, filtering, and otherwise manipulating data
 * [LASER toolkit](https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/): LASER (Language-Agnostic SEntence Representations) is a software toolkit for sentence embedding for about 100 different languages
+* [Idyll](https://idyll-lang.org/): "A toolkit for creating data-driven stories and explorable explanations" - Idyll's website
 
 ## My Favourites
 
