@@ -117,7 +117,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Beacker](http://beakernotebook.com/)
 * [nteract](https://nteract.io/)
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab): Next generation jupyter notebook environment
-* [Spark Notebook](http://spark-notebook.io): Spark Notebook is an interactive notebook authoring environment for working with Scala code on top of Spark clusters 
+* [Spark Notebook](http://spark-notebook.io): Spark Notebook is an interactive notebook authoring environment for working with Scala code on top of Spark clusters
+* [Python(x,y)](https://python-xy.github.io/): Python(x,y) is an open-source environment for scientific and numerical computaions and analysis 
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
@@ -378,6 +379,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [cuDF](https://github.com/rapidsai/cudf): cuDF is a library with API similar to Pandas that is built based on the Apache Arrow columnar memory format, cuDF uses GPU routines for loading, joining, aggregating, filtering, and otherwise manipulating data
 * [LASER toolkit](https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/): LASER (Language-Agnostic SEntence Representations) is a software toolkit for sentence embedding for about 100 different languages
 * [Idyll](https://idyll-lang.org/): "A toolkit for creating data-driven stories and explorable explanations" - Idyll's website
+
 
 ## My Favourites
 
