@@ -240,6 +240,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
 * [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geo-locational records
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
+* [Edward](http://edwardlib.org/): "A library for probabilistic modeling, inference, and criticism" - its website
 
 
 ## Additional Useful Resources
