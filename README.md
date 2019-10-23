@@ -241,6 +241,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geo-locational records
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
 * [Edward](http://edwardlib.org/): "A library for probabilistic modeling, inference, and criticism" - its website
+* [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualizationa and analysis
 
 
 ## Additional Useful Resources
