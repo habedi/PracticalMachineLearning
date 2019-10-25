@@ -119,7 +119,8 @@ My curated list of Machine Learning resources, including books, papers, software
 * [nteract](https://nteract.io/)
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab): Next generation jupyter notebook environment
 * [Spark Notebook](http://spark-notebook.io): Spark Notebook is an interactive notebook authoring environment for working with Scala code on top of Spark clusters
-* [Python(x,y)](https://python-xy.github.io/): Python(x,y) is an open-source environment for scientific and numerical computaions and analysis 
+* [Python(x,y)](https://python-xy.github.io/): Python(x,y) is an open-source environment for scientific and numerical computaions and analysis
+* [Polynote](https://polynote.org/): A notebook authoring tool with native support for Scala on Spark from Netflix
 
 ## Python Machine Learning, Data Mining, Statistical Analysis Libraries
 
