@@ -384,6 +384,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [LASER toolkit](https://engineering.fb.com/ai-research/laser-multilingual-sentence-embeddings/): LASER (Language-Agnostic SEntence Representations) is a software toolkit for sentence embedding for about 100 different languages
 * [Idyll](https://idyll-lang.org/): "A toolkit for creating data-driven stories and explorable explanations" - Idyll's website
 * [DeepLearning4J](https://deeplearning4j.org/): A java based software toolbox for building and training deep artificial neural networks
+* [NeMo](https://github.com/NVIDIA/NeMo): NeMo is a software toolkit for building AI applications
 
 
 ## My Favourites
