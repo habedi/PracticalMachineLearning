@@ -385,6 +385,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Idyll](https://idyll-lang.org/): "A toolkit for creating data-driven stories and explorable explanations" - Idyll's website
 * [DeepLearning4J](https://deeplearning4j.org/): A java based software toolbox for building and training deep artificial neural networks
 * [NeMo](https://github.com/NVIDIA/NeMo): NeMo is a software toolkit for building AI applications
+* [TRAINS Agent](https://github.com/allegroai/trains-agent): TRAINS Agent is a devops tool for setting up and running an AI expermiment on a cluster computing environment
 
 
 ## My Favourites
