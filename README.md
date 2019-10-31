@@ -386,6 +386,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [DeepLearning4J](https://deeplearning4j.org/): A java based software toolbox for building and training deep artificial neural networks
 * [NeMo](https://github.com/NVIDIA/NeMo): NeMo is a software toolkit for building AI applications
 * [TRAINS Agent](https://github.com/allegroai/trains-agent): TRAINS Agent is a devops tool for setting up and running an AI expermiment on a cluster computing environment
+* [TensorFlow Hub](https://www.tensorflow.org/hub): TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of deep learning models
 
 
 ## My Favourites
