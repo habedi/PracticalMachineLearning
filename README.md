@@ -388,6 +388,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [TRAINS Agent](https://github.com/allegroai/trains-agent): TRAINS Agent is a devops tool for setting up and running an AI expermiment on a cluster computing environment
 * [TensorFlow Hub](https://www.tensorflow.org/hub): TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of deep learning models
 * [AIX360](http://aix360.mybluemix.net/): An explainable AI (XAI) toolkit to interpret Machine Learning models
+* [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch repreduciable
 
 
 ## My Favourites
