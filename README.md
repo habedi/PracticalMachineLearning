@@ -405,3 +405,4 @@ My curated list of Machine Learning resources, including books, papers, software
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
 * [Mining Massive Datasets](http://www.mmds.org): A very nice blend of theory and application for what can be done to data
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Very insightful if like to know more about the interconnected world and networks
+
