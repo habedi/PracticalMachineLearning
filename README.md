@@ -48,6 +48,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 * [Machine Learning Workflow with Python](https://github.com/mjbahmani/Machine-Learning-Workflow-with-Python): A collection of useful ML related stuff for people interested in working with the data
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+* [GNNPapers](https://github.com/thunlp/GNNPapers): A collection of research papers on Graph Neural Networks
 
 ## Dataset Repositories
 
