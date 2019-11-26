@@ -390,7 +390,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [TensorFlow Hub](https://www.tensorflow.org/hub): TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of deep learning models
 * [AIX360](http://aix360.mybluemix.net/): An explainable AI (XAI) toolkit to interpret Machine Learning models
 * [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch reproducible
-
+* [TensorFlowJS](https://www.tensorflow.org/js): TensorFlowJS is a JavaScript library to use TensorFlow models in web applications in the browser
 
 ## My Favourites
 
