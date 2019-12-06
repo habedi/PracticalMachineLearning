@@ -49,6 +49,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Machine Learning Workflow with Python](https://github.com/mjbahmani/Machine-Learning-Workflow-with-Python): A collection of useful ML related stuff for people interested in working with the data
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [GNNPapers](https://github.com/thunlp/GNNPapers): A collection of research papers on Graph Neural Networks
+* [Mining Social Media](http://socialdata.site/): The web version of an easy to follow introductory book for mine social media data
 
 ## Dataset Repositories
 
