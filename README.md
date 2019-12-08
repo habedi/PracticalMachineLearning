@@ -246,6 +246,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
 * [Edward](http://edwardlib.org/): "A library for probabilistic modelling, inference, and criticism" - its website
 * [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualization and analysis
+* [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
 
 
 ## Additional Useful Resources
