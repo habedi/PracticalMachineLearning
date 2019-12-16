@@ -14,7 +14,7 @@ My Apache Zeppelin and Jupyter notebooks and more! for a series of useful data a
   
 # ML Resources(with an emphasis on Python)
 
-My curated list of Machine Learning resources, including books, papers, software, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
+This document is an attempt to come up with a curated list of Machine Learning resources, including books, papers, software, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
 
 ## Books and Writings
 
@@ -205,7 +205,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
 * [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
-* [PyText](https://github.com/facebookresearch/pytext): A deep-learning-based NLP modeling framework built on top of PyTorch
+* [PyText](https://github.com/facebookresearch/pytext): A deep-learning-based NLP modelling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A state-of-the-art NLP framework in Python from Zalando
 * [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes" according to its descriptions
 * [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
@@ -247,6 +247,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Edward](http://edwardlib.org/): "A library for probabilistic modelling, inference, and criticism" - its website
 * [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualization and analysis
 * [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
+* [pymorton](https://github.com/trevorprater/pymorton): A Python package for ordinal hashing of multidimensional points into a one-dimensional ordering 
 
 
 ## Additional Useful Resources
@@ -403,7 +404,7 @@ My curated list of Machine Learning resources, including books, papers, software
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): A good book to start learning ML, A must for every ML enthusiast
 * [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-learn's website itself is a great resource to learn!
 * [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
-* [Readings in Database Systems(The Red Book)](http://www.redbook.io): Really an enjoyable to read, It's a little bit hard to follow at first for me but a great many resources are mentioned at the end of each chapter, and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
+* [Readings in Database Systems(The Red Book)](http://www.redbook.io): An enjoyable to read, It's a little bit hard to follow at first for me, but a great many resources are mentioned at the end of each chapter, and it gives great insights about the history, trends and future of DBMSs and Data Processing Platforms
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
