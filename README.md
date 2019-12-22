@@ -395,6 +395,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch reproducible
 * [TensorFlowJS](https://www.tensorflow.org/js): TensorFlowJS is a JavaScript library to use TensorFlow models in web applications in the browser
 * [Kst](https://kst-plot.kde.org/): Kst is a handy data visualization tool from KDE project
+* [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probablistic modeling of data
 
 ## My Favourites
 
