@@ -249,6 +249,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
 * [pymorton](https://github.com/trevorprater/pymorton): A Python package for ordinal hashing of multidimensional points into a one-dimensional ordering
 * [PySS3](https://github.com/sergioburdisso/pyss3): A Python package implementing SS3 text classifier with visualizations tools for explainable artificial intelligence (XAI)
+* [](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
 
 
 ## Additional Useful Resources
