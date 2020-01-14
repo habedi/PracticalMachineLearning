@@ -249,7 +249,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
 * [pymorton](https://github.com/trevorprater/pymorton): A Python package for ordinal hashing of multidimensional points into a one-dimensional ordering
 * [PySS3](https://github.com/sergioburdisso/pyss3): A Python package implementing SS3 text classifier with visualizations tools for explainable artificial intelligence (XAI)
-* [](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
+* [Lpproj](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
+* [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarization and keyword extraction of text in many different languages
 
 
 ## Additional Useful Resources
@@ -397,7 +398,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch reproducible
 * [TensorFlowJS](https://www.tensorflow.org/js): TensorFlowJS is a JavaScript library to use TensorFlow models in web applications in the browser
 * [Kst](https://kst-plot.kde.org/): Kst is a handy data visualization tool from KDE project
-* [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probablistic modeling of data
+* [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probabilistic modelling of data
 
 ## My Favourites
 
