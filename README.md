@@ -42,7 +42,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business): Machine Learning for Business teaches you how to make your company more automated, productive, and competitive by mastering practical, implementable machine learning techniques and tools
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications
 * [Linear Algebra course book](http://joshua.smcvt.edu/linearalgebra): Jim Hefferon's Linear Algebra book, A good companion book for learning linear algebra fundamentals
-* [Top 10 Data Mining Algorithms](http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf): A good article describing how 10 of more famous Data Mining algorithms work
+* [Top 10 Data Mining Algorithms](https://link.springer.com/content/pdf/10.1007/s10115-007-0114-2.pdf): A good article describing how 10 of more famous Data Mining algorithms work
 * [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538): A good introduction to Representation Learning and its implications
 * [NLTK Book](https://www.nltk.org/book/): A great book if you want to process and analyse texts with NLTK
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
