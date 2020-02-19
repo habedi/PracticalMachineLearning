@@ -159,7 +159,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Altair](https://github.com/altair-viz/altair)
 * [Numba](https://github.com/numba/numba)
 * [BigARTM](https://github.com/bigartm/bigartm)
-* [GYM](https://github.com/openai/gym)
+* [GYM](https://github.com/openai/gym): An open-source toolkit for reinforcement learning from Open AI project
 * [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphasis on modelling via many types of neural network architectures
 * [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
