@@ -400,6 +400,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Kst](https://kst-plot.kde.org/): Kst is a handy data visualization tool from KDE project
 * [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probabilistic modelling of data
 * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/): "LIBFFM is an open source tool for field-aware factorization machines (FFM)"; people won a few real-world data science challenge in Kaggle
+* [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modelling
 
 ## My Favourites
 
