@@ -1,7 +1,7 @@
 ## J'ai seulement fait ici un amas de fleurs étrangères, n'y ayant fourni du mien que le filet à les lier.
 
 # My Machine Learning related stuff!
-My Apache Zeppelin and Jupyter notebooks and more! for a series of useful data analysis and machine learning related stuff in general
+My Apache Zeppelin and Jupyter notebooks, and more! for a series of useful data analysis and machine learning related stuff in general
 
 * [Apache Zeppelin Notebooks(Need maintenance)](zeppelin_notebooks/)
 * [Jupyter Notebooks](jupyter_notebooks/)
@@ -54,7 +54,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 ## Dataset Repositories
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): Lots of interesting datasets, piled up just for you to use them!
-* [Kaggle](https://www.kaggle.com): A very active community, great place to learn from others
+* [Kaggle](https://www.kaggle.com): A very active community, a great place to learn from others
 * [Network Repository](http://networkrepository.com): Many network/graph datasets, If you like graphs, it's the place for you! 
 * [Deep Learning Datasets](http://deeplearning.net/datasets/): DL datasets of course!
 * [MLDatasets](http://mldata.org): Another nice dataset repository
@@ -69,7 +69,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 ## Q&A Websites
 
 * [Quora Data Science](https://www.quora.com/topic/Data-Science): A superb place to ask and seek answers!
-* [Stack Exchange Data Science](https://datascience.stackexchange.com): Another friendly Q&A community with emphasis on the technical side 
+* [Stack Exchange Data Science](https://datascience.stackexchange.com): Another friendly Q&A community with an emphasis on the technical side 
 * [Kaggle](https://www.kaggle.com): Kaggle again:)
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning): Quora again:)
 * [Stack Overflow](https://stackoverflow.com): General Q&A for developers, need help with your code then it's the place
@@ -80,7 +80,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
 * [CrowdAI](https://www.crowdai.org): A Kaggle alternative, popular among students
 * [Quora](https://www.quora.com): Quora Q&A platform
-* [Github.com](https://github.com/): Github contains many useful resources such as the code for many algorithms, all in one centralized platform!
+* [Github.com](https://github.com/): Github contains many useful resources such as the code for many algorithms, all in one centralised platform!
 * [Apache Projects](https://projects.apache.org/): A few hundred cool software projects, many are related to data management in some way! (e.g. Hadoop ecosystem)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/): A very prestigious AI conference held every year
@@ -131,7 +131,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Numpy](http://www.numpy.org/): Linear algebra library for fast numerical computation
 * [Scikit Learn](http://scikit-learn.org/): High-level Machine Learning library with tons of features, very easy-to-use and extendable
 * [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
-* [Matplotlib](https://matplotlib.org/): A compelling data visualization library, More low-level than other visualization libs
+* [Matplotlib](https://matplotlib.org/): A compelling data visualisation library, More low-level than other visualisation libs
 * [Graph Tool](https://graph-tool.skewed.de/): A fast and powerful library for working with graphs in Python, It's developed on top of Boost C++ libraries so consequently it's very efficient
 * [NetworkX](https://networkx.github.io/): A Python module for Complex Network modelling and analysis, Very easy-to-use but may be slow on times because it's in pure Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on CPU and GPU. Usually, you use TF in conjunction with a library with higher-level API exposing TF's functionalities like Keras
@@ -142,7 +142,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Orange](https://orange.biolab.si/): Orange is a general-purpose data mining and analysis tool also library that lets you develop machine learning pipelines just by a few dragging and dropping
 * [Theano](http://deeplearning.net/software/theano/)
 * [CatBoost](https://github.com/catboost/catboost): Yandex's implementation of Gradient Boosting on Decision Trees, It supports categorical features out of the box
-* [XGboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularization
+* [XGboost](https://github.com/dmlc/xgboost): Original XGBOOST library, A very efficient Gradient Boosting library with extra regularisation
 * [Mlxtend](https://github.com/rasbt/mlxtend): A great Data Mining and Machine Learning library with 
 * [NetworKit](https://networkit.iti.kit.edu/): A very high-performance graph processing and analysis toolkit, written in C++ and uses OpenMP, so it is very fast on multicore computers
 * [Eli5](https://github.com/TeamHG-Memex/eli5)
@@ -167,11 +167,11 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [GPLearn](https://github.com/trevorstephens/gplearn)
 * [Nengo](https://www.nengo.ai/)
 * [Scikit-learn Contrib/*](https://github.com/scikit-learn-contrib/scikit-learn-contrib): A collection of extension libraries for Scikit-learn adding new (missing) functionalities to it
-* [Koolmogorov](https://github.com/MLWave/koolmogorov): A Python library for hierarchical clustering and visualization
+* [Koolmogorov](https://github.com/MLWave/koolmogorov): A Python library for hierarchical clustering and visualisation
 * [Lime](https://github.com/marcotcr/lime): A tool for exploring and explaining the output of classifiers
 * [TreeInterpreter](https://github.com/andosa/treeinterpreter)
 * [SNAP-Python](https://github.com/snap-stanford/snap-python):  Python wrapper library for Stanford Network Analysis Platform (SNAP)
-* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualization tools including Voronoi tessellations
+* [Pycobra](https://github.com/bhargavvader/pycobra): A Python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tessellations
 * [TF Learn](http://tflearn.org): A library on top of TensorFlow providing a higher API than TensorFlow
 * [Featuretools](https://www.featuretools.com): A Python library for automated feature engineering
 * [spaCy](https://github.com/explosion/spaCy): NLP library with tons of features(like various CNN models)
@@ -203,7 +203,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
 * [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
 * [OpenNE](https://github.com/thunlp/openne): An opensource network embedding library
-* [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
+* [Galry](https://github.com/rossant/galry): A high-performance visualisation library in Python
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity-resolution and record deduplication
 * [PyText](https://github.com/facebookresearch/pytext): A deep-learning-based NLP modelling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A state-of-the-art NLP framework in Python from Zalando
@@ -233,24 +233,24 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extension libraries for NetworkX
 * [Textract](https://github.com/deanmalmgren/textract): A general text extraction tool from many file formats
 * [Sacred](https://github.com/IDSIA/sacred): Sacred is a Python library to make an ML workflow easier to reproduce and manage for you!
-* [TextDistance](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing the distance between two or more sequences of arbitrary alphabet (e.g., words, DNA sequences), it has got over 30 distance algorithms to use
-* [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenizers (such as alphabetical tokenizers, whitespace tokenizers) and also string similarity measures (e.g., edit distance, Jaccard distance)
+* [TextDistance](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing the distance between two or more sequences of an arbitrary alphabet (e.g., words, DNA sequences), it has got over 30 distance algorithms to use
+* [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenisers (such as alphabetical tokenisers, whitespace tokenisers) and also string similarity measures (e.g., edit distance, Jaccard distance)
 * [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing library for Python
 * [Kedro](https://github.com/quantumblacklabs/kedro): A Python library and also tool to manage your data analysis workflow in your projects
 * [PySAL](https://pysal.org/): PySAL is a Python package for geolocation-based data analysis 
 * [k-Shape](https://github.com/johnpaparrizos/kshape): This is a Python implementation of the k-Shape clustering algorithm for clustering the time series data
 * [Pyforest](https://github.com/8080labs/pyforest): You could use Pyforest to import all Python data science-related library lazily as you need them in your code
-* [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualizing and analysis of tree format data
-* [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
-* [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geo-locational records
+* [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualising and analysis of tree format data
+* [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search the library for Python
+* [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualisation library for geospatial plotting of geo-locational records
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
 * [Edward](http://edwardlib.org/): "A library for probabilistic modelling, inference, and criticism" - its website
-* [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualization and analysis
+* [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualisation and analysis
 * [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
 * [pymorton](https://github.com/trevorprater/pymorton): A Python package for ordinal hashing of multidimensional points into a one-dimensional ordering
-* [PySS3](https://github.com/sergioburdisso/pyss3): A Python package implementing SS3 text classifier with visualizations tools for explainable artificial intelligence (XAI)
+* [PySS3](https://github.com/sergioburdisso/pyss3): A Python package implementing SS3 text classifier with visualisations tools for explainable artificial intelligence (XAI)
 * [Lpproj](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
-* [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarization and keyword extraction of text in many different languages
+* [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarisation and keyword extraction of text in many different languages
 * [PyCarets](https://github.com/pycaret/pycaret)
 
 
@@ -291,7 +291,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [SNAP](https://github.com/snap-stanford/snap)
 * [Apache PredictionIO](https://github.com/apache/predictionio)
 * [JGraphT](https://github.com/jgrapht/jgrapht): A Java library for working with graphs with tonnes of features
-* [JGaphX](https://github.com/jgraph/jgraphx): A Java library for diagramming and visualizing graphs
+* [JGaphX](https://github.com/jgraph/jgraphx): A Java library for diagramming and visualising graphs
 * [Microsoft Distributed Machine Learning Toolkit](http://www.dmtk.io)
 * [Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 * [BIDMat](https://github.com/BIDData/BIDMat): A both CPU and GPU-accelerated matrix library for data mining tasks
@@ -315,11 +315,11 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [An unofficial Python extension package repository for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
-* [Tablesaw](https://github.com/jtablesaw/tablesaw): A daydreamer and visualization library for Java
+* [Tablesaw](https://github.com/jtablesaw/tablesaw): A daydreamer and visualisation library for Java
 * [TensorFlow Models](https://github.com/tensorflow/models): A repository of models and examples built with TensorFlow
-* [Curated list of graph embedding methods](https://github.com/chihming/awesome-network-embedding): A collection of paper-code pairs for state of the art graph embeddings(a.k.a network representational learning) algorithms
+* [Curated list of graph embedding methods](https://github.com/chihming/awesome-network-embedding): A collection of paper-code pairs for the state of the art graph embeddings(a.k.a network representational learning) algorithms
 * [Curated list of resources for Recommender Systems](https://github.com/chihming/competitive-recsys)
-* [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing huge graphs, It seems it is not being developed or maintained for a long time
+* [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analysing huge graphs, It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
 * [Apache TinkerPop](http://tinkerpop.apache.org/): A cool graph storage and computation framework, it can be used both as a graph analytics platform and a graph database system, love the little gremlins!
@@ -330,18 +330,18 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [GraphDrawing](https://www.gradlibrary.net): A very nice graph analysis and drawing library in Java
 * [Sketch Library](http://hadjieleftheriou.com/sketches/index.html): A C++ library for data summarization
 * [The Lemur Project](https://sourceforge.net/projects/lemur/): A collection of search engine, text processing and Data Mining tools and libraries in C++ and Java-like RankLib for ranking
-* [VisPy](http://vispy.org/): A Python library for interactive scientific visualization that is designed to be fast, scalable and easy to use
+* [VisPy](http://vispy.org/): A Python library for interactive scientific visualisation that is designed to be fast, scalable and easy to use
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software, etc
 * [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for Stream Mining
 * [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
 * [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-label data
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
 * [MITE](https://github.com/mit-nlp/MITIE): A library and tool for information extraction on text data, it's built on top of Dlib with binding for languages like Java and Python
-* [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analyzing and visualizing dynamic graphs
+* [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analysing and visualising dynamic graphs
 * [Cytoscape](https://cytoscape.org): A complex network (graph) visualization tool in Java
-* [Gephi](https://gephi.org): A network visualization and analysis tool in Java
-* [SocNetV](https://socnetv.org): A handy social network visualization tool
-* [Visone](http://visone.info): Yet another handy social network analysis and visualization tool
+* [Gephi](https://gephi.org): A network visualisation and analysis tool in Java
+* [SocNetV](https://socnetv.org): A handy social network visualisation tool
+* [Visone](http://visone.info): Yet another handy social network analysis and visualisation tool
 * [Flashlight](https://github.com/facebookresearch/flashlight): A fast Machine Learning library in C++
 * [Machine Learning with Python](https://github.com/susanli2016/Machine-Learning-with-Python): A collection of ML algorithms and their sample use-cases implemented in Python
 * [TANAGRA](http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html): "TANAGRA is a free DATA MINING software for academic and research purposes" its website
@@ -356,10 +356,10 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modelling on textual data
 * [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e. clustering, regression, classification and graphical models)
 * [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
-* [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
+* [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualisation library in Scala that works with Apache Spark right out of the box
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/): A simple Scala library for creating complex artificial neural networks by ThoughtWorks
 * [XAPIAN](https://xapian.org/): An opensource search engine library with bindings to be used in many high-level programming languages, for example, Python, Java, and Lua!
-* [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualization" - DataMelt's website
+* [DataMelt](https://jwork.org/dmelt/): "DataMelt is a free software for numeric computation, mathematics, statistics, symbolic calculations, data analysis and data visualisation" - DataMelt's website
 * [Luna](https://luna-lang.org/): A functional programming language to create data processing friendly programs in a WYSIWYG way
 * [NetLogo](https://ccl.northwestern.edu/netlogo/): A computational multi-agent development and simulation environment, very cool tool for investigating complex phenomena via implementing simple computational rules for agents!
 * [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and plotting, it is part of [KDE Project!](https://kde.org/)
@@ -371,21 +371,21 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [SMORe](https://github.com/cnclabs/smore): A handy tool and library for fast weighted graph embedding in C++
 * [Warp-ctc](https://github.com/baidu-research/warp-ctc): A fast parallel implementation of [CTC](http://www.cs.toronto.edu/~graves/icml_2006.pdf), for both CPU and GPU
 * [Grew](http://grew.fr): Grew is a graph library and tool written in Ocaml with applications in NLP, it is a companion tool for the book [Application of Graph Rewriting to Natural Language Processing](https://www.wiley.com/en-fr/Application+of+Graph+Rewriting+to+Natural+Language+Processing-p-9781119522348)
-* [ZVTM](http://zvtm.sourceforge.net/): A handy graph visualization library for Java
+* [ZVTM](http://zvtm.sourceforge.net/): A handy graph visualisation library for Java
 * [mrJob](https://pythonhosted.org/mrjob/): A Python library to create MapReduce jobs and run them on multiple machines (i.e., in a cluster)
 * [Metanome](http://metanome.de/): A collection of interesting materials (e.g., algorithms, code, articles) related to data profiling
 * [Graphillion](https://github.com/takemaru/graphillion): Graphilion is a software library for working with many graphs in a parallel fashion
-* [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification): A very throughout collection of graph embedding, classification and representation learning papers with the code!
+* [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification): A very thorough collection of graph embedding, classification and representation learning papers with the code!
 * [VFML](https://www.cs.washington.edu/dm/vfml/): Very Fast ML (hence the name VFML) is a fast C library for mining very huge data streams
 * [Talisman](https://github.com/Yomguithereal/talisman): Talisman is a modular JavaScript library for NLP and Machine Learning activities
 * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN is TensorFlow implementation of a proposed architecture for GANs from NVIDIA, you can use it to create photo-realistic pictures of people who don't exist!
 * [Java String Similarity](https://github.com/tdebatty/java-string-similarity): A Java library implementing a collection of useful text similarity/distance measures
 * [Label Studio](https://github.com/heartexlabs/label-studio): Label Studio is a handy tool with a nice UI for labelling your data (e.g., records and documents)
-* [GraphML](http://graphml.graphdrawing.org/index.html): GraphML is a graph representation and serialization file format based on XML that could store many different types of graphs with their attributes without loss of information
+* [GraphML](http://graphml.graphdrawing.org/index.html): GraphML is a graph representation and serialisation file format based on XML that could store many different types of graphs with their attributes without loss of information
 * [Taco](http://tensor-compiler.org/): A compiler for compiling and executing general tensor algebra operations on sparse tensors in machine code for CPUs and GPUs
 * [Libspatialindex](https://libspatialindex.org/): Libspatialindex contains many robust geolocational indexing algorithms like R*-tree and TPR-tree
 * [NLP Best Practices](https://github.com/microsoft/nlp): A collection of best practices and their examples in NLP domain from Microsoft
-* [Tulip](https://tulip.labri.fr/TulipDrupal/): Tulip is a nice open-source data visualization and analysis software toolbox, it is especially good for working with graphs and graph datasets
+* [Tulip](https://tulip.labri.fr/TulipDrupal/): Tulip is a nice open-source data visualisation and analysis software toolbox, it is especially good for working with graphs and graph datasets
 * [Juno](https://junolab.org): Juno is an IDE based on Atom for Julia programming language
 * [BoofCV](https://boofcv.org/index.php?title=Main_Page): A real-time machine vision and image processing in Java
 * [cuDF](https://github.com/rapidsai/cudf): cuDF is a library with API similar to Pandas that is built based on the Apache Arrow columnar memory format, cuDF uses GPU routines for loading, joining, aggregating, filtering, and otherwise manipulating data
@@ -398,9 +398,9 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [AIX360](http://aix360.mybluemix.net/): An explainable AI (XAI) toolkit to interpret Machine Learning models
 * [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch reproducible
 * [TensorFlowJS](https://www.tensorflow.org/js): TensorFlowJS is a JavaScript library to use TensorFlow models in web applications in the browser
-* [Kst](https://kst-plot.kde.org/): Kst is a handy data visualization tool from KDE project
+* [Kst](https://kst-plot.kde.org/): Kst is a handy data visualisation tool from KDE project
 * [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probabilistic modelling of data
-* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/): "LIBFFM is an open source tool for field-aware factorization machines (FFM)"; people won a few real-world data science challenge in Kaggle
+* [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/): "LIBFFM is an open-source tool for field-aware factorisation machines (FFM)"; people won a few real-world data science challenges in Kaggle
 * [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modelling
 
 ## My Favourites
@@ -417,4 +417,3 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [A gentle introduction to Tensors and their uses](https://arxiv.org/pdf/1711.10781): An introduction to Tensors and their sample applications, Don't let the math scare you off!:0)
 * [Mining Massive Datasets](http://www.mmds.org): A very nice blend of theory and application for what can be done to data
 * [Networks, Crowds, and Markets: Reasoning About a Highly Connected World ](https://www.cs.cornell.edu/home/kleinber/networks-book/): Very insightful if like to know more about the interconnected world and networks
-
