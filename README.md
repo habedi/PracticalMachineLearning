@@ -50,6 +50,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [GNNPapers](https://github.com/thunlp/GNNPapers): A collection of research papers on Graph Neural Networks
 * [Mining Social Media](http://socialdata.site/): The web version of an easy to follow introductory book for mine social media data
+* [The Economist data visualisation](https://medium.economist.com/tagged/data-visualization): A set of articles describing how the Economist uses data visualisation 
 
 ## Dataset Repositories
 
@@ -90,7 +91,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
 * [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
 * [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials, covering a vast amount of topics
-* [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code also published too, you can access the code from many recent cutting-edge algorithms from here 
+* [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code published too, you can access the code from many recent cutting-edge algorithms from here 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 * [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
 
@@ -241,7 +242,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [k-Shape](https://github.com/johnpaparrizos/kshape): This is a Python implementation of the k-Shape clustering algorithm for clustering the time series data
 * [Pyforest](https://github.com/8080labs/pyforest): You could use Pyforest to import all Python data science-related library lazily as you need them in your code
 * [ETE Toolkit](http://etetoolkit.org/): ETE Toolkit is a Python toolbox for visualising and analysis of tree format data
-* [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search the library for Python
+* [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
 * [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualisation library for geospatial plotting of geo-locational records
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python mush easier
 * [Edward](http://edwardlib.org/): "A library for probabilistic modelling, inference, and criticism" - its website
@@ -351,7 +352,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [RTree](https://github.com/davidmoten/rtree): Reactive implementations of immutable in-memory R-tree and R*-tree in Java
 * [Recommender Systems](https://github.com/Microsoft/Recommenders): A useful repository of stuff all about the Recommender Systems (e.g. best practices to build Recommender Systems)
 * [Awesome-Graph](https://github.com/jbmusso/awesome-graph): A curated list of resources (e.g., libraries, frameworks and databases) related to graphs
-* [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox written in Java from Oracle
+* [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox from Oracle which is written in Java
 * [ROOT](https://root.cern.ch): A scientific toolbox for data processing and analysis in C++
 * [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a nice Java toolkit for topic modelling on textual data
 * [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e. clustering, regression, classification and graphical models)
