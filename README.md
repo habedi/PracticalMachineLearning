@@ -66,6 +66,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Datalist.com](https://www.datasetlist.com/): A handy list of ML related datasets from all over the web
 * [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data): A huge collection of datasets from Twitter's data
 * [Dataset for Graph classification](https://github.com/shiruipan/graph_datasets): A collection of datasets for classification on graphs
+* [Google's dataset search](https://datasetsearch.research.google.com/)
 
 ## Q&A Websites
 
