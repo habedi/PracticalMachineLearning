@@ -254,6 +254,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Lpproj](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
 * [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarisation and keyword extraction of text in many different languages
 * [PyCarets](https://github.com/pycaret/pycaret)
+* [ACME](https://github.com/deepmind/acme): A software framework for research on reinforcement learning
 
 
 ## Additional Useful Resources
