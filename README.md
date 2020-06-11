@@ -255,6 +255,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarisation and keyword extraction of text in many different languages
 * [PyCarets](https://github.com/pycaret/pycaret)
 * [ACME](https://github.com/deepmind/acme): A software framework for research on reinforcement learning
+* [fastText](https://fasttext.cc/): A fast text representation learning and classification library from Facebook
 
 
 ## Additional Useful Resources
