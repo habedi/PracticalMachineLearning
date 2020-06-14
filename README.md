@@ -407,6 +407,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/): "LIBFFM is an open-source tool for field-aware factorisation machines (FFM)"; people won a few real-world data science challenges in Kaggle
 * [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modelling
 * [Stan](https://mc-stan.org/): "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation." - Stan's webiste
+* [DEAP](https://github.com/deap/deap): Distributed Evolutionary Algorithms in Python
 
 ## My Favourites
 
