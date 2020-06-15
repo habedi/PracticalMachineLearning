@@ -408,6 +408,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modelling
 * [Stan](https://mc-stan.org/): "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation." - Stan's webiste
 * [DEAP](https://github.com/deap/deap): Distributed Evolutionary Algorithms in Python
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 
 ## My Favourites
 
