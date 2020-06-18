@@ -410,6 +410,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [DEAP](https://github.com/deap/deap): Distributed Evolutionary Algorithms in Python
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SimMetrics](https://github.com/Simmetrics/simmetrics)
+* [Neuroph](http://neuroph.sourceforge.net/)
 
 ## My Favourites
 
