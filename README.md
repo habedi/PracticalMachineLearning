@@ -411,6 +411,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SimMetrics](https://github.com/Simmetrics/simmetrics)
 * [Neuroph](http://neuroph.sourceforge.net/)
+* [MLeap](https://mleap-docs.combust.ml/)
 
 ## My Favourites
 
