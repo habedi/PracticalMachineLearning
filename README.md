@@ -256,6 +256,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [PyCarets](https://github.com/pycaret/pycaret)
 * [ACME](https://github.com/deepmind/acme): A software framework for research on reinforcement learning
 * [fastText](https://fasttext.cc/): A fast text representation learning and classification library from Facebook
+* [Distance](https://github.com/doukremt/distance): A useful library in pure Python to calculate the distance between arbitary sequences
 
 
 ## Additional Useful Resources
