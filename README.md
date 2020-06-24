@@ -50,7 +50,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [GNNPapers](https://github.com/thunlp/GNNPapers): A collection of research papers on Graph Neural Networks
 * [Mining Social Media](http://socialdata.site/): The web version of an easy to follow introductory book for mine social media data
-* [The Economist data visualisation](https://medium.economist.com/tagged/data-visualization): A set of articles describing how the Economist uses data visualisation 
+* [The Economist data visualisation](https://medium.economist.com/tagged/data-visualization): A set of articles describing how the Economist uses data visualisation
+* [Text Mining with R - A tidy approach](https://www.tidytextmining.com/)
 
 ## Dataset Repositories
 
