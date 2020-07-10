@@ -96,6 +96,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code published too, you can access the code from many recent cutting-edge algorithms from here 
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 * [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
+* [KDnuggets](https://www.kdnuggets.com)
 
 ## Editors & IDEs for Python
 
