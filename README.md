@@ -415,6 +415,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [SimMetrics](https://github.com/Simmetrics/simmetrics)
 * [Neuroph](http://neuroph.sourceforge.net/)
 * [MLeap](https://mleap-docs.combust.ml/)
+* [HiSee](http://hisee.sourceforge.net/)
 
 ## My Favourites
 
