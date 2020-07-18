@@ -416,7 +416,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Neuroph](http://neuroph.sourceforge.net/)
 * [MLeap](https://mleap-docs.combust.ml/)
 * [HiSee](http://hisee.sourceforge.net/)
-* [JSAT](https://github.com/EdwardRaff/JSAT)
+* [JSAT](https://github.com/EdwardRaff/JSAT): A Java-based library implementing a standard set of data analysis and machine learning activities
 
 ## My Favourites
 
