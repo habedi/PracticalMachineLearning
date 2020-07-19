@@ -259,6 +259,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [ACME](https://github.com/deepmind/acme): A software framework for research on reinforcement learning
 * [fastText](https://fasttext.cc/): A fast text representation learning and classification library from Facebook
 * [Distance](https://github.com/doukremt/distance): A useful library in pure Python to calculate the distance between arbitary sequences
+* [Texhero](https://texthero.org/): "Text preprocessing, representation and visualization from zero to hero" -- Texthero's website
 
 
 ## Additional Useful Resources
