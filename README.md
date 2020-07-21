@@ -260,6 +260,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [fastText](https://fasttext.cc/): A fast text representation learning and classification library from Facebook
 * [Distance](https://github.com/doukremt/distance): A useful library in pure Python to calculate the distance between arbitary sequences
 * [Texhero](https://texthero.org/): "Text preprocessing, representation and visualization from zero to hero" -- Texthero's website
+* [xLearn](https://github.com/aksnzhy/xlearn): "High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface." -- xLearn's description
 
 
 ## Additional Useful Resources
