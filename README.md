@@ -97,6 +97,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 <!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 * [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
 * [KDnuggets](https://www.kdnuggets.com)
+* [Deepnote](https://deepnote.com/)
+* [Google Colab](https://colab.research.google.com)
 
 ## Editors & IDEs for Python
 
