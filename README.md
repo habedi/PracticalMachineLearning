@@ -423,6 +423,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [HiSee](http://hisee.sourceforge.net/)
 * [JSAT](https://github.com/EdwardRaff/JSAT): A Java-based library implementing a standard set of data analysis and machine learning activities
 * [Ark tweet Pos tagger](https://github.com/brendano/ark-tweet-nlp/): CMU ARK Twitter part-of-speech tagger
+* [JASP](https://jasp-stats.org/)
 
 ## My Favourites
 
