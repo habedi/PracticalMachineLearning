@@ -264,6 +264,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Texhero](https://texthero.org/): "Text preprocessing, representation and visualization from zero to hero" -- Texthero's website
 * [xLearn](https://github.com/aksnzhy/xlearn): "High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface." -- xLearn's description
 * [TextBlob](https://textblob.readthedocs.io/en/dev/): A text processing library with a high-level API
+* [Plotline](https://plotnine.readthedocs.io/en/stable/)
 
 
 ## Additional Useful Resources
