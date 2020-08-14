@@ -265,6 +265,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [xLearn](https://github.com/aksnzhy/xlearn): "High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface." -- xLearn's description
 * [TextBlob](https://textblob.readthedocs.io/en/dev/): A text processing library with a high-level API
 * [Plotline](https://plotnine.readthedocs.io/en/stable/)
+* [Dtale](https://github.com/man-group/dtale): A Python tool to analyse data stored in pandas dataframes
 
 
 ## Additional Useful Resources
