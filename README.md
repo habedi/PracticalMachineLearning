@@ -266,6 +266,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [TextBlob](https://textblob.readthedocs.io/en/dev/): A text processing library with a high-level API
 * [Plotline](https://plotnine.readthedocs.io/en/stable/)
 * [Dtale](https://github.com/man-group/dtale): A Python tool to analyse data stored in pandas dataframes
+* [Lasagne](https://github.com/Lasagne/Lasagne): A lightweight library to build and train neural networks in Theano
 
 
 ## Additional Useful Resources
