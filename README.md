@@ -99,6 +99,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [KDnuggets](https://www.kdnuggets.com)
 * [Deepnote](https://deepnote.com/)
 * [Google Colab](https://colab.research.google.com)
+* [DeepLearning.com](http://deeplearning.net/): A website for resources related to everything DL
 
 ## Editors & IDEs for Python
 
