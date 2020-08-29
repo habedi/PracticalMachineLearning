@@ -53,6 +53,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [The Economist data visualisation](https://medium.economist.com/tagged/data-visualization): A set of articles describing how the Economist uses data visualisation
 * [Text Mining with R - A tidy approach](https://www.tidytextmining.com/)
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/): Explore, Explain and Examine Predictive Models
+* [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 ## Dataset Repositories
 
