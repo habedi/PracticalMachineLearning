@@ -271,6 +271,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Dtale](https://github.com/man-group/dtale): A Python tool to analyse data stored in pandas dataframes
 * [Lasagne](https://github.com/Lasagne/Lasagne): A lightweight library to build and train neural networks in Theano
 * [Magnitude](https://github.com/plasticityai/magnitude): Magnitude is a vector embedding helper library (much in the spirit of Gensim)
+* [Missingno](https://github.com/ResidentMario/missingno): A useful Python library for visualising missing data
 
 
 ## Additional Useful Resources
