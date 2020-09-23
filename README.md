@@ -54,6 +54,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Text Mining with R - A tidy approach](https://www.tidytextmining.com/)
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/): Explore, Explain and Examine Predictive Models
 * [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
 ## Dataset Repositories
 
