@@ -435,6 +435,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Jamovi](https://www.jamovi.org/)
 * [DynaML](https://transcendent-ai-labs.github.io/DynaML/): "DynaML is a Scala & JVM Machine Learning toolbox for research, education & industry." -- Its website
 * [ExecuteMulan](https://github.com/kdis-lab/ExecuteMulan): A Java utility to run the multi-label classification method from Mulan with more ease
+* [GTN](https://github.com/facebookresearch/gtn): "GTN is an open source framework for automatic differentiation with a powerful, expressive type of graph called weighted finite-state transducers (WFSTs). Just as PyTorch provides a framework for automatic differentiation with tensors, GTN provides such a framework for WFSTs. AI researchers and engineers can use GTN to more effectively train graph-based machine learning models." -- Facebook
 
 ## My Favourites
 
