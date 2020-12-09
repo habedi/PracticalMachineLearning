@@ -273,7 +273,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Lasagne](https://github.com/Lasagne/Lasagne): A lightweight library to build and train neural networks in Theano
 * [Magnitude](https://github.com/plasticityai/magnitude): Magnitude is a vector embedding helper library (much in the spirit of Gensim)
 * [Missingno](https://github.com/ResidentMario/missingno): A useful Python library for visualising missing data
-* [Vector Hub](https://github.com/vector-ai/vectorhub): Vector Hub is a Python library that can help turn almost everything (including text, graph, and image data) into vector representations  
+* [Vector Hub](https://github.com/vector-ai/vectorhub): Vector Hub is a Python library that can help turn almost everything (including text, graph, and image data) into vector representations
+* [pyLDAvis](https://github.com/bmabey/pyLDAvis): A Python library for interactive topic modelling and visualization of topics in textual datasets
 
 
 ## Additional Useful Resources
