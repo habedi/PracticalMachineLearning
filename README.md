@@ -442,6 +442,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Tribuo](https://tribuo.org/): An open source machine learning library in Java from Oracle
 * [Neo4J's Graph Data Science Library](https://github.com/neo4j/graph-data-science)
 * [Libbow](https://www.cs.cmu.edu/~mccallum/bow/): "Bow (or libbow) is a library of C code useful for writing statistical text analysis, language modeling and information retrieval programs." -- Its website
+* [Doccano](https://github.com/doccano/doccano)
 
 ## My Favourites
 
