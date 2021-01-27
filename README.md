@@ -443,6 +443,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Neo4J's Graph Data Science Library](https://github.com/neo4j/graph-data-science)
 * [Libbow](https://www.cs.cmu.edu/~mccallum/bow/): "Bow (or libbow) is a library of C code useful for writing statistical text analysis, language modeling and information retrieval programs." -- Its website
 * [Doccano](https://github.com/doccano/doccano)
+* [FACTORIE](http://factorie.cs.umass.edu/index.html)
 
 ## My Favourites
 
