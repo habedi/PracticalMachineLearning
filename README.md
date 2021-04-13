@@ -448,6 +448,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Doccano](https://github.com/doccano/doccano)
 * [FACTORIE](http://factorie.cs.umass.edu/index.html)
 * [BigDL](https://github.com/intel-analytics/BigDL): BigDL is a deep learning library that runs in an Apache Spark cluster
+* [ImageJ](https://imagej.github.io/): "ImageJ is an open source image processing program designed for scientific multidimensional images."--ImageJ's website
 
 ## My Favourites
 
