@@ -277,7 +277,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Missingno](https://github.com/ResidentMario/missingno): A useful Python library for visualising missing data
 * [Vector Hub](https://github.com/vector-ai/vectorhub): Vector Hub is a Python library that can help turn almost everything (including text, graph, and image data) into vector representations
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis): A Python library for interactive topic modelling and visualization of topics in textual datasets
-* [Pyextrank](https://github.com/DerwenAI/pytextrank): A Python implementation of TextRank allgorithm
+* [Pyextrank](https://github.com/DerwenAI/pytextrank): A Python implementation of TextRank algorithm
+* [Mitosheets](https://trymito.io/): A Jupyter Lab extension to make it easier to work with Panda's dataframes
 
 
 ## Additional Useful Resources
