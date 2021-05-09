@@ -279,6 +279,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis): A Python library for interactive topic modelling and visualization of topics in textual datasets
 * [Pyextrank](https://github.com/DerwenAI/pytextrank): A Python implementation of TextRank algorithm
 * [Mitosheets](https://trymito.io/): A Jupyter Lab extension to make it easier to work with Panda's dataframes
+* [Transformers](https://github.com/huggingface/transformers)
 
 
 ## Additional Useful Resources
