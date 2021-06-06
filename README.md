@@ -280,6 +280,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Pyextrank](https://github.com/DerwenAI/pytextrank): A Python implementation of TextRank algorithm
 * [Mitosheets](https://trymito.io/): A Jupyter Lab extension to make it easier to work with Panda's dataframes
 * [Transformers](https://github.com/huggingface/transformers)
+* [CoClust](https://github.com/franrole/cclust_package): A Python library for co-clustering
 
 
 ## Additional Useful Resources
