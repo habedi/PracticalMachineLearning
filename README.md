@@ -105,6 +105,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Google Colab](https://colab.research.google.com)
 * [DeepLearning.com](http://deeplearning.net/): A website for resources related to everything DL
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
+* [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
 
 ## Editors & IDEs for Python
 
