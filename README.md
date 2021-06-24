@@ -282,6 +282,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Mitosheets](https://trymito.io/): A Jupyter Lab extension to make it easier to work with Panda's dataframes
 * [Transformers](https://github.com/huggingface/transformers)
 * [CoClust](https://github.com/franrole/cclust_package): A Python library for co-clustering
+* [PySurvival](https://square.github.io/pysurvival/): PySurvival is a Python package for survival analysis of data
 
 
 ## Additional Useful Resources
