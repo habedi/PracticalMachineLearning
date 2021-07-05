@@ -284,6 +284,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [CoClust](https://github.com/franrole/cclust_package): A Python library for co-clustering
 * [PySurvival](https://square.github.io/pysurvival/): PySurvival is a Python package for survival analysis of data
 * [Scikit-survival](https://github.com/sebp/scikit-survival): Scikit-survival is an extension to Scikit-learn that adds survival analysis capabilities to it
+* [rfpimp](https://github.com/parrt/random-forest-importances): A Python package that brings permutation-based feature importance measure to Scikit-learn Random Forests learners
 
 
 ## Additional Useful Resources
