@@ -56,6 +56,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
 * [Data Mining and Machine Learning: Fundamental Concepts and Algorithms, Second Edition](https://dataminingbook.info/)
+* [Dive into Deep Learning](https://d2l.ai/): "Interactive deep learning book with code, math, and discussions" -- its website
 
 ## Dataset Repositories
 
