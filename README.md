@@ -108,8 +108,9 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
   
-  ## Tutorials
-  * [NLP-Notebooks](https://github.com/nlptown/nlp-notebooks): A collection of notebooks covering conventional NLP tasks such as word embeddings, text classification, etc.
+## Tutorials
+  
+* [NLP-Notebooks](https://github.com/nlptown/nlp-notebooks): A collection of notebooks covering conventional NLP tasks such as word embeddings, text classification, etc.
 
 ## Editors & IDEs for Python
 
