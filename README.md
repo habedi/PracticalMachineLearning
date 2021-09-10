@@ -112,6 +112,9 @@ This document is an attempt to come up with a curated list of Machine Learning r
   
 * [NLP-Notebooks](https://github.com/nlptown/nlp-notebooks): A collection of notebooks covering conventional NLP tasks such as word embeddings, text classification, etc.
 
+* [2021 DeepMind x UCL Reinforcement Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm): Video lectures from DeepMind covering the area of Reinforcement Learning
+  
+  
 ## Editors & IDEs for Python
 
 * [Spyder](https://pythonhosted.org/spyder/): A great Python IDE for scientists in general
