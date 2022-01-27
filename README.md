@@ -295,7 +295,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [rfpimp](https://github.com/parrt/random-forest-importances): A Python package that brings permutation-based feature importance measure to Scikit-learn Random Forests learners
 * [Jiant](https://github.com/nyu-mll/jiant): Jiant is a NLP software toolkit with the multitask and transfer learning capabilities
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): "PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data."---PyG's documentation
-* [Nodevectors](https://github.com/VHRanger/nodevectors): A Python package with fast and sclable implementations for some popular vertex embedding algorithms 
+* [Nodevectors](https://github.com/VHRanger/nodevectors): A Python package with fast and sclable implementations for some popular vertex embedding algorithms
+* [JGraphT](https://jgrapht.org/): JGraphT now supports Python
   
 
 ## Additional Useful Resources
