@@ -468,7 +468,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [FACTORIE](http://factorie.cs.umass.edu/index.html)
 * [BigDL](https://github.com/intel-analytics/BigDL): BigDL is a deep learning library that runs in an Apache Spark cluster
 * [ImageJ](https://imagej.github.io/): "ImageJ is an open-source image processing program designed for multidimensional scientific images."--ImageJ's website
-* [Oj! Algo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and methematical optimization library 
+* [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and methematical optimization library 
 
 ## Highly Recommended
 
