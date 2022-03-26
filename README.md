@@ -297,7 +297,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): "PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data."---PyG's documentation
 * [Nodevectors](https://github.com/VHRanger/nodevectors): A Python package with fast and sclable implementations for some popular vertex embedding algorithms
 * [JGraphT](https://jgrapht.org/): JGraphT now supports Python
-  
+* [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend.         
 
 ## Additional Useful Resources
 
@@ -468,7 +468,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [FACTORIE](http://factorie.cs.umass.edu/index.html)
 * [BigDL](https://github.com/intel-analytics/BigDL): BigDL is a deep learning library that runs in an Apache Spark cluster
 * [ImageJ](https://imagej.github.io/): "ImageJ is an open-source image processing program designed for multidimensional scientific images."--ImageJ's website
-* [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and methematical optimization library 
+* [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and methematical optimization library
+ 
 
 ## Highly Recommended
 
