@@ -297,8 +297,9 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): "PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data."---PyG's documentation
 * [Nodevectors](https://github.com/VHRanger/nodevectors): A Python package with fast and sclable implementations for some popular vertex embedding algorithms
 * [JGraphT](https://jgrapht.org/): JGraphT now supports Python
-* [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend.         
-
+* [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend
+* [Spektral](https://graphneural.network/): A Python package for creating and running graph neural networks
+  
 ## Additional Useful Resources
 
 * [PyPy Python Implementation](https://pypy.org): A stackless alternative implementation for Python's runtime 
