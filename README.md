@@ -299,6 +299,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [JGraphT](https://jgrapht.org/): JGraphT now supports Python
 * [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend
 * [Spektral](https://graphneural.network/): A Python package for creating and running graph neural networks
+* [HyperNetX(HNX)](https://github.com/pnnl/HyperNetX): A Python library to work with data modelled as hypergraphs
   
 ## Additional Useful Resources
 
