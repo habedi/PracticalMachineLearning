@@ -300,6 +300,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend
 * [Spektral](https://graphneural.network/): A Python package for creating and running graph neural networks
 * [HyperNetX(HNX)](https://github.com/pnnl/HyperNetX): A Python library to work with data modelled as hypergraphs
+* [Graph4NLP](https://github.com/graph4ai/graph4nlp): Graph4nlp is a Python library that makes it easier to use graph neural networks in and for NLP tasks
   
 ## Additional Useful Resources
 
