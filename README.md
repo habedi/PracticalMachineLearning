@@ -484,7 +484,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Probably Approximately Correct](http://www.probablyapproximatelycorrect.com/)
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/): An excellent book to start learning ML, A must for every ML enthusiast
 * [Scikit-Learn website](http://scikit-learn.org/stable/): Scikit-learn's website itself is a great resource to learn!
-* [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**!, **Are AI and Alchemy the same?**
+* [What Computers Still Can't Do](https://mitpress.mit.edu/books/what-computers-still-cant-do): Some old and still valid criticisms of **Strong AI**! **Are AI and Alchemy the same?**
 * [Readings in Database Systems(The Red Book)](http://www.redbook.io): An enjoyable to read. It's a little bit hard to follow at first for me, but a great many resources are mentioned at the end of each chapter, and it gives significant insights into the history, trends, and future of DBMSs and Data Processing Platforms
 * [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): Let's compress everything!
 * [Machine Learning Meets Databases](https://www.readcube.com/articles/10.1007/s13222-017-0247-8?author_access_token=1fzYNWmIWlXqKI0DELURnPe4RwlQNchNByi7wbcMAY6Cepjqg3KOiZ-onU6ydW2SX9rd-5bdKQCXnbFIb08a9xaTuCpfJiOfpDQ1UVEdBVpsZ-WdPAteVaTw3WtkixH-jQ904zCAZxa7P90ImH73uw%3D%3D): A very informative and also easy to follow article, including a short introduction to Machine Learning and also describing its relation to Data Mining and Databases
