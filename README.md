@@ -99,7 +99,6 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
 * [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials, covering a vast amount of topics
 * [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code published too, you can access the code from many recent cutting-edge algorithms from here 
-<!-- * [Stanford Machine Learning Course(Projects!)](http://cs229.stanford.edu/projects.html) -->
 * [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
 * [KDnuggets](https://www.kdnuggets.com)
 * [Deepnote](https://deepnote.com/)
@@ -108,12 +107,13 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
   
-## Tutorials
+## Tutorials & Courses
   
 * [NLP-Notebooks](https://github.com/nlptown/nlp-notebooks): A collection of notebooks covering conventional NLP tasks such as word embeddings, text classification, etc.
 * [2021 DeepMind x UCL Reinforcement Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm): Video lectures from DeepMind covering the area of Reinforcement Learning
 * [Stanford Graph Learning Workshop](https://www.youtube.com/watch?v=NKZdqCi5fVE): Recording of Stanford graph Learning workshop sessions on September 2021
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
+* [Introductory Machine Learning Course](https://work.caltech.edu/telecourse.html#lectures): An accessible machine learning course taught by professor Professor Yaser Abu-Mostafa from Caltech
   
 ## Editors & IDEs for Python
 
@@ -123,7 +123,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [IDLE](https://docs.python.org/3/library/idle.html): Default Python IDE, lean and clean environment to develop in Python
 * [Rodeo](https://www.yhat.com/products/rodeo): A Python IDE for data scientists
 
-## Toolboxes & Distributions
+## Toolboxes & Software Distributions
 
 * [Anaconda](https://conda.io/docs/user-guide/install/download.html): A very user-friendly environment for scientific Python development
 * [Miniconda](https://conda.io/miniconda.html)
