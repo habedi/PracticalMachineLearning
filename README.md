@@ -114,6 +114,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Stanford Graph Learning Workshop](https://www.youtube.com/watch?v=NKZdqCi5fVE): Recording of Stanford graph Learning workshop sessions on September 2021
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 * [Introductory Machine Learning Course](https://work.caltech.edu/telecourse.html#lectures): An accessible machine learning course taught by professor Professor Yaser Abu-Mostafa from Caltech
+* [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
   
 ## Editors & IDEs for Python
 
