@@ -303,6 +303,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [HyperNetX(HNX)](https://github.com/pnnl/HyperNetX): A Python library to work with data modeled as hypergraphs
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp): Graph4nlp is a Python library that makes it easier to use graph neural networks in and for NLP tasks
 * [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): JAX is a Python library for high-performance numerical computation used in machine learning
+* [Metric-learn](http://contrib.scikit-learn.org/metric-learn/index.html): Metric-learn is Python library for metric learning. It's available as part of (scikit-learn-contrib)[https://github.com/scikit-learn-contrib] collection
 
   
 ## Additional Useful Resources
@@ -475,10 +476,10 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [BigDL](https://github.com/intel-analytics/BigDL): BigDL is a deep learning library that runs in an Apache Spark cluster
 * [ImageJ](https://imagej.github.io/): "ImageJ is an open-source image processing program designed for multidimensional scientific images."--ImageJ's website
 * [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and mathematical optimization library
-* [Ivy](https://lets-unify.ai/): Ivy is a unifying framework for different deep learning frameworks such as PyTorch and TensorFlow. You need to write your code in Ivy once and run it on many deep learning frameworks 
+* [Ivy](https://lets-unify.ai/): Ivy is a unifying framework for different deep learning frameworks such as PyTorch and TensorFlow. You need to write your code in Ivy once and run it on many deep learning frameworks
  
 
-## Highly Recommended
+## Recommended
 
 * [Ali Rahimi's talk NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE): Good talk from someone inside the field
 * [Procrustes](https://en.wikipedia.org/wiki/Procrustes): How could we live without Wikipedia?
