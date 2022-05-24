@@ -477,6 +477,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [ImageJ](https://imagej.github.io/): "ImageJ is an open-source image processing program designed for multidimensional scientific images."--ImageJ's website
 * [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and mathematical optimization library
 * [Ivy](https://lets-unify.ai/): Ivy is a unifying framework for different deep learning frameworks such as PyTorch and TensorFlow. You need to write your code in Ivy once and run it on many deep learning frameworks
+* [Gradio](https://gradio.app/): Gradio is a user interface (UI) framework for building UIs for machine learning and data science applications in Python
  
 
 ## Recommended
