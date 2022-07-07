@@ -304,6 +304,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp): Graph4nlp is a Python library that makes it easier to use graph neural networks in and for NLP tasks
 * [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): JAX is a Python library for high-performance numerical computation used in machine learning
 * [Metric-learn](http://contrib.scikit-learn.org/metric-learn/index.html): Metric-learn is Python library for metric learning. It's available as part of (scikit-learn-contrib)[https://github.com/scikit-learn-contrib] collection
+* [AmpliGraph](https://github.com/Accenture/AmpliGraph/): AmpliGraph is a Python library for representation learning on knowledge graphs
 
   
 ## Additional Useful Resources
