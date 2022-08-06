@@ -305,6 +305,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): JAX is a Python library for high-performance numerical computation used in machine learning
 * [Metric-learn](http://contrib.scikit-learn.org/metric-learn/index.html): Metric-learn is Python library for metric learning. It's available as part of (scikit-learn-contrib)[https://github.com/scikit-learn-contrib] collection
 * [AmpliGraph](https://github.com/Accenture/AmpliGraph/): AmpliGraph is a Python library for representation learning on knowledge graphs
+* [Distfit](https://erdogant.github.io/distfit/pages/html/index.html): "Distfitis a python package for probability density fitting of univariate distributions on non-censored data" --- Distfit's website
 
   
 ## Additional Useful Resources
