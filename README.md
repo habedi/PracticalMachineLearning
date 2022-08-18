@@ -307,6 +307,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [AmpliGraph](https://github.com/Accenture/AmpliGraph/): AmpliGraph is a Python library for representation learning on knowledge graphs
 * [Distfit](https://erdogant.github.io/distfit/pages/html/index.html): "Distfitis a python package for probability density fitting of univariate distributions on non-censored data"--Distfit's website
 * [Pke](https://github.com/boudinfl/pke): Pke is a keyphrase extractor from text in Python
+* [Albumentation](https://albumentations.ai/): Albumentations is a library for image augmentation
 
   
 ## Additional Useful Resources
