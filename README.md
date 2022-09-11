@@ -308,6 +308,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Distfit](https://erdogant.github.io/distfit/pages/html/index.html): "Distfitis a python package for probability density fitting of univariate distributions on non-censored data"--Distfit's website
 * [Pke](https://github.com/boudinfl/pke): Pke is a keyphrase extractor from text in Python
 * [Albumentation](https://albumentations.ai/): Albumentations is a library for image augmentation
+* [Spark NLP](https://nlp.johnsnowlabs.com/): Spark NLP is an NLP library for Python
 
   
 ## Additional Useful Resources
