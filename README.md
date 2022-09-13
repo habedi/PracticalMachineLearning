@@ -1,7 +1,7 @@
 ## J'ai seulement fait ici un amas de fleurs étrangères, n'y ayant fourni du mien que le filet à les lier.
 
-# My Machine Learning related stuff!
-My Apache Zeppelin and Jupyter notebooks, and more! for a series of valuable data analysis and machine learning related stuff in general
+# My Machine Learning-related stuff!
+My Apache Zeppelin and Jupyter notebooks, and more! For a series of valuable data analysis and machine learning-related stuff in general
 
 * [Apache Zeppelin Notebooks(Need maintenance)](zeppelin_notebooks/)
 * [Jupyter Notebooks](jupyter_notebooks/)
@@ -14,7 +14,7 @@ My Apache Zeppelin and Jupyter notebooks, and more! for a series of valuable dat
   
 # ML Resources(with an emphasis on Python)
 
-This document is an attempt to come up with a curated list of Machine Learning resources, including books, papers, software, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
+This document attempts to develop a curated list of Machine Learning resources, including books, papers, software, libraries, notebooks, etc. Most of the libraries are for Python though the rest of the materials here are generally suited for working with data.
 
 ## Books and Writings
 
@@ -35,7 +35,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [An ML Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Hand-book on STATISTICAL DISTRIBUTIONS for experimentalists](http://www.stat.rice.edu/~dobelman/textfiles/DistributionsHandbook.pdf)
-* [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL related topics over the years
+* [Deep Learning Papernotes](https://github.com/dennybritz/deeplearning-papernotes): A repository of many of the research papers published about various DL-related topics over the years
 * [NLR Papers](https://github.com/thunlp/NRLPapers): A perfect collection of papers on Network Representation Learning and Network Embedding
 * [KRL Papers](https://github.com/thunlp/KRLPapers): A nice collection of papers on Knowledge Representation Learning and Knowledge Embedding
 * [Stanford CS 229 ML Cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning): A nice collection of ML cheat-sheets on various important subject matters
@@ -46,10 +46,10 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Representation Learning: A Review and New Perspectives](https://arxiv.org/abs/1206.5538): An excellent introduction to Representation Learning and its implications
 * [NLTK Book](https://www.nltk.org/book/): A great book if you want to process and analyze texts with NLTK
 * [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
-* [Machine Learning Workflow with Python](https://github.com/mjbahmani/Machine-Learning-Workflow-with-Python): A collection of useful ML related stuff for people interested in working with the data
+* [Machine Learning Workflow with Python](https://github.com/mjbahmani/Machine-Learning-Workflow-with-Python): A collection of useful ML-related stuff for people interested in working with the data
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [GNNPapers](https://github.com/thunlp/GNNPapers): A collection of research papers on Graph Neural Networks
-* [Mining Social Media](http://socialdata.site/): The web version of an easy to follow introductory book for mining social media data
+* [Mining Social Media](http://socialdata.site/): The web version of an easy-to-follow introductory book for mining social media data
 * [The Economist data visualization](https://medium.economist.com/tagged/data-visualization): A set of articles describing how the Economist uses data visualization
 * [Text Mining with R - A tidy approach](https://www.tidytextmining.com/)
 * [Explanatory Model Analysis](https://pbiecek.github.io/ema/): Explore, Explain and Examine Predictive Models
@@ -60,7 +60,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 
 ## Dataset Repositories
 
-* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): Lots of exciting datasets piled up just for you to use them!
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): Lots of exciting datasets piled up just for you to use!
 * [Kaggle](https://www.kaggle.com): A very active community, a great place to learn from others
 * [Network Repository](http://networkrepository.com): Many network/graph datasets, If you like graphs, it's the place for you! 
 * [Deep Learning Datasets](http://deeplearning.net/datasets/): DL datasets, of course!
@@ -69,8 +69,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Wikipedia List of Datasets for Machine Learning Research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research): It's Wikipedia!
 * [GHTorrent](http://ghtorrent.org): GHTorrent project is an attempt to make an offline queryable mirror of Github projects' data available for everyone
 * [SOTorrent](https://empirical-software.engineering/projects/sotorrent/): A very rich dataset of StackOverflow posts and related contents such as post comments
-* [Datalist.com](https://www.datasetlist.com/): A handy list of ML related datasets from all over the web
-* [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data): A large collection of datasets from Twitter's data
+* [Datalist.com](https://www.datasetlist.com/): A handy list of ML-related datasets from all over the web
+* [awesome-twitter-data](https://github.com/shaypal5/awesome-twitter-data): An extensive collection of datasets from Twitter's data
 * [Dataset for Graph classification](https://github.com/shiruipan/graph_datasets): A collection of datasets for classification on graphs
 * [Google's dataset search](https://datasetsearch.research.google.com/)
 
@@ -88,8 +88,8 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
 * [CrowdAI](https://www.crowdai.org): A Kaggle alternative, popular among students
 * [Quora](https://www.quora.com): Quora Q&A platform
-* [Github.com](https://github.com/): Github contains many useful resources such as the code for many algorithms, all in one centralized platform!
-* [Apache Projects](https://projects.apache.org/): A few hundred cool software projects, many are related to data management in some way! (e.g. Hadoop ecosystem)
+* [Github.com](https://github.com/): Github contains many valuable resources such as the code for many algorithms, all in one centralized platform!
+* [Apache Projects](https://projects.apache.org/): A few hundred cool software projects are related to data management in some way! (e.g. Hadoop ecosystem)
 * [Stanford Machine Learning Course(Have a look at the project section!)](https://see.stanford.edu/Course/CS229)
 * [NIPS Website](https://nips.cc/): A very prestigious AI conference held every year
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
@@ -97,9 +97,9 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [ML Resources on Github](https://github.com/collections/machine-learning)
 * [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
 * [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
-* [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials, covering a vast amount of topics
+* [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials cover a vast amount of topics
 * [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code published too, you can access the code from many recent cutting-edge algorithms from here 
-* [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to social platform Twitter
+* [Twitter datasets](https://github.com/shaypal5/awesome-twitter-data): A list of datasets related to the social platform Twitter
 * [KDnuggets](https://www.kdnuggets.com)
 * [Deepnote](https://deepnote.com/)
 * [Google Colab](https://colab.research.google.com)
@@ -155,7 +155,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Bokeh](https://bokeh.pydata.org/en/latest/): An interactive high-level data visualization library
 * [Matplotlib](https://matplotlib.org/): A compelling data visualization library, More low-level than other visualization libs
 * [Graph Tool](https://graph-tool.skewed.de/): A fast and powerful library for working with graphs in Python. It's developed on top of Boost C++ libraries, so consequently, it's very efficient
-* [NetworkX](https://networkx.github.io/): A Python module for Complex Network modeling and analysis, Very easy-to-use but may be slow occasionally because it's in pure Python
+* [NetworkX](https://networkx.github.io/): A Python module for Complex Network modelling and analysis, Very easy-to-use but may be slow occasionally because it's in pure Python
 * [TensorFlow](https://github.com/tensorflow/tensorflow): Low-level library for creating deep artificial neural networks, works both on CPU and GPU. Usually, you use TF in conjunction with a library with a higher-level API exposing TF's functionalities like Keras
 * [Keras](https://keras.io/): "Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano" - Keras's website
 * [NLTK](http://www.nltk.org/): Swiss Army knife tool for text processing in Python
@@ -182,7 +182,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Numba](https://github.com/numba/numba)
 * [BigARTM](https://github.com/bigartm/bigartm)
 * [GYM](https://github.com/openai/gym): An open-source toolkit for reinforcement learning from the Open AI project
-* [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphasis on modeling via many types of neural network architectures
+* [PyBrain](http://pybrain.org): A Machine Learning library for Python with emphasis on modelling via many types of neural network architectures
 * [Sklearn-pandas](https://github.com/paulgb/sklearn-pandas/)
 * [Auto-ML](https://github.com/ClimbsRocks/auto_ml/)
 * [Scikit-Learn Contrib/Lightning](https://github.com/scikit-learn-contrib/lightning): An extension library to Scikit-learn for large-scale linear classification, regression, and ranking problems
@@ -223,19 +223,19 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [pyGAM](https://github.com/dswah/pyGAM): A Python module for building Generalized Additive Models (GAMs)
 * [ggplot](http://ggplot.yhathq.com): "ggplot is a plotting system for Python based on R's ggplot2 and the Grammar of Graphics. It is built for making professionally-looking plots quickly with minimal code" - ggplot's website
 * [Linkpred](https://github.com/rafguns/linkpred/): A Python package for link prediction on graphs
-* [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large scale graphs using Spark and GraphX in a distributed manner
+* [SparklingGraph](https://sparkling-graph.github.io): A Python library to process large-scale graphs using Spark and GraphX in a distributed manner
 * [OpenNE](https://github.com/thunlp/openne): An open-source network embedding library
 * [Galry](https://github.com/rossant/galry): A high-performance visualization library in Python
 * [Dedupe](https://github.com/dedupeio/dedupe): A Python library for fuzzy entity resolution and record deduplication
-* [PyText](https://github.com/facebookresearch/pytext): A deep-learning-based NLP modeling framework built on top of PyTorch
+* [PyText](https://github.com/facebookresearch/pytext): A deep-learning-based NLP modelling framework built on top of PyTorch
 * [flair](https://github.com/zalandoresearch/flair): A state-of-the-art NLP framework in Python from Zalando
-* [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbor search in large, high-dimensional data sets using different locality-sensitive hashes," according to its descriptions
+* [NearPy](https://github.com/pixelogik/NearPy): "A Python framework for fast (approximated) nearest neighbour search in large, high-dimensional data sets using different locality-sensitive hashes," according to its descriptions
 * [fastchunking](https://github.com/netleibi/fastchunking): A (fast) text chunking algorithm implemented in C++ and Python
 * [Vaex](https://vaex.io): Vaex is a data manipulation library much like Pandas and Dask, with a lazy out-of-core approach to handling the data so you can work with huge tables with it
 * [openTSNE](https://opentsne.readthedocs.io/en/latest/): An extensible, parallel implementation of t-SNE
 * [Faust](https://github.com/robinhood/faust): A stream processing library for Python
 * [Active Semi-Supervised Clustering](https://github.com/datamole-ai/active-semi-supervised-clustering): An extension library for Scikit-learn that implements a collection of useful active semi-supervised clustering algorithms
-* [TextDistance](https://github.com/orsinium/textdistance): A Python library for calculating and comparing the distance between two sequences (such as text documents) with many algorithms
+* [TextDistance](https://github.com/orsinium/textdistance): A Python library for calculating and comparing the Distance between two sequences (such as text documents) with many algorithms
 * [Ray](https://ray.readthedocs.io/en/latest/): A scalable. high-performance distributed execution framework for executing arbitrary Python functions on multiple machines, suitable for many ML workloads
 * [Pyitlib](https://pafoster.github.io/pyitlib/): An opensource library for calculating a useful collection of information-theoretic measures (i.e., entropy) for discrete random variables
 * [KDEpy](https://github.com/tommyod/KDEpy): A collection of useful kernel density estimators in Python 3.5+
@@ -252,11 +252,11 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [vg](https://github.com/lace/vg): A linear algebra library much like Numpy with a more human-friendly interface
 * [GraphKernels](https://github.com/BorgwardtLab/GraphKernels): A fast library for calculating various graph kernels
 * [GraKeL](https://github.com/ysig/GraKeL): A graph kernel calculation library that is using Scikit-learn's API so it can be used with other functionalities and routines already present in Scikit-learn without much hassle
-* [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extension libraries for NetworkX
+* [Graphsim](https://github.com/caesar0301/graphsim): A graph similarity extension library for NetworkX
 * [Textract](https://github.com/deanmalmgren/textract): A general text extraction tool from many file formats
 * [Sacred](https://github.com/IDSIA/sacred): Sacred is a Python library to make an ML workflow easier to reproduce and manage for you!
-* [TextDistance](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing the distance between two or more sequences of an arbitrary alphabet (e.g., words, DNA sequences), it has got over 30 distance algorithms to use
-* [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenizers (such as alphabetical tokenizers, whitespace tokenizers) and also string similarity measures (e.g., edit distance, Jaccard distance)
+* [TextDistance](https://github.com/life4/textdistance): TextDistance is a Python library for calculating and comparing the Distance between two or more sequences of an arbitrary alphabet (e.g., words, DNA sequences), it has got over 30 distance algorithms to use
+* [Py_stringmathcing](https://github.com/anhaidgroup/py_stringmatching): Py_stringmathcing is a Python library consisting of a comprehensive set of string tokenizers (such as alphabetical tokenizers, whitespace tokenizers) and also string similarity measures (e.g., edit Distance, Jaccard distance)
 * [JGraph](http://patrickfuller.github.io/jgraph/): JGraph is a WebGL graph drawing library for Python
 * [Kedro](https://github.com/quantumblacklabs/kedro): A Python library and also a tool to manage your data analysis workflow in your projects
 * [PySAL](https://pysal.org/): PySAL is a Python package for geolocation-based data analysis 
@@ -266,7 +266,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Whoosh](https://bitbucket.org/mchaput/whoosh/wiki/Home): Whoosh is a full-text indexing and search library for Python
 * [Geoplot](https://residentmario.github.io/geoplot/index.html): Geoplot is a Python visualization library for geospatial plotting of geolocational records
 * [GeoPandas](http://geopandas.org/): GeoPandas is a high-level library with an API similar to Pandas that makes working with geospatial datasets in Python much easier
-* [Edward](http://edwardlib.org/): "A library for probabilistic modeling, inference, and criticism" - its website
+* [Edward](http://edwardlib.org/): "A library for probabilistic modelling, inference, and criticism" - its website
 * [HyperTools](https://github.com/ContextLab/hypertools): A Python library for high-dimensional data visualization and analysis
 * [TextRank](https://github.com/summanlp/textrank): TextRank algorithm implementation for Python 3
 * [pymorton](https://github.com/trevorprater/pymorton): A Python package for ordinal hashing of multidimensional points into a one-dimensional ordering
@@ -294,27 +294,28 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [PySurvival](https://square.github.io/pysurvival/): PySurvival is a Python package for survival analysis of data
 * [Scikit-survival](https://github.com/sebp/scikit-survival): Scikit-survival is an extension to Scikit-learn that adds survival analysis capabilities to it
 * [rfpimp](https://github.com/parrt/random-forest-importances): A Python package that brings permutation-based feature importance measure to Scikit-learn Random Forests learners
-* [Jiant](https://github.com/nyu-mll/jiant): Jiant is an NLP software toolkit with the multitask and transfer learning capabilities
+* [Jiant](https://github.com/nyu-mll/jiant): Jiant is an NLP software toolkit with multitask and transfer learning capabilities
 * [PyG](https://pytorch-geometric.readthedocs.io/en/latest/): "PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data."---PyG's documentation
 * [Nodevectors](https://github.com/VHRanger/nodevectors): A Python package with fast and scalable implementations for some popular vertex embedding algorithms
 * [JGraphT](https://jgrapht.org/): JGraphT now supports Python
 * [DGL](https://www.dgl.ai/): Deep graph library is a Python package for using deep learning algorithms on graph data. It can use PyTorch, TensorFlow, or Apache MXNet as its backend
 * [Spektral](https://graphneural.network/): A Python package for creating and running graph neural networks
-* [HyperNetX(HNX)](https://github.com/pnnl/HyperNetX): A Python library to work with data modeled as hypergraphs
+* [HyperNetX(HNX)](https://github.com/pnnl/HyperNetX): A Python library to work with data modelled as hypergraphs
 * [Graph4NLP](https://github.com/graph4ai/graph4nlp): Graph4nlp is a Python library that makes it easier to use graph neural networks in and for NLP tasks
 * [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html): JAX is a Python library for high-performance numerical computation used in machine learning
 * [Metric-learn](http://contrib.scikit-learn.org/metric-learn/index.html): Metric-learn is Python library for metric learning. It's available as part of (scikit-learn-contrib)[https://github.com/scikit-learn-contrib] collection
 * [AmpliGraph](https://github.com/Accenture/AmpliGraph/): AmpliGraph is a Python library for representation learning on knowledge graphs
 * [Distfit](https://erdogant.github.io/distfit/pages/html/index.html): "Distfitis a python package for probability density fitting of univariate distributions on non-censored data"--Distfit's website
-* [Pke](https://github.com/boudinfl/pke): Pke is a keyphrase extractor from text in Python
+* [Pke](https://github.com/boudinfl/pke): Pke is a keyphrase extractor from the text in Python
 * [Albumentation](https://albumentations.ai/): Albumentations is a library for image augmentation
 * [Spark NLP](https://nlp.johnsnowlabs.com/): Spark NLP is an NLP library for Python
+* [Skorch](https://github.com/skorch-dev/skorch): Skorch is a neural network library that uses PyTorch as its backend and provides APIs compatible with the Scikit-learn machine learning library
 
   
 ## Additional Useful Resources
 
 * [PyPy Python Implementation](https://pypy.org): A stackless alternative implementation for Python's runtime 
-* [Useful Metrics](https://github.com/habedi/Metrics): A collection of useful ML related scoring and learning metrics
+* [Useful Metrics](https://github.com/habedi/Metrics): A collection of useful ML-related scoring and learning metrics
 * [XGboost Benchmarks](https://catboost.yandex/)
 * [Franchise Notebook](https://franchise.cloud/)
 * [Orange](https://orange.biolab.si/)
@@ -333,15 +334,15 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine): An open-source data cleansing and refinement tool
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Apache Mxnet](https://mxnet.apache.org): A high performance and scalable ANN framework for Deep Learning
+* [Apache Mxnet](https://mxnet.apache.org): A high-performance and scalable ANN framework for Deep Learning
 * [Material for the book 'Python for Data Analysis'](https://github.com/wesm/pydata-book)
 * [Encog Machine Learning Framework](http://www.heatonresearch.com/encog/): An ML library for Java and .NET with a focus on ANN algorithms
 * [Apache Spark MLib](https://spark.apache.org/mllib/): An ML library on top of your spark cluster!
 * [Awesome-Python](https://github.com/vinta/awesome-python): A comprehensive list of Pythonic resources (libraries, frameworks, etc.)
 * [GATE](https://gate.ac.uk/download/): A mature text processing toolkit in Java
-* [MALLET](http://mallet.cs.umass.edu/topics.php): "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text." - MALLET's website
+* [MALLET](http://mallet.cs.umass.edu/topics.php): "MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modelling, information extraction, and other machine learning applications to text." - MALLET's website
 * [MLPack](http://www.mlpack.org): A fast ML library written in C++ with bindings to Python
-* [t-SNE](https://lvdmaaten.github.io/tsne/): Implementation of famous t-distributed stochastic neighbor embedding algorithm for various languages
+* [t-SNE](https://lvdmaaten.github.io/tsne/): Implementation of famous t-distributed stochastic neighbour embedding algorithm for various languages
 * [Caffe](https://github.com/BVLC/caffe)
 * [Apache Singa](https://singa.incubator.apache.org/en/index.html)
 * [CompLearn](http://complearn.org/index.html)
@@ -358,7 +359,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Accord.NET](http://accord-framework.net): Accord.NET is a Machine Learning framework written in C#. Its API is available for .NET, and it also comes combined with some audio and image processing libraries entirely written in C#
 * [BitMAGIC Library](http://bitmagic.io/)
 * [Cassovary](http://twitter.com/cassovary)
-* [Dex](https://dexvis.net/): a friendly tool written in Java for aata analysis and data mining
+* [Dex](https://dexvis.net/): a friendly tool written in Java for data analysis and data mining
 * [Apache OpenNLP](https://opennlp.apache.org/)
 * [OpenNN](http://www.opennn.net): A C++ library to build complex neural network models
 * [MOA](https://moa.cms.waikato.ac.nz/): A tool for mining stream data by people who also created Weka
@@ -368,7 +369,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): A handy Python library to digest almost anything from World Wild Web
 * [Wordbatch](https://github.com/anttttti/Wordbatch): A library for parallel feature extraction on textual data(and potentially other complex data types)
 * [Mypy](http://www.mypy-lang.org/): Static typing facilities for Python
-* [SKIL](https://skymind.ai): A platform for managing the life cycle of an ML/DS related project or product 
+* [SKIL](https://skymind.ai): A platform for managing the life cycle of an ML/DS-related project or product 
 * [An unofficial Python extension package repository for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs)
 * [LIBOL](https://github.com/LIBOL/LIBOL): An online learning library
 * [Smile](https://haifengl.github.io/smile/): "Smile is a fast and comprehensive machine learning system"- Smile's website
@@ -379,7 +380,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing huge graphs. It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
-* [Apache TinkerPop](http://tinkerpop.apache.org/): an excellent graph storage and computation framework, it can be used both as a graph analytics platform and a graph database system; love the little gremlins!
+* [Apache TinkerPop](http://tinkerpop.apache.org/): Excellent graph storage and computation framework. It can be used both as a graph analytics platform and a graph database system; love the little gremlins!
 * [Graphexp](https://github.com/bricaud/graphexp): Graphexp is a visual graph explorer with D3.js for TinkerPop
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, a great Matlab alternative
 * [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardware
@@ -391,7 +392,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of remarkable Machine Learning frameworks, libraries, software, etc
 * [MOA Framework](https://moa.cms.waikato.ac.nz): A fantastic Java software environment and framework for Stream Mining
 * [MEKA](http://waikato.github.io/meka): A multi-label classification tool, it works on top of Weka
-* [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-labeled data
+* [Mulan](http://mulan.sourceforge.net): A Java library for learning on multi-labelled data
 * [Dlib](http://dlib.net): A fast Machine Learning library implemented in C++ for solving real-world data problems
 * [MITE](https://github.com/mit-nlp/MITIE): A library and tool for information extraction on text data, it's built on top of Dlib with binding for languages like Java and Python
 * [GraphStream](http://graphstream-project.org/): GraphStream is a Java library for analyzing and visualizing dynamic graphs
@@ -410,7 +411,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Awesome-Graph](https://github.com/jbmusso/awesome-graph): A curated list of resources (e.g., libraries, frameworks, and databases) related to graphs
 * [Parallel Graph AnalytiX (PGX)](https://www.oracle.com/technetwork/oracle-labs/parallel-graph-analytix/overview/index.html): A graph processing and analytics toolbox from Oracle which is written in Java
 * [ROOT](https://root.cern.ch): A scientific toolbox for data processing and analysis in C++
-* [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a friendly Java toolkit for topic modeling on textual data
+* [Stanford Topic Modeling Toolbox (TMT)](https://nlp.stanford.edu/software/tmt): TMT is a friendly Java toolkit for topic modelling on textual data
 * [Java Data Mining Package](https://jdmp.org/): An opensource Java package for mining massive datasets implementing a vast collection of algorithms (i.e., clustering, regression, classification, and graphical models)
 * [ScalaNLP](http://www.scalanlp.org/): A numerical computation and Data Mining library suite written in Scala, with an emphasis on NLP
 * [Vegas](https://www.vegas-viz.org/): A very flexible declarative data visualization library in Scala that works with Apache Spark right out of the box
@@ -422,7 +423,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [LabPlot](https://labplot.kde.org/): LabPlot is a lovely application for data analysis and plotting; it is part of [KDE Project!](https://kde.org/)
 * [Meta Toolkit](https://meta-toolkit.org/): A fast software toolkit implementing many useful ML algorithms; it is written in C++
 * [Record Linkage Tools](https://github.com/J535D165/data-matching-software): A collection of valuable resources for record deduplication and linkage
-* [Gunrock](https://github.com/gunrock/gunrock): A GPU based graph analytics and processing library, it works with CUDA
+* [Gunrock](https://github.com/gunrock/gunrock): A GPU-based graph analytics and processing library, it works with CUDA
 * [Papers on Graph Analytics](https://people.csail.mit.edu/jshun/graph.shtml): A thorough list of publications related to graphs covering many interesting topics
 * [GraphIt](http://graphit-lang.org/): GraphIt - "A High-Performance Domain Specific Language for Graph Analytics" - GraphIt's website
 * [SMORe](https://github.com/cnclabs/smore): A handy tool and library for fast weighted graph embedding in C++
@@ -437,7 +438,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Talisman](https://github.com/Yomguithereal/talisman): Talisman is a modular JavaScript library for NLP and Machine Learning activities
 * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN is the TensorFlow implementation of a proposed architecture for GANs from NVIDIA. You can use it to create photo-realistic pictures of people who don't exist!
 * [Java String Similarity](https://github.com/tdebatty/java-string-similarity): A Java library implementing a collection of helpful text similarity/distance measures
-* [Label Studio](https://github.com/heartexlabs/label-studio): Label Studio is a handy tool with a friendly UI for labeling your data (e.g., records and documents)
+* [Label Studio](https://github.com/heartexlabs/label-studio): Label Studio is a handy tool with a friendly UI for labelling your data (e.g., records and documents)
 * [GraphML](http://graphml.graphdrawing.org/index.html): GraphML is a graph representation and serialization file format based on XML that could store many different types of graphs with their attributes without loss of information
 * [Taco](http://tensor-compiler.org/): A compiler for compiling and executing general tensor algebra operations on sparse tensors in machine code for CPUs and GPUs
 * [Libspatialindex](https://libspatialindex.org/): Libspatialindex contains many robust geolocational indexing algorithms like R*-tree and TPR-tree
@@ -456,10 +457,10 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [Catalyst](https://catalyst-team.github.io/catalyst/): Catalyst is a tool for making Deep Learning experiments on PyTorch reproducible
 * [TensorFlowJS](https://www.tensorflow.org/js): TensorFlowJS is a JavaScript library to use TensorFlow models in web applications in the browser
 * [Kst](https://kst-plot.kde.org/): Kst is a handy data visualization tool from the KDE project
-* [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probabilistic modeling of data
+* [AMIDST](http://www.amidsttoolbox.com/): AMIDST is a Java software toolbox for probabilistic modelling of data
 * [LIBFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/): "LIBFFM is an open-source tool for field-aware factorization machines (FFM)"; people won a few real-world data science challenges in Kaggle
-* [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modeling
-* [Stan](https://mc-stan.org/): "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation." - Stan's website
+* [jLDADMM](https://github.com/datquocnguyen/jLDADMM): A Java package for LDA and DMM topic modelling
+* [Stan](https://mc-stan.org/): "Stan is a state-of-the-art platform for statistical modelling and high-performance statistical computation." - Stan's website
 * [DEAP](https://github.com/deap/deap): Distributed Evolutionary Algorithms in Python
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html)
 * [SimMetrics](https://github.com/Simmetrics/simmetrics)
@@ -475,7 +476,7 @@ This document is an attempt to come up with a curated list of Machine Learning r
 * [GTN](https://github.com/facebookresearch/gtn): "GTN is an open-source framework for automatic differentiation with a powerful, expressive type of graph called weighted finite-state transducers (WFSTs). Just as PyTorch provides a framework for automatic differentiation with tensors, GTN provides such a framework for WFSTs. AI researchers and engineers can use GTN to train graph-based machine learning models more effectively." -- Facebook
 * [Tribuo](https://tribuo.org/): An open-source machine learning library in Java from Oracle
 * [Neo4J's Graph Data Science Library](https://github.com/neo4j/graph-data-science)
-* [Libbow](https://www.cs.cmu.edu/~mccallum/bow/): "Bow (or libbow) is a library of C code useful for writing statistical text analysis, language modeling, and information retrieval programs." -- Its website
+* [Libbow](https://www.cs.cmu.edu/~mccallum/bow/): "Bow (or libbow) is a library of C code useful for writing statistical text analysis, language modelling, and information retrieval programs." -- Its website
 * [Doccano](https://github.com/doccano/doccano)
 * [FACTORIE](http://factorie.cs.umass.edu/index.html)
 * [BigDL](https://github.com/intel-analytics/BigDL): BigDL is a deep learning library that runs in an Apache Spark cluster
