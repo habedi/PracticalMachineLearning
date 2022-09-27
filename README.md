@@ -484,6 +484,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [OjAlgo](https://www.ojalgo.org/): Oj! Algorithms is a pure-Java linear algebra and mathematical optimization library
 * [Ivy](https://lets-unify.ai/): Ivy is a unifying framework for different deep learning frameworks such as PyTorch and TensorFlow. You need to write your code in Ivy once and run it on many deep learning frameworks
 * [Gradio](https://gradio.app/): Gradio is a user interface (UI) framework for building UIs for machine learning and data science applications in Python
+* [Label Studio](https://labelstud.io/): Label Studio is a tool for annotating and labeling datasets
  
 
 ## Recommended
