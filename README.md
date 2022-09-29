@@ -115,6 +115,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)
 * [Introductory Machine Learning Course](https://work.caltech.edu/telecourse.html#lectures): An accessible machine learning course taught by professor Professor Yaser Abu-Mostafa from Caltech
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+* [Google Machine Learning Education](https://developers.google.com/machine-learning): A series of courses that cover machine learning fundamentals and core concepts
   
 ## Editors & IDEs for Python
 
