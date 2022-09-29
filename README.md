@@ -311,6 +311,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Albumentation](https://albumentations.ai/): Albumentations is a library for image augmentation
 * [Spark NLP](https://nlp.johnsnowlabs.com/): Spark NLP is an NLP library for Python
 * [Skorch](https://github.com/skorch-dev/skorch): Skorch is a neural network library that uses PyTorch as its backend and provides APIs compatible with the Scikit-learn machine learning library
+* [Optuna](https://optuna.org): Optuna is an open source hyperparameter optimization framework for automating hyperparameter search
 
   
 ## Additional Useful Resources
