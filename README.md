@@ -487,6 +487,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Ivy](https://lets-unify.ai/): Ivy is a unifying framework for different deep learning frameworks such as PyTorch and TensorFlow. You need to write your code in Ivy once and run it on many deep learning frameworks
 * [Gradio](https://gradio.app/): Gradio is a user interface (UI) framework for building UIs for machine learning and data science applications in Python
 * [Label Studio](https://labelstud.io/): Label Studio is a tool for annotating and labeling datasets
+* [VisiData](https://github.com/saulpw/visidata): "A terminal interface for exploring and arranging tabular data." -- on VisiData's GitHub repository 
  
 
 ## Recommended
