@@ -82,7 +82,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning): Quora again:)
 * [Stack Overflow](https://stackoverflow.com): General Q&A for developers who need help with their code
 
-## Useful Websites
+## Useful Websites & Links
 
 * [Kaggle](https://www.kaggle.com): Kaggle again:)
 * [Reddit Machine Learning Community](https://www.reddit.com/r/MachineLearning/)
@@ -106,6 +106,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [DeepLearning.com](http://deeplearning.net/): A website for resources related to everything DL
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
+* [A humongous list of AI/Machine learning/Deep learning/Computer vision/NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
   
 ## Tutorials & Courses
   
