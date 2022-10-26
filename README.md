@@ -314,8 +314,9 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Skorch](https://github.com/skorch-dev/skorch): Skorch is a neural network library that uses PyTorch as its backend and provides APIs compatible with the Scikit-learn machine learning library
 * [Optuna](https://optuna.org): Optuna is an open source hyperparameter optimization framework for automating hyperparameter search
 * [Anomalib](https://github.com/openvinotoolkit/anomalib): "A library for benchmarking, developing and deploying deep learning anomaly detection algorithms." -- Anomalib's webpage on GitHub.com
-* [AutoKeras](https://autokeras.com/): A wrapper library around Keras that makes using 
+* [AutoKeras](https://autokeras.com/): A wrapper library around Keras that makes using Keras easier
 * [FLAML](https://github.com/microsoft/FLAML): "A Fast Library for Automated Machine Learning & Tuning" -- on FLAML's GitHub repository
+* [TextAugment](https://github.com/dsfsi/textaugment): TextAugment is a text augmentation library for Python 3
 
   
 ## Additional Useful Resources
