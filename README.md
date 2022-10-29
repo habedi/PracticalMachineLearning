@@ -317,6 +317,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [AutoKeras](https://autokeras.com/): A wrapper library around Keras that makes using Keras easier
 * [FLAML](https://github.com/microsoft/FLAML): "A Fast Library for Automated Machine Learning & Tuning" -- on FLAML's GitHub repository
 * [TextAugment](https://github.com/dsfsi/textaugment): TextAugment is a text augmentation library for Python 3
+* [NLPAug](https://github.com/makcedward/nlpaug): NLPAug is another text augmentation library for Python 3
 
   
 ## Additional Useful Resources
