@@ -320,6 +320,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [NLPAug](https://github.com/makcedward/nlpaug): NLPAug is another text augmentation library for Python 3
 * [AutoTS](https://github.com/AutoViML/Auto_TS): AutoTS (or Auto_TimeSeries) is a high-level Python library for training and building models on time-serie data
 * [Embetter](https://github.com/koaning/embetter): Embetter is an easy-to-use Python library for embedding image and text data with a Scikit-learn-compatible API
+* [Lazy Predict](https://github.com/shankarpandala/lazypredict): A handy library for evaluating the perfoamrnace of a collection of simple models on the data
 
   
 ## Additional Useful Resources
