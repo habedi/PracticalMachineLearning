@@ -57,6 +57,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
 * [Data Mining and Machine Learning: Fundamental Concepts and Algorithms, Second Edition](https://dataminingbook.info/)
 * [Dive into Deep Learning](https://d2l.ai/): "Interactive deep learning book with code, math, and discussions" -- its website
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 
 ## Dataset Repositories
 
