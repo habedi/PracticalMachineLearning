@@ -118,6 +118,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Introductory Machine Learning Course](https://work.caltech.edu/telecourse.html#lectures): An accessible machine learning course taught by professor Professor Yaser Abu-Mostafa from Caltech
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
 * [Google Machine Learning Education](https://developers.google.com/machine-learning): A series of courses that cover machine learning fundamentals and core concepts
+* [Materials for workshops on the Hugging Face ecosystem](https://github.com/huggingface/workshops)
   
 ## Editors & IDEs for Python
 
