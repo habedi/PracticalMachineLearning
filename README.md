@@ -503,6 +503,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Label Studio](https://labelstud.io/): Label Studio is a tool for annotating and labeling datasets
 * [VisiData](https://github.com/saulpw/visidata): "A terminal interface for exploring and arranging tabular data." -- on VisiData's GitHub repository
 * [Optimum](https://github.com/huggingface/optimum): "Optimum is an extension of Transformers, providing a set of performance optimization tools enabling maximum efficiency to train and run models on targeted hardware." -- Optimum's GitHub page
+* [CASL Project](https://www.casl-project.ai/): An umbrella project including a wide range of machine learning tools aiming at simplicity and scabality 
  
 
 ## Recommended
