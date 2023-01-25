@@ -325,6 +325,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Lazy Predict](https://github.com/shankarpandala/lazypredict): A handy library for evaluating the perfoamrnace of a collection of simple models on the data
 * [TensorLy](http://tensorly.org/stable/index.html): TensorLy is a Python library for performing common tensor operations, such as tensor decomposition, in an easy and fast way
 * [CogDL](https://cogdl.ai): "CogDL is a graph deep learning toolkit that allows researchers and developers to easily train and compare baseline or customized models for node classification, graph classification, and other important tasks in the graph domain." -- The description on CogDL's GitHub repository
+* [StellarGraph](https://github.com/stellargraph/stellargraph): StellarGraph is a Python library for machine learning on graph data
 
   
 ## Additional Useful Resources
