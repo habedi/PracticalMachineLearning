@@ -119,6 +119,8 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
 * [Google Machine Learning Education](https://developers.google.com/machine-learning): A series of courses that cover machine learning fundamentals and core concepts
 * [Materials for workshops on the Hugging Face ecosystem](https://github.com/huggingface/workshops)
+* [A large collection of machine learning tutorials](https://github.com/ethen8181/machine-learning)
+  
   
 ## Editors & IDEs for Python
 
