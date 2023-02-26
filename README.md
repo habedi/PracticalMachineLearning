@@ -329,6 +329,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [CogDL](https://cogdl.ai): "CogDL is a graph deep learning toolkit that allows researchers and developers to easily train and compare baseline or customized models for node classification, graph classification, and other important tasks in the graph domain." -- The description on CogDL's GitHub repository
 * [StellarGraph](https://github.com/stellargraph/stellargraph): StellarGraph is a Python library for machine learning on graph data
 * [Polars](https://www.pola.rs): Polars is a high-performance dataframe library, similar to Pandas, for Python (and Rust)
+* [Snap Machine Learning (SnapML)](https://www.zurich.ibm.com/snapml/): "A library that provides high-speed training of popular machine learning models on modern CPU/GPU computing systems" -- SnapML's website
 
   
 ## Additional Useful Resources
