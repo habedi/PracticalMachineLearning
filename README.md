@@ -330,6 +330,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [StellarGraph](https://github.com/stellargraph/stellargraph): StellarGraph is a Python library for machine learning on graph data
 * [Polars](https://www.pola.rs): Polars is a high-performance dataframe library, similar to Pandas, for Python (and Rust)
 * [Snap Machine Learning (SnapML)](https://www.zurich.ibm.com/snapml/): "A library that provides high-speed training of popular machine learning models on modern CPU/GPU computing systems" -- SnapML's website
+* [Sklearn-porter](https://github.com/nok/sklearn-porter): Python library that helps convert trained scikit-learn models into various programming languages, such as Java, JavaScript, Ruby, C, PHP, and Swift
 
   
 ## Additional Useful Resources
@@ -509,6 +510,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Optimum](https://github.com/huggingface/optimum): "Optimum is an extension of Transformers, providing a set of performance optimization tools enabling maximum efficiency to train and run models on targeted hardware." -- Optimum's GitHub page
 * [CASL Project](https://www.casl-project.ai/): An umbrella project including a wide range of machine learning tools aiming at simplicity and scabality
 * [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn): A Python library for fast sparse matrix multiplication and top-n (or top-k) similarity search
+
  
 
 ## Recommended
