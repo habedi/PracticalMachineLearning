@@ -510,7 +510,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Optimum](https://github.com/huggingface/optimum): "Optimum is an extension of Transformers, providing a set of performance optimization tools enabling maximum efficiency to train and run models on targeted hardware." -- Optimum's GitHub page
 * [CASL Project](https://www.casl-project.ai/): An umbrella project including a wide range of machine learning tools aiming at simplicity and scabality
 * [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn): A Python library for fast sparse matrix multiplication and top-n (or top-k) similarity search
-
+* [Streamlit](https://streamlit.io/): Streamlit is a Python library that enables users to create shareable web apps in minutes, directly from their data scripts. It requires no front-end experience, making it easy to use for anyone familiar with Python
  
 
 ## Recommended
