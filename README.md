@@ -512,7 +512,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [CASL Project](https://www.casl-project.ai/): An umbrella project including a wide range of machine learning tools aiming at simplicity and scabality
 * [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn): A Python library for fast sparse matrix multiplication and top-n (or top-k) similarity search
 * [Streamlit](https://streamlit.io/): Streamlit is a Python library that enables users to create shareable web apps in minutes, directly from their data scripts. It requires no front-end experience, making it easy to use for anyone familiar with Python
- 
+* [LangChain](https://github.com/hwchase17/langchain): LangChain a framework for developing applications powered by language models
 
 ## Recommended
 
