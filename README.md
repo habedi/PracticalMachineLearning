@@ -333,6 +333,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Snap Machine Learning (SnapML)](https://www.zurich.ibm.com/snapml/): "A library that provides high-speed training of popular machine learning models on modern CPU/GPU computing systems" -- SnapML's website
 * [Sklearn-porter](https://github.com/nok/sklearn-porter): Python library that helps convert trained scikit-learn models into various programming languages, such as Java, JavaScript, Ruby, C, PHP, and Swift
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick/): Yellowbrick library provides a set of tools, known as "Visualizers", that enhance the scikit-learn API by enabling interactive model selection. It merges scikit-learn with matplotlib to create visualizations that support your machine learning workflow.
+* [Hypergraphx](https://hypergraphx.readthedocs.io/en/latest/): Hypergraphx (HGX) is a Python library for higher-order network analysis
 
   
 ## Additional Useful Resources
