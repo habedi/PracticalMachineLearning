@@ -515,6 +515,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn): A Python library for fast sparse matrix multiplication and top-n (or top-k) similarity search
 * [Streamlit](https://streamlit.io/): Streamlit is a Python library that enables users to create shareable web apps in minutes, directly from their data scripts. It requires no front-end experience, making it easy to use for anyone familiar with Python
 * [LangChain](https://github.com/hwchase17/langchain): LangChain a framework for developing applications powered by language models
+* [Zarr](https://github.com/zarr-developers/zarr-python): "Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing" -- Zarr's GitHub page
 
 ## Recommended
 
