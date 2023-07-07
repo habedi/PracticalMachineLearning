@@ -323,7 +323,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [FLAML](https://github.com/microsoft/FLAML): "A Fast Library for Automated Machine Learning & Tuning" -- on FLAML's GitHub repository
 * [TextAugment](https://github.com/dsfsi/textaugment): TextAugment is a text augmentation library for Python 3
 * [NLPAug](https://github.com/makcedward/nlpaug): NLPAug is another text augmentation library for Python 3
-* [AutoTS](https://github.com/AutoViML/Auto_TS): AutoTS (or Auto_TimeSeries) is a high-level Python library for training and building models on time-serie data
+* [AutoTS](https://github.com/AutoViML/Auto_TS): AutoTS (or Auto_TimeSeries) is a high-level Python library for training and building models on time-series data
 * [Embetter](https://github.com/koaning/embetter): Embetter is an easy-to-use Python library for embedding image and text data with a Scikit-learn-compatible API
 * [Lazy Predict](https://github.com/shankarpandala/lazypredict): A handy library for evaluating the perfoamrnace of a collection of simple models on the data
 * [TensorLy](http://tensorly.org/stable/index.html): TensorLy is a Python library for performing common tensor operations, such as tensor decomposition, in an easy and fast way
@@ -354,7 +354,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [RAnalyticFlow](http://r.analyticflow.com/en/): Great environment for Data Flow Programming in R
 * [SPMF](http://www.philippe-fournier-viger.com/spmf/): A Java Data Mining library with tons of excellent algorithms
 * [SageMath](http://www.sagemath.org): Open source math software system, a complete math environment for everyone
-* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis could be used for both data mining and machine learning tasks. It has tons of features
+* [H2O AI Platform](https://www.h2o.ai/): A software tool for Big Data Analysis could be used for data mining and machine learning tasks. It has tons of features
 * [Various ML Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine): An open-source data cleansing and refinement tool
 * [Deep Learning Papers](https://github.com/nasacj/DeepLearningBook/blob/master/DeepLearningPapers.md)
@@ -404,7 +404,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Pegasus](http://www.cs.cmu.edu/~pegasus/): An open-source system for analyzing huge graphs. It seems it is not being developed or maintained for a long time
 * [Dataset](https://github.com/pudo/dataset): A handy tool to simplify the task of reading and writing to relational databases
 * [Twython](https://github.com/ryanmcgrath/twython): A Twitter API library in pure Python with tonnes of features
-* [Apache TinkerPop](http://tinkerpop.apache.org/): Excellent graph storage and computation framework. It can be used both as a graph analytics platform and a graph database system; love the little gremlins!
+* [Apache TinkerPop](http://tinkerpop.apache.org/): Excellent graph storage and computation framework. It can be used as a graph analytics platform and a graph database system; love the little gremlins!
 * [Graphexp](https://github.com/bricaud/graphexp): Graphexp is a visual graph explorer with D3.js for TinkerPop
 * [Scilab](https://www.scilab.org/): An open-source numerical computation language and environment, a great Matlab alternative
 * [Glow](https://github.com/pytorch/glow): A compiler for Neural Network hardware accelerators for various hardware
@@ -513,10 +513,10 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Optimum](https://github.com/huggingface/optimum): "Optimum is an extension of Transformers, providing a set of performance optimization tools enabling maximum efficiency to train and run models on targeted hardware." -- Optimum's GitHub page
 * [CASL Project](https://www.casl-project.ai/): An umbrella project including a wide range of machine learning tools aiming at simplicity and scabality
 * [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn): A Python library for fast sparse matrix multiplication and top-n (or top-k) similarity search
-* [Streamlit](https://streamlit.io/): Streamlit is a Python library that enables users to create shareable web apps in minutes, directly from their data scripts. It requires no front-end experience, making it easy to use for anyone familiar with Python
+* [Streamlit](https://streamlit.io/): Streamlit is a Python library enabling users to create shareable web apps directly from their data scripts in minutes. It requires no front-end experience, making it easy to use for anyone familiar with Python
 * [LangChain](https://github.com/hwchase17/langchain): LangChain a framework for developing applications powered by language models
 * [Zarr](https://github.com/zarr-developers/zarr-python): "Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing" -- Zarr's GitHub page
-* [Netron](https://github.com/lutzroeder/netron): Netron is a visualization tool for viewing the architecture of machine learning models.
+* [Netron](https://github.com/lutzroeder/netron): Netron is a visualization tool for viewing the architecture of machine learning models
 
 ## Recommended
 
