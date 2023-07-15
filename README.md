@@ -280,7 +280,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [PySS3](https://github.com/sergioburdisso/pyss3): A Python package implementing SS3 text classifier with visualizations tools for explainable artificial intelligence (XAI)
 * [Lpproj](https://github.com/jakevdp/lpproj): A Python implementation of Locality Preserving Projections (LPP) with Scikit-Learn compatible API
 * [Multi-Rake](https://github.com/vgrabovets/multi_rake): Multilingual rapid automatic keyword extraction (Multi-RAKE) is a Python library for automatic text summarization and keyword extraction of text in many different languages
-* [PyCarets](https://github.com/pycaret/pycaret)
+* [PyCaret](https://pycaret.org/): PyCaret is Python library and tool for automating ML workflows
 * [ACME](https://github.com/deepmind/acme): A software framework for research on reinforcement learning
 * [fastText](https://fasttext.cc/): A fast text representation learning and classification library from Facebook
 * [Distance](https://github.com/doukremt/distance): A useful library in pure Python to calculate the distance between arbitrary sequences
