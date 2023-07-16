@@ -517,6 +517,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [LangChain](https://github.com/hwchase17/langchain): LangChain a framework for developing applications powered by language models
 * [Zarr](https://github.com/zarr-developers/zarr-python): "Zarr is a Python package providing an implementation of compressed, chunked, N-dimensional arrays, designed for use in parallel computing" -- Zarr's GitHub page
 * [Netron](https://github.com/lutzroeder/netron): Netron is a visualization tool for viewing the architecture of machine learning models
+* [Prophet](https://github.com/facebook/prophet): Prophet is a tool for time series forecasting from Facebook; it can handle missing values, outliers, and large datasets
 
 ## Recommended
 
