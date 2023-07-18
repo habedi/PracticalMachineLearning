@@ -335,6 +335,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick/): Yellowbrick library provides a set of tools, known as "Visualizers", that enhance the Scikit-learn API by enabling interactive model selection. It merges Scikit-learn with Matplotlib to create visualizations that support your machine learning workflow
 * [Hypergraphx](https://hypergraphx.readthedocs.io/en/latest/): Hypergraphx (HGX) is a Python library for higher-order network analysis
 * [Skforcast](https://skforecast.org): "Skforecast is a Python library that eases using Scikit-learn regressors as single and multi-step forecasters. It also works with any regressor compatible with the Scikit-learn API [like LightGBM, XGBoost, and CatBoost]" -- Skforecast's website
+* [Functime](https://github.com/descendant-ai/functime): Functime is a Python library for fast forecasting and embeddings of time series data
 
   
 ## Additional Useful Resources
