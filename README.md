@@ -59,6 +59,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Dive into Deep Learning](https://d2l.ai/): "Interactive deep learning book with code, math, and discussions" -- its website
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 * [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Dataset Repositories
 
