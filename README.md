@@ -338,6 +338,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Skforcast](https://skforecast.org): "Skforecast is a Python library that eases using Scikit-learn regressors as single and multi-step forecasters. It also works with any regressor compatible with the Scikit-learn API [like LightGBM, XGBoost, and CatBoost]" -- Skforecast's website
 * [Functime](https://github.com/descendant-ai/functime): Functime is a Python library for fast forecasting and embeddings of time series data
 * [trl](https://github.com/lvwerra/trl): Transformer Reinforcement Learning (trl) is a Python library for training transformer-based language models with reinforcement learning
+* [BorutaShap](https://github.com/Ekeany/Boruta-Shap): BorutaShap is a Python library for feature selection that combines two powerful techniques: Boruta algorithm and Shapley values method
 
   
 ## Additional Useful Resources
