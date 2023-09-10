@@ -98,7 +98,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Scipy Lectures](http://www.scipy-lectures.org/index.html)
 * [Nice website about Data Mining](http://www.saedsayad.com)
 * [ML Resources on Github](https://github.com/collections/machine-learning)
-* [A list of researches on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
+* [A list of research works on a few interesting topics](https://cs.nyu.edu/~mohri/rsch.html)
 * [Open Machine Learning Course](https://mlcourse.ai/): An ML course covering so many topics
 * [Tanagra - Data Mining and Data Science Tutorials](http://data-mining-tutorials.blogspot.com/): TANAGRA's tutorials cover a vast amount of topics
 * [Papers with code](https://paperswithcode.com/): It is a convenient repository of research papers that are coming with their code published too, you can access the code from many recent cutting-edge algorithms from here 
@@ -110,6 +110,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
 * [A humongous list of AI/Machine learning/Deep learning/Computer vision/NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+* [Explanations to key concepts in ML](https://github.com/dair-ai/ML-Papers-Explained)
   
 ## Tutorials & Courses
   
