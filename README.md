@@ -340,6 +340,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Functime](https://github.com/descendant-ai/functime): Functime is a Python library for fast forecasting and embeddings of time series data
 * [trl](https://github.com/lvwerra/trl): Transformer Reinforcement Learning (trl) is a Python library for training transformer-based language models with reinforcement learning
 * [BorutaShap](https://github.com/Ekeany/Boruta-Shap): BorutaShap is a Python library for feature selection that combines two powerful techniques: Boruta algorithm and Shapley values method
+* [EvalML](https://evalml.alteryx.com/en/stable/): "EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions." -- Its webiste
 
   
 ## Additional Useful Resources
