@@ -341,6 +341,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [trl](https://github.com/lvwerra/trl): Transformer Reinforcement Learning (trl) is a Python library for training transformer-based language models with reinforcement learning
 * [BorutaShap](https://github.com/Ekeany/Boruta-Shap): BorutaShap is a Python library for feature selection that combines two powerful techniques: Boruta algorithm and Shapley values method
 * [EvalML](https://evalml.alteryx.com/en/stable/): "EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions." -- Its webiste
+* [Feature-engine](https://feature-engine.trainindata.com/en/latest/): Feature-engine is a Python library built on top of scikit-learn that offers a wide range of techniques for feature transformation, selection, and extraction
 
   
 ## Additional Useful Resources
