@@ -528,6 +528,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Prophet](https://github.com/facebook/prophet): Prophet is a tool for time series forecasting from Facebook; it can handle missing values, outliers, and large datasets
 * [Deep Java Library (DJL)](https://djl.ai/): DJL is a high-level open-source Java framework for building deep learning models
 * [Burn](https://github.com/burn-rs/burn): Burn is a deep learning framework written in Rust. It can be used for model experimentation, training, and deployment for both researchers and real-world use cases
+* [Faiss](https://github.com/facebookresearch/faiss): Faiss is a C++ library with Python wrappers for fast vector similarity search and clustering
 
 ## Recommended
 
