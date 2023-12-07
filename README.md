@@ -342,7 +342,8 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [BorutaShap](https://github.com/Ekeany/Boruta-Shap): BorutaShap is a Python library for feature selection that combines two powerful techniques: Boruta algorithm and Shapley values method
 * [EvalML](https://evalml.alteryx.com/en/stable/): "EvalML is an AutoML library which builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions." -- Its webiste
 * [Feature-engine](https://feature-engine.trainindata.com/en/latest/): Feature-engine is a Python library built on top of scikit-learn that offers a wide range of techniques for feature transformation, selection, and extraction
-* [Optuna](https://optuna.org/): Optuna is an open source hyperparameter optimization framework to automate hyperparameter search of machine learning models 
+* [Optuna](https://optuna.org/): Optuna is an open source hyperparameter optimization framework to automate hyperparameter search of machine learning models
+* [skrub](https://github.com/skrub-data/skrub): "Skrub (formerly dirty_cat) is a Python library that facilitates prepping your tables for machine learning." -- skrub's GitHub repo
 
   
 ## Additional Useful Resources
