@@ -534,6 +534,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Burn](https://github.com/burn-rs/burn): Burn is a deep learning framework written in Rust. It can be used for model experimentation, training, and deployment for both researchers and real-world use cases
 * [Faiss](https://github.com/facebookresearch/faiss): Faiss is a C++ library with Python wrappers for fast vector similarity search and clustering
 * [MLX](https://github.com/ml-explore/mlx): MLX is an array framework for machine learning on Apple silicon system on a chip processors from Apple
+* [Vega & Vega-Lite](https://vega.github.io/): Vega and Vega-Lite are two libraries for creating interactive data visualizations. Vega gives more control to users, while Vega-Lite is more high-level and easier to use
 
 ## Recommended
 
