@@ -346,6 +346,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [skrub](https://github.com/skrub-data/skrub): "Skrub (formerly dirty_cat) is a Python library that facilitates prepping your tables for machine learning." -- skrub's GitHub repo
 * [Modin](https://github.com/modin-project/modin): Modin is an alternative to Pandas that allows for parallel processing on multiple cores and works well with large datasets
 * [Polars](https://pola.rs/): Polars is another alternative to Pandas. It's fast, and its code is powered by a multithreaded, vectorized query engine written in Rust programming language
+* [Shapash](https://maif.github.io/shapash/): Shapash is a Python library for making machine learning models interpretable. It uses Shap or Lime libraries as a backend to compute feature contributions
 
   
 ## Additional Useful Resources
