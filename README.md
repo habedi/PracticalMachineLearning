@@ -110,7 +110,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Data Science blogs](https://github.com/rushter/data-science-blogs): A curated list of Data Science blogs
 * [PaddleHub](https://github.com/PaddlePaddle/PaddleHub): PaddleHub is a large repository of useful pre-trained ML models
 * [A humongous list of AI/Machine learning/Deep learning/Computer vision/NLP Projects with code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
-* [Explanations to key concepts in ML](https://github.com/dair-ai/ML-Papers-Explained)
+* [Explanations of key concepts in ML](https://github.com/dair-ai/ML-Papers-Explained)
   
 ## Tutorials & Courses
   
@@ -123,6 +123,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning): A series of courses that cover machine learning fundamentals and core concepts
 * [Materials for workshops on the Hugging Face ecosystem](https://github.com/huggingface/workshops)
 * [A large collection of machine learning tutorials](https://github.com/ethen8181/machine-learning)
+* [Large Language Model Course](https://github.com/mlabonne/llm-course)
   
   
 ## Editors & IDEs for Python
