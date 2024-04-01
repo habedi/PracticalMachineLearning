@@ -124,6 +124,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Materials for workshops on the Hugging Face ecosystem](https://github.com/huggingface/workshops)
 * [A large collection of machine learning tutorials](https://github.com/ethen8181/machine-learning)
 * [Large Language Model Course](https://github.com/mlabonne/llm-course)
+* [Generative AI for Beginners (Version 2) - A Course](https://github.com/microsoft/generative-ai-for-beginners)
   
   
 ## Editors & IDEs for Python
