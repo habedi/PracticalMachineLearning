@@ -541,6 +541,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Vega & Vega-Lite](https://vega.github.io/): Vega and Vega-Lite are two libraries for creating interactive data visualizations. Vega gives more control to users, while Vega-Lite is more high-level and easier to use
 * [DSPy](https://github.com/stanfordnlp/dspy): "DSPy is a framework for algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline." -- text in DSPy's GitHub repo
 * [Papermill](https://github.com/nteract/papermill): Papermill is a tool for parameterizing, executing, and analyzing Jupyter Notebooks
+* [CTGAN](https://github.com/sdv-dev/CTGAN): "CTGAN is a collection of Deep Learning based synthetic data generators for single table data" -- CTGAN's GitHub repository
 
 ## Recommended
 
