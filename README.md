@@ -8,7 +8,7 @@ My Apache Zeppelin and Jupyter notebooks, and more! For a series of valuable dat
 
 <div align="center">
   
-<img src="http://scikit-learn.org/stable/_static/ml_map.png" alt="ML algorithms" width="800" height="500" />
+<img src="http://scikit-learn.org/1.3/_static/ml_map.png" alt="ML algorithms" width="800" height="500" />
 
 <div align="left">
   
