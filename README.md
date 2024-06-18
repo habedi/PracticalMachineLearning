@@ -350,6 +350,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Polars](https://pola.rs/): Polars is another alternative to Pandas. It's fast, and its code is powered by a multithreaded, vectorized query engine written in Rust programming language
 * [Shapash](https://maif.github.io/shapash/): Shapash is a Python library for making machine learning models interpretable. It uses Shap or Lime libraries as a backend to compute feature contributions
 * [Pandera](https://www.union.ai/pandera): Pandera is a Python library for testing and validating the data
+* [Scikit-lego](https://github.com/koaning/scikit-lego): Scikit-lego is an extension library for Scikit-learn that adds new datasets, transformations, and models on top of Scikit-learn
 
   
 ## Additional Useful Resources
