@@ -351,6 +351,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Shapash](https://maif.github.io/shapash/): Shapash is a Python library for making machine learning models interpretable. It uses Shap or Lime libraries as a backend to compute feature contributions
 * [Pandera](https://www.union.ai/pandera): Pandera is a Python library for testing and validating the data
 * [Scikit-lego](https://github.com/koaning/scikit-lego): Scikit-lego is an extension library for Scikit-learn that adds new datasets, transformations, and models on top of Scikit-learn
+* [Timm](https://timm.fast.ai): Timm is a computer vision library on top of PyTorch providing computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations, etc. to make it easier to work with computer vision tasks
 
   
 ## Additional Useful Resources
