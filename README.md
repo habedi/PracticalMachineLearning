@@ -352,6 +352,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Pandera](https://www.union.ai/pandera): Pandera is a Python library for testing and validating the data
 * [Scikit-lego](https://github.com/koaning/scikit-lego): Scikit-lego is an extension library for Scikit-learn that adds new datasets, transformations, and models on top of Scikit-learn
 * [Timm](https://timm.fast.ai): Timm is a computer vision library on top of PyTorch providing computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations, etc. to make it easier to work with computer vision tasks
+* [Ibis](https://ibis-project.org/): Ibis is dataframe library that supports different backends including DuckDB and Polars
 
   
 ## Additional Useful Resources
