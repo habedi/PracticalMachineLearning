@@ -353,8 +353,8 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Scikit-lego](https://github.com/koaning/scikit-lego): Scikit-lego is an extension library for Scikit-learn that adds new datasets, transformations, and models on top of Scikit-learn
 * [Timm](https://timm.fast.ai): Timm is a computer vision library on top of PyTorch providing computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations, etc. to make it easier to work with computer vision tasks
 * [Ibis](https://ibis-project.org/): Ibis is dataframe library that supports different backends including DuckDB and Polars
+* [Trax](https://github.com/google/trax): Trax is a high-level deep learning library that makes it easy to create end-to-end machine learning pipelines
 
-  
 ## Additional Useful Resources
 
 * [PyPy Python Implementation](https://pypy.org): A stackless alternative implementation for Python's runtime 
