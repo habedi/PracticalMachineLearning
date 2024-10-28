@@ -354,6 +354,7 @@ This document attempts to develop a curated list of Machine Learning resources, 
 * [Timm](https://timm.fast.ai): Timm is a computer vision library on top of PyTorch providing computer vision models, layers, utilities, optimizers, schedulers, data-loaders, augmentations, etc. to make it easier to work with computer vision tasks
 * [Ibis](https://ibis-project.org/): Ibis is dataframe library that supports different backends including DuckDB and Polars
 * [Trax](https://github.com/google/trax): Trax is a high-level deep learning library that makes it easy to create end-to-end machine learning pipelines
+* [Torchvision]:(https://pytorch.org/vision/stable/index.html): Torchvision is a library based on PyTorch that consists of popular datasets, model architectures, and common image transformations for computer vision tasks
 
 ## Additional Useful Resources
 
